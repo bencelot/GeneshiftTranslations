@@ -136,7 +136,6 @@
 "XL1000_SERVERFRIENDLYFIRE","Friendly Fire","Friendly Fire"
 "XL1000_SERVERALLOWMERCS","Allow Mercs","Söldner erlauben"
 "XL1000_SERVERMISSIONS","Missions","Missionen"
-"XL1000_SERVERRESURRECTION","Random Rezs","Wiederbelebung"
 "XL1000_SERVERCIVILIANS","Civilians","Zivilisten"
 "XL1000_SERVERDYNAMICSQUADS","Dynamic Squads","Dynamische Teams"
 "XL1000_SERVERNOPENALTIES","No Penalties","Keine Strafen"
@@ -198,7 +197,7 @@
 "XL1001_GETDLCTOACCESSKILLCOINS","80% of the kill coins you earn are locked. Upgrade now to access all locked coins!","80% der verdienten Münzen sind gesperrt. Upgrade jetzt, um Zugriff zu erhalten!"
 "XL1000_COMPLETETOGETREWARD","Complete this to get a reward!","Beende das hier, um eine Belohnung zu bekommen!"
 "XL1000_UNLOCKNEARBYITEM","You must unlock a nearby item before you can unlock this.","Du musst ein Item in der Nähe freischalten, bevor du das hier freischalten kannst."
-"XL1000_UNLOCKSREQUIRED","You need to unlock a total of {{%01%}} items before you can access this tier.",""
+"XL1001_UNLOCKSREQUIRED","You need to unlock all items in the previous tier before you can access this tier.",""
 "XL1000_HOWTOEARNKILLCOINS","Not enough Kill Coins. Earn Kill Coins by leveling up and completing challenges.","Nicht genug Killmünzen. Verdiene Münzen, indem du auflevelst und Herausforderungen meisterst."
 "XL1000_NOTENOUGHKILLCOINSDESC","Not enough Kill Coins. Upgrade to the full game to access all your locked kill coins!","Nicht genug Killmünzen. Upgrade auf das komplette Spiel, um die gesperrten Münzen zu bekommen!"
 "XL1000_LOGINTOUNLOCKITEMS","You must login to unlock items.","Du musst dich einloggen, um Items freizuschalten."
@@ -231,7 +230,7 @@
 "XL1002_LEADERBOARDS","LEADERBOARDS","RANGTABELLE"
 "XL1003_DAILYLEADERBOARDS","Daily XP Leaderboards","Tägliche XP Ranglisten"
 "XL1003_ALLTIMELEADERBOARDS","All Time XP Leaderboards","Meiste XP aller Zeiten"
-"XL1003_CASHEARENDLEADERBOARDS","Cash Earned Leaderboards","Geldverdiener-Ranglisten"
+"XL1003_CAMPAIGNLEADERBOARDS","Campaign Leaderboards",""
 "XL1002_TODAYBIG","TODAY","HEUTE"
 "XL1002_YESTERDAYBIG","YESTERDAY","GESTERN"
 "XL1002_ALLTIMEBIG","ALL TIME","INSGESAMT"
@@ -301,8 +300,9 @@
 "XL1000_GAMEPADTAB","GAMEPAD","GAMEPAD"
 "XL1000_QUICKCHATS","QUICK CHATS","SCHNELLE CHATS"
 "XL1000_LANGUAGE","Language","Sprache"
-"XL1000_SHOWFPS","Show FPS","Zeige FPS"
-"XL1000_SHOWCHAT","Show In-Game Chat","Zeige Chat"
+"XL1000_SHOWHUDINFO","Show Extra HUD Info",""
+"XL1000_SHOWCHAT","Show Player Chat","Zeige Chat"
+"XL1000_SHOWSERVERCHAT","Show Server Chat",""
 "XL1000_SHOWBOTCHAT","Show Bot Chat","Zeige Botchat"
 "XL1000_CAPAT30FPS","Cap at 30 FPS","Begrenze auf 30 FPS"
 "XL1000_AUTOBUYMENU","Automatically Open Buy Menu","Automatische Kaufmenü öffnen"
@@ -362,7 +362,7 @@
 "XL1000_MAXPARTICLES","Max Particles","Max. Partikel"
 "XL1000_MAXDECALS","Max Decals","Max. Dekore"
 "XL1000_HUDALPHA","HUD Alpha","HUD Transpar."
-"XL1000_HUDALPHA2","HUD Fade","HUD Ausblenden"
+"XL1000_HUDSIZE","HUD Size",""
 "XL1000_MENUHUE","Menu Hue","Menüfarbe"
 "XL1000_CURSORSIZE","Crosshair Size","Zeigergröße"
 "XL1000_GRAPHICSQUALITY","Graphics Quality","Grafikqualität"
@@ -403,6 +403,7 @@
 "XL1000_CHANGESELECTEDSKILL","Change Selected Skill","Skillauswahl ändern"
 "XL1000_CHANGESEATS","Change Seats","Sitze wechseln"
 "XL1000_RESETSKILLS","Reset Skills","Skills neuverteilen"
+"XL1000_GETSKILLS","Unlock Skills","Skills erwerben"
 "XL1000_CYCLEHOTKEYS","Cycle Hotkeys","Hotkeys wechseln"
 "XL1000_CYCLESKILLS","Reorganise Skills","Fähigkeit durchschhalten"
 "XL1000_CHATTOALL","Chat to All","Mit dem Server chatten"
@@ -674,6 +675,9 @@
 "XL1000_AWARDSSMALL","Awards","Auszeichnungen"
 "XL1000_PLAYERSMALL","Player","Spieler"
 "XL1000_SCORE","Score","Punkte"
+"XL1000_TOPSCORE","Top Score",""
+"XL1000_ENEMYCANWIN","Enemy Can Win!",""
+"XL1000_YOUCANWIN","You Can Win!",""
 "XL1000_REWARD","Reward","Belohnungen"
 "XL1000_REWARDED","Rewarded","Belohnung"
 "XL1000_UPCOMINGREWARD","Upcoming Rewards","Kommende Belohnungen"
@@ -714,7 +718,7 @@
 "XL1000_ENEMIESALIVE","Enemies Alive","Gegner am Leben"
 "XL1000_ALLIESALIVE","Allies Alive","Mitspieler am Leben"
 "XL1000_WANTEDLEVEL","Wanted Level","Fahndungslevel"
-"XL1000_TOTALCASHEARNEDBIG","TOTAL CASH EARNED","GESAMTES GELD"
+"XL1000_TOTALCASHEARNEDBIG","TOTAL CASH SCORE","GESAMTES GELD"
 "XL1000_EXPERIENCEEARNEDSMALL","Experience Earned","Erfahrung bekommen"
 "XL1000_TOTALDAMAGETAKENBIG","TOTAL DAMAGE TAKEN","GESAMTSCHADEN"
 "XL1000_WEAPONACCURACYBIG","WEAPON ACCURACY","WAFFENGENAUIGKEIT"
@@ -722,6 +726,7 @@
 "XL1000_EXPERIENCEEARNEDBIG","EXPERIENCE EARNED","ERFAHRUNG ERHALTEN"
 "XL1000_DAMAGETAKENBIG","DAMAGE TAKEN","SCHADEN ERLITTEN"
 "XL1000_CAMPAIGNTIMEBIG","CAMPAIGN TIME","KAMPAGNE ZEIT"
+"XL1000_TOTALSCOREBIG","TOTAL SCORE",""
 "XL1000_ITEMSUNLOCKED","Items Unlocked","Gegenstände freigeschaltet"
 "XL1000_UNLOCKFOR","UNLOCK FOR","FREISCHALTUNG FÜR"
 "XL1000_NOTENOUGHKILLCOINS","NOT ENOUGH KILL COINS","NICHT GENUG KILL MÜNZEN"
@@ -732,11 +737,10 @@
 "XL1000_STEALTHRATING","STEALTH RATING","SCHLEICHWERTUNG"
 "XL1000_SCORETAB_CHALLENGES","Challenges","Herausforderungen"
 "XL1000_SCORETAB_XPFROMKILLS","XP From Kills","XP durch Kills"
-"XL1000_SCORETAB_KILLS","Kills","Kills"
-"XL1000_SCORETAB_DEATHS","Deaths","Tode"
-"XL1000_SCORETAB_SURVIVALTIME","Survival Time","Überlebenszeit"
-"XL1000_SCORETAB_ROUNDMATCHWINS","Round & Match Wins","Runden- & Matchgewinne"
+"XL1000_SCORETAB_KILLSDEATHS","Kills & Deaths",""
+"XL1000_SCORETAB_ROUNDMATCHWINS","Round Wins","Runden- & Matchgewinne"
 "XL1000_SCORETAB_XPBONUSES","XP Bonuses","XP Boni"
+"XL1000_GAMEDURATION","Game Duration",""
 "XL1000_KILLCOINSEARNED","Kill Coins Earned","Killmünzen verdient"
 "XL1000_EXPERIENCEEARNED","Experience Earned","Erfahrung bekommen"
 "XL1000_KILLSTREAK","Kill Streak","Abschussreihe"
@@ -865,6 +869,7 @@
 "XL1000_HPS","hp/s","HP/s"
 "XL1000_S","s","s"
 "XL1000_XP","xp","XP"
+"XL1000_ARMOR","armor",""
 "XL1000_SHOP","Shop","Shop"
 "XL1000_COOLDOWN","Cooldown","Abklingzeit"
 "XL1000_OUTOFCOMBATTIME","Out of Combat Time","Zeit außerhalb von Kämpfen"
@@ -1401,7 +1406,7 @@
 "XL1000_YOUWEREKILLEDBY","You were killed by","Du wurdest getötet"
 "XL1000_YOUWILLBECAPTUREDBYZOMBIESIN","You will be captured by zombies in","Du wirst von Zombies gefangen in"
 "XL1000_SURVIVETHESWARMFORANOTHER","Survive the swarm for another","Überlebe die nächste Welle für weitere"
-"XL1000_THENEXTBOMBWILLAUTOMATICALLYTRIGGERIN","The next bomb will automatically trigger in","Die nächste Bombe wird automatisch aktiviert in"
+"XL1000_THENEXTBOMBWILLAUTOMATICALLYTRIGGERIN","The checkpoint will automatically trigger in","Die nächste Bombe wird automatisch aktiviert in"
 "XL1000_PRESSTOBUYWEAPONS","Press (B) to buy weapons.","Drücke (B) um Waffen an der Bombe zu kaufen."
 "XL1000_PRESSTORELOAD","Press (R) to reload.","Drücke (R) zum Nachladen."
 "XL1002_HOLDCTOPLACECHEMICALS","Press (CTRL) to place chemicals.","Halte (Z), um Chemikalien zu platzieren."
@@ -1659,7 +1664,7 @@
 "XL1000_MUTATIONDESC01","Gives you skill points. Level skills by holding [ALT]. Skills reset after each match.","Bringt die Fähigkeitspunkte. Du kannst Skills die du bereits entdeckt hast, verbessern indem du [ALT] hältst."
 "XL1002_PHASERDESC01","Increases how many phase shifts you can perform in a row. Press [SHIFT] to shift.","Erhöht die Anzahl an Phasenshifts. Drücke [UMSCHALT] um zu shiften."
 "XL1000_UPGRADESKILLTREES","Multi Builds","Multi-Builds"
-"XL1001_UPGRADESKILLTREES_DESC","Lets you to create builds that mix Cybernetic, Physical, and Mental skills together. However, you will have to pay a penalty of 4 skill points to unlock each additional tree, leaving fewer points for actual skills.","Lässt dich Builds erstellen, die kibernetische, physische und mentale Skills verbinden.
+"XL1001_UPGRADESKILLTREES_DESC","Lets you to create builds that mix Cybernetic, Physical, and Mental skills together. However, you will have to pay a penalty of 4 skill points to unlock each additional tree, leaving fewer points for actual skills.","Lässt dich Builds erstellen, die kibernetische, physische und mentale Skills verbinden.
 Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizuschalten, sodass am Ende weniger übrig bleibt."
 "XL1000_UPGRADEXPRATE","XP Multiplier","XP Multiplikator"
 "XL1000_UPGRADEXPRATE_DESC","Increases the XP you earn at the end of each match by 10%. This is added on top of the 50% bonus you get for unlocking the full game. This is applied to all forms of XP earned except challenges.","Erhöht die XP, die du am Ende des Matches bekommst, um 10%. Dies wird auf den 50% Bonus aufgerechnet, den du beim Freischalten des vollen Spiels bekommst. Gilt für alle verdienten XP bis auf Herausforderungen."
@@ -1749,7 +1754,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1001_CHALLENGE_LASTMANSTANDING_DESC","Win a battle royale round.","Gewinne eine Runde Battle Royale."
 "XL1001_CHALLENGE_FLYINGSAMURAI_DESC","Knife 2 enemies while falling from the sky.","Steche zwei Gegner beim Fallen aus dem Himmel ab."
 "XL1000_CHALLENGE_ZOMBIEATTACK_DESC","Kill a living player as a zombie.","Töte einen Spieler als Zombie."
-"XL1000_CHALLENGE_CHICKENDINNER_DESC","Top the scoreboard at the end of an entire battle royale match.","Führe die Rangliste am Ende einer ganzen Solo oder Duo Runde an."
+"XL1000_CHALLENGE_CHICKENDINNER_DESC","Win a battle royale match.","Führe die Rangliste am Ende einer ganzen Solo oder Duo Runde an."
 "XL1000_CHALLENGE_BLINDLUCK_DESC","Kill an enemy player while blinded by a Flash Bang.","Töte einen Gegner während du von einer Blendgranate geblendet bist."
 "XL1000_CHALLENGE_ROADKILL_DESC","Run over and kill an enemy player with a vehicle.","Töte einen Gegner durch Überfahren."
 "XL1000_CHALLENGE_PACIFIST_DESC","Win a round without harming any enemy players or zombies.","Gewinne eine Solorunde ohne Gegner oder Zombies Schaden zuzufügen."
@@ -1788,7 +1793,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_MARKSMAN_DESC","Using the Barrett M98B, land 10 shots in a row without missing. This must be done in a single round without hitting vehicles.","Benutze die Barrett M98B, treffe 10 mal in Folge ohne danebenzuschiessen. Dies muss in einer Runde passieren und ohne Fahrzeuge zu treffen."
 "XL1000_CHALLENGE_REVENGE_DESC","As a zombie, kill the enemy player who most recently killed you.","Töte als Zombie den Spieler, der dich zu letzt getötet hat."
 "XL1000_CHALLENGE_CLOSESHAVE_DESC","Kill an enemy and survive with less than 20 hitpoints remaining.","Töte einen Gegner und überlebe mit weniger als 10 HP übrig."
-"XL1001_CHALLENGE_OVERHEAL_DESC","Collect enough health kits to reach 150 max hitpoints.","Sammle genug Gesundheits-Kits, um bis zum Maximum von 150 HP zu heilen."
+"XL1002_CHALLENGE_OVERHEAL_DESC","Collect enough health kits to reach 200 max hitpoints.",""
 "XL1000_CHALLENGE_HATTRICK_DESC","Kill 3 enemies (zombies included) in the same kill combo.","Töte 3 Gegner (inkl. Zombies) mit einem Kill Combo."
 "XL1000_CHALLENGE_WALLOFFLAMES_DESC","Kill 2 enemies (zombies included) with the same Molotov Cocktail.","Töte 2 Gegner (inkl. Zombies) mit dem gleichen Molotov Cocktail."
 "XL1000_CHALLENGE_MANICMECHANIC_DESC","Destroy an enemy vehicle with your knife.","Zerstöre ein gegnerisches Fahrzeug mit deinem Messer."
@@ -1805,7 +1810,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1001_CHALLENGE_MONEYBAGS_DESC","Save up $20,000 of in-game cash.","Spare 30.000$ an Spielgeld."
 "XL1000_CHALLENGE_KILLERCLIP_DESC","Kill 2 enemy players with the same gun without reloading.","Töte 2 Spieler mit der gleichen Waffe, ohne Nachzuladen."
 "XL1000_CHALLENGE_PISTOLPRACTICE_DESC","Deal 300 hitpoints of pistol damage against enemy players in a single round.","Mache 300 Pistolenschaden gegen Spieler in einer einzigen Runde."
-"XL1000_CHALLENGE_CIVSLAUGHTER_DESC","Kill 15 civilians in a single round.","Töte 15 Zivilisten in einer Runde."
+"XL1001_CHALLENGE_CIVSLAUGHTER_DESC","Kill 20 civilians in a single round.",""
 "XL1000_CHALLENGE_DRIVEBY_DESC","Kill an enemy player by firing out the window of a car.","Töte einen Gegner, während du im Auto sitzt."
 "XL1000_CHALLENGE_SILENTSTABBINGS_DESC","Kill 5 enemy players with a knife. You have the entire match to do this.","Töte 5 gegnerische Spieler mit einem Messer. Du hast eine ganze Runde dafür Zeit."
 "XL1000_CHALLENGE_SURVIVOR_DESC","Stay alive for 5 minutes.","Bleibe 5 Minuten am Leben."
@@ -1920,6 +1925,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1005_SIMPLELOAD_BATTLEROYALE_HTP_03","To win, first reach {{%01%}} points, then win one final round",""
 "XL1003_SIMPLELOAD_BATTLEROYALE_TIP_01","If you're a zombie, find the Genetic Heart to revive",""
 "XL1003_SIMPLELOAD_BATTLEROYALE_TIP_02","Save cash to buy more powerful guns on future rounds",""
+"XL1003_SIMPLELOAD_BATTLEROYALE_TIP_03","Higher 'wanted levels' make civilians drop more loot",""
 "XL1000_SIMPLELOAD_EXTRACTION_HTP_01","Follow the white arrow on your screen","Folge den weißen Pfeilen auf dem Bildschirm"
 "XL1000_SIMPLELOAD_EXTRACTION_HTP_02","Carry objectives to their extraction locations","Transportiere Ziele in ihre Zielzone"
 "XL1000_SIMPLELOAD_EXTRACTION_HTP_03","The first team to extract all the objectives wins","Das erste Team, das alle Ziele extrahiert gewinnt!"
@@ -1954,7 +1960,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_SIMPLELOAD_CAMPAIGN_SPOILERWARNING_02","This level is ahead of your current progress in the campaign. There will be spoilers!","Dieser Abschnitt ist weiter als dein aktueller Fortschritt in der Standard Kampagne. Spoilerwarnung!"
 "XL1004_SIMPLELOAD_STEALTH_TIP_01","Press (SHIFT) to dodge enemy attacks","Drücke (UMSCHALT) um gegnerischen Attacken auszuweichen"
 "XL1004_SIMPLELOAD_STEALTH_TIP_02","Press (B) to buy ammo from checkpoints","Drücke (B) um Munition von Kontrollpunkten zu kaufen"
-"XL1004_SIMPLELOAD_STEALTH_TIP_03","Earn extra cash with sweet combo kills","Verdiene extra Geld mit Kombokills"
+"XL1004_SIMPLELOAD_STEALTH_TIP_03","Earn extra cash and score with kill combos","Verdiene extra Geld mit Kombokills"
 "XL1001_AWARDSINFO1","Experience gained from awards is used to unlock items in the ITEMS page.","Erfahrung von Errungenschaften wird benutzt, um neue Items freizuschalten."
 "XL1000_AWARDSINFO2","The size of the rewards depend on the duration and number of players in the server.","Die Größe der Belohnung richtet sich nach der Dauer und der Nummer der Spieler auf dem Server."
 "XL1000_AWARDSINFO3","you have not logged in and aren't eligible for any awards","du hast dich nicht eingeloggt und kannst daher keine Belohnungen erhalten"
@@ -2061,29 +2067,29 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHEMICAL_GOOTRAP","Goo Trap","Schmierfalle"
 "XL1000_CHEMICAL_LASERTRIPWIRE","Laser Tripwire",""
 "XL1000_CHEMICAL_FISSIONMINE","Fission Mine",""
-"XL1004_CHEMICAL_SYNTHETICSHOP_DESC01","Creates a buy zone only you and your allies can use.",""
+"XL1004_CHEMICAL_SYNTHETICSHOP_DESC01","Creates a shop only you and your allies can use.",""
 "XL1001_CHEMICAL_SYNTHETICSHOP_DESCHUD","Buy zone",""
 "XL1001_CHEMICAL_SYNTHETICSHOP_DESCHUDCARRY","{{%01%}} ammo",""
-"XL1005_CHEMICAL_CAPTURER_DESC02","Used to capture Conquest control points instantly. Place this directly onto a control point to capture it.","Wird benutzt, um Kontrollpunkte ohne Wartezeit einzunehmen. Platziere es direkt auf einen Kontrollpunkt zum Einnehmen."
+"XL1005_CHEMICAL_CAPTURER_DESC02","Used to capture Conquest control points. Place this directly onto a control point to capture it.","Wird benutzt, um Kontrollpunkte ohne Wartezeit einzunehmen. Platziere es direkt auf einen Kontrollpunkt zum Einnehmen."
 "XL1001_CHEMICAL_ALCHEMICACID_DESC01","Lets you sell weapons for cash when they're dropped into your acid.","Verkauft Waffen gegen Geld, wenn sie reingeworfen werden."
 "XL1000_CHEMICAL_ALCHEMICACID_DESCHUD","Sells weapons","Verkauft Waffen"
 "XL1001_CHEMICAL_ALCHEMICACID_DESCHUDCARRY","{{%01%}} cash",""
-"XL1002_CHEMICAL_WARPFIELD_DESC01","Teleports you to your other Warp Fields. Stand inside it, hold ALT, and click an arrow to teleport across the map.","Teleportiert dich über die Karte. Im Warpfeld werden Pfeile angezeigt, die zu anderen Warpfeldern, zur Basis und Kontrollpunkten zeigen. Halte ALT zum teleportieren gedrückt."
+"XL1002_CHEMICAL_WARPFIELD_DESC01","Teleports you to your other Warp Fields. Stand inside it, hold ALT, and click an arrow to teleport.","Teleportiert dich über die Karte. Im Warpfeld werden Pfeile angezeigt, die zu anderen Warpfeldern, zur Basis und Kontrollpunkten zeigen. Halte ALT zum teleportieren gedrückt."
 "XL1000_CHEMICAL_WARPFIELD_DESCHUD","Teleports","Teleportiert"
 "XL1001_CHEMICAL_WARPFIELD_DESCHUDCARRY","{{%01%}} shifts",""
-"XL1000_CHEMICAL_SONARCELLS_DESC01","Reveals enemies behind walls when standing inside it.","Zeigt Gegner sobald sie in der Sonarzelle stehen. Sie werden auf der Karte angezeigt und durch einen Pfeil im HUD markiert. Auch unsichtbare Gegner werde gezeigt."
+"XL1000_CHEMICAL_SONARCELLS_DESC01","Reveals enemies behind walls who stand inside it.","Zeigt Gegner sobald sie in der Sonarzelle stehen. Sie werden auf der Karte angezeigt und durch einen Pfeil im HUD markiert. Auch unsichtbare Gegner werde gezeigt."
 "XL1000_CHEMICAL_SONARCELLS_DESCHUD","Reveals enemies","Feinde aufdecken"
 "XL1001_CHEMICAL_SONARCELLS_DESCHUDCARRY","Extra vision",""
 "XL1000_CHEMICAL_DAMAGEUPGRADE_DESC01","Increases your weapon damage by","Erhöht Waffenschaden um"
 "XL1000_CHEMICAL_DAMAGEUPGRADE_DESC02","for","für"
-"XL1000_CHEMICAL_HEALTHUPGRADE_DESC01","Restores your health at a rate of","Heilt mit einer Rate von"
+"XL1000_CHEMICAL_HEALTHUPGRADE_DESC01","Restores your health at","Heilt mit einer Rate von"
 "XL1000_CHEMICAL_HEALTHUPGRADE_DESC02","for","für"
-"XL1001_CHEMICAL_MANAUPGRADE_DESC01","Restores your mana at a rate of","Regeneriert Mana mit einer Rate von"
+"XL1001_CHEMICAL_MANAUPGRADE_DESC01","Restores your mana at","Regeneriert Mana mit einer Rate von"
 "XL1001_CHEMICAL_MANAUPGRADE_DESC02","for","für"
-"XL1004_CHEMICAL_NEUTRALIZER_DESC01","Destroys all chemicals you're standing in. You'll also get paid the combined value of all desroyed chemicals.",""
+"XL1005_CHEMICAL_NEUTRALIZER_DESC01","Destroys all chemicals you're standing in and pays you for each chemical destroyed.",""
 "XL1004_CHEMICAL_NEUTRALIZER_DESCHUDCARRY","Chemical immunity",""
 "XL1000_CHEMICAL_INSULATOR_DESC01","Protects your chemicals from enemy Neutralizers. Place this on a chemical and if an enemy tries to neutralize it, it will remove the Insulator but save the original chemical. Can only be used once per chemical.","Schützt deine Chemikalien vor dem Neutralisierer. Platziere dies auf einer Chemikalie und ein Gegner der den Neutralisierer verwendet wird nur den Isolator entfernen. Nur einmal pro Chemikalie nutzbar."
-"XL1000_CHEMICAL_REVEALER_DESC01","Reveals the location of nearby enemy chemicals making them easier to neutralize. The revealing range is","Zeigt, wo die nächsten gegnerischen Chemikalien sind, um sie einfacher auszulöschen.
+"XL1000_CHEMICAL_REVEALER_DESC01","Reveals the location of nearby enemy chemicals making them easier to neutralize. The revealing range is","Zeigt, wo die nächsten gegnerischen Chemikalien sind, um sie einfacher auszulöschen.
 Die Anzeigereichweite ist"
 "XL1002_CHEMICAL_CONCEALER_DESC01","Upgrade: Makes the chemical you're standing in permanently invisible to enemies.",""
 "XL1002_CHEMICAL_GOOTRAP_DESC01","Enemies in your Goo Trap are slowed by","Verlangsame Gegner um"
@@ -2091,7 +2097,7 @@ Die Anzeigereichweite ist"
 "XL1002_CHEMICAL_GOOTRAP_DESCHUDCARRY","Bullets slow enemies",""
 "XL1000_CHEMICAL_LASERTRIPWIRE_DESC01","Fires a laser at enemies who walk through it. This removes {{%01%}} of their current health.",""
 "XL1000_CHEMICAL_LASERTRIPWIRE_DESCHUD","Attacks enemies",""
-"XL1001_CHEMICAL_LASERTRIPWIRE_DESCHUDCARRY","Removes recoil",""
+"XL1001_CHEMICAL_LASERTRIPWIRE_DESCHUDCARRY","Reduces recoil",""
 "XL1000_CHEMICAL_FISSIONMINE_DESC01","Explodes for {{%01%}}hp damage shortly after an enemy steps inside it.",""
 "XL1000_CHEMICAL_FISSIONMINE_DESCHUD","Explosive mine",""
 "XL1001_CHEMICAL_FISSIONMINE_DESCHUDCARRY","Throw 2x grenades",""
@@ -2104,7 +2110,7 @@ Die Anzeigereichweite ist"
 "XL1002_CHEMICAL_HEALTHUPGRADE_PASSIVE_DESC01","{{%01%}} max hitpoints.",""
 "XL1002_CHEMICAL_MANAUPGRADE_PASSIVE_DESC01","{{%01%}} max mana.",""
 "XL1002_CHEMICAL_NEUTRALIZER_PASSIVE_DESC01","Immunity to enemy chemicals.",""
-"XL1002_CHEMICAL_LASERTRIPWIRE_PASSIVE_DESC01","Removes recoil.",""
+"XL1002_CHEMICAL_LASERTRIPWIRE_PASSIVE_DESC01","Reduces recoil.",""
 "XL1002_CHEMICAL_FISSIONMINE_PASSIVE_DESC01","Throw 2x grenades.",""
 "XL1002_CHEMICAL_WHENHELD","When Held",""
 "XL1002_CHEMICAL_WHENPLACED","When Placed",""
@@ -2189,12 +2195,12 @@ Die Anzeigereichweite ist"
 "XL1001_SKILL_SWIFTSTALKER_DESC_01","Increases your speed while invisible.","Erhöht deine Laufgeschwindigkeit, während du unsichtbar bist."
 "XL1001_SKILL_SWIFTSTALKER_DESC_02","You'll do less damage for longer.","Du machst länger weniger Schaden."
 "XL1001_SKILL_LIGHTSHIFTING_DESC_01","Increases the rate you regain shifts.","Du bekommst schneller Shifts wieder."
-"XL1002_SKILL_LIGHTSHIFTING_DESC_02","Reduces your max hitpoints.","Verringert deine maximalen HP."
+"XL1003_SKILL_LIGHTSHIFTING_DESC_02","Reduces your max mana.","Verringert deine maximale Mana."
 "XL1000_SKILL_BOUNCINGBULLETS_DESC_01","Bounces bullets off your force field.","Gegnerische Kugeln prallen bei deinen Kraftfeldern ab und werden den Gegner zielsuchend verfolgen."
 "XL1003_SKILL_BOUNCINGBULLETS_DESC_02","Reduces the damage of your force field explosion.","Verringert den Schaden deiner Kraftfeldexplosion."
 "XL1001_SKILL_BLACKHOLE_DESC_01","Creates a spinning vortex on the ground that slows enemies.","Erschafft einen Wirbel auf dem Boden, der Gegner verlangsamt."
 "XL1003_SKILL_ENERGIZE_DESC_01","Increases your bullet speed.","Erhöht die Projektilgeschwindigkeit."
-"XL1002_SKILL_ENERGIZE_DESC_02","Reduces your max mana.","Verringert deine maximale Mana."
+"XL1003_SKILL_ENERGIZE_DESC_02","Reduces your max hitpoints.","Verringert deine maximalen HP."
 "XL1003_SKILL_ADRENALINRUSH_DESC_01","Increases your movement speed while reloading your primary weapon.",""
 "XL1002_SKILL_ADRENALINRUSH_DESC_02","Increases reload time.","Erhöht Nachladezeit."
 "XL1000_SKILL_XRAYVISION_DESC_01","Reveals nearby enemies when you stand still. Your allies will also see these enemies.","Zeigt nahe Gegner an, wenn du stehenbleibst. Deine Verbündeten werden sie auch sehen."
@@ -2327,7 +2333,7 @@ Die Anzeigereichweite ist"
 "XL1000_NC_CHATSERVER","Chat to the Server","Chatte mit dem Server"
 "XL1000_NC_KILLENEMY","Kill a Player","Töte einen Gegner"
 "XL1000_NC_PICKUPGUN","Pick up a Gun","Sammle eine Waffe aus"
-"XL1000_NC_ENTERVEHICLE","Enter a Vehicle","In Fahrzeug einsteigen"
+"XL1000_NC_BOOSTVEHICLE","Boost in a Vehicle",""
 "XL1001_NC_RESETSKILLS","Reset Skill Build","Skill Build zurücksetzen"
 "XL1000_NC_UNLOCKSKILLS","Unlock Skills","Schalte eine Fähigkeit frei"
 "XL1000_NC_CASTSKILL","Cast a Skill","Benutze eine Fähigkeit"
@@ -2350,29 +2356,29 @@ Die Anzeigereichweite ist"
 "XL1000_NC_GETSHIFTY","Get Shifty","Nicht nur eine Phase"
 "XL1000_NC_WINTHEGAME","Win the Game","Gewinne das Spiel"
 "XL1000_NC_KNIFEKILL","Get a Knife Kill","Mach' einen Messerkill"
-"XL1001_NC_RESURRECT_DESC","Kill a living player to resurrect. Or loot cash and guns for next round.","Töte einen lebenden Spieler, um sich wiederzubeleben. Oder loote Geld und Waffen für die nächste Runde."
+"XL1001_NC_RESURRECT_DESC","There are two ways to resurrect - killing a survivor, or finding the Genetic Heart.","Töte einen lebenden Spieler, um sich wiederzubeleben. Oder loote Geld und Waffen für die nächste Runde."
 "XL1002_NC_CHATSERVER_DESC","Press (ENTER) to chat. Say 'wassup' to receive a bonus 20xp!","Drücke (ENTER) zum Chatten. Sage 'hey', um 50Xp zu bekommen!"
 "XL1003_NC_KILLENEMY_DESC","Each kill gives you +1 score. Round wins give +20. First to 50 wins.","Jeder Kill gibt die +1 Punkt. Eine gewonnene Runde +20. Erster mit 50 Punkten gewinnt."
 "XL1001_NC_PICKUPGUN_DESC","Stand on a gun and press (E). Your ammo is shown at the bottom right.","Stell' dich auf eine Waffe und drücke (E). Deine Muni wird unten rechts angezeigt."
-"XL1000_NC_ENTERVEHICLE_DESC","Stand next to a car and press (E). You can fire out windows, and boost with (Right Mouse).","Stell' dich neben ein Fahrzeug und drücke (E). Wechsle Sitze mit (F-Tasten) und booste mit der rechten Maustaste."
+"XL1001_NC_BOOSTVEHICLE_DESC","Enter a car by pressing (E). You can fire out the windows. Hold (Right Mouse) to use its boost.",""
 "XL1007_NC_RESETSKILLS_DESC","Hold (ALT) and click 'Reset Skill Build' from the drop-down skills menu up the top of the screen.","Halte (ALT) und klicke auf 'Skill Build erneuern' vom Drop-Down Skill Menü oben auf dem Bildschirm."
 "XL1006_NC_UNLOCKSKILLS_DESC","Spend 4 skill points on 'Self Repair'. You can buy skill points or reset your build at any time.","Verwende 4 Skill Punkte auf 'Selbstreparation'. Du kannst jederzeit Skillpunkte kaufen oder den Build neu machen."
 "XL1005_NC_CASTSKILL_DESC","Cast Self Repair with Right Click. Collect cash to buy more skill points and become more powerful!","Verwende 'Selbstreparatur' mit Rechtsklick. Sammle Geld, um mehr Skillpunkte zu kaufen und werde stärker!"
-"XL1000_NC_COLLECTSOULS_DESC","This is the Outbreak game mode. To win you need to kill zombies, collect their souls and return them to the bomb. Try using skills with large splash damage.","Die ist der Outbreak Spielmodus. Um zu gewinnen musst du Zombies töten und ihre Seelen zur Bombe bringen. Skills mit großem Flächenschaden sind meist effizienter als Waffen."
-"XL1001_NC_RETURNSOULS_DESC","After collecting souls you need to return them to the bomb. You'll gain score, cash, mana, hp and XP for every soul you return. Follow the arrow on your screen to take your souls to the bomb. Hold (TAB) to see your score.","Nachdem du Seelen aufgesammelt hast, bring sie zur Bombe. Du erhältst Punkte, Geld, Mana und Erfahrung für jede zurückgebrachte Seele. Die extra Erfahrung hilft dir durch das Freischalten neuer Skills. Folge den weißen Pfeilen um Seelen zur Bombe zu bringen. Mit [TAB] siehst du die Punktetafel."
+"XL1000_NC_COLLECTSOULS_DESC","This is the Outbreak game mode. To win you need to kill zombies, collect their souls and return them to the bomb.","Die ist der Outbreak Spielmodus. Um zu gewinnen musst du Zombies töten und ihre Seelen zur Bombe bringen. Skills mit großem Flächenschaden sind meist effizienter als Waffen."
+"XL1001_NC_RETURNSOULS_DESC","After collecting souls you need to return them to the bomb. Follow the arrow on your screen to take your souls to the bomb. Hold (TAB) to see your score.","Nachdem du Seelen aufgesammelt hast, bring sie zur Bombe. Du erhältst Punkte, Geld, Mana und Erfahrung für jede zurückgebrachte Seele. Die extra Erfahrung hilft dir durch das Freischalten neuer Skills. Folge den weißen Pfeilen um Seelen zur Bombe zu bringen. Mit [TAB] siehst du die Punktetafel."
 "XL1005_NC_BUYSYNTHETICSHOP_DESC","Buy the 'Synthetic Shop' chemical. When you carry this chemical, your ammo will last longer.",""
 "XL1005_NC_PLACESYNTHETICSHOP_DESC","Place 'Synthetic Shop' by pressing (CTRL). This create a buy zone.",""
 "XL1005_NC_USESYNTHETICSHOP_DESC","Stand in your 'Synthetic Shop' and press (B) and buy ammo.",""
 "XL1005_NC_PICKUPCHEMICAL_DESC","Pick up your chemical by standing in it and pressing (CTRL).",""
 "XL1004_NC_BUYCAPTURER_DESC","This is the Conquest game mode where you need to capture all of the Control Points in the map. You can do this extra fast with the 'Capturer' chemical. Buy a 'Capturer' chemical from your spawn zone.","Dies ist der Eroberungsmodus, wo du alle Kontrollpunkte auf der Map einnehmen musst. Du kannst das extra schnell mit der 'Einnehmer'-Chemikalie machen. Kaufe sie im Chemieshop im Spawn."
 "XL1003_NC_CAPTURECPOINT_DESC","Capture a point by holding (CTRL) and placing your Capturer on top of it. Hold (TAB) to see scores.","Nehme einen Punkt ein, indem du (Z) drückst und platziere deine Chemikalie da drauf. Halte (TAB), um die Punktzahlen zu sehen."
-"XL1000_NC_CAPTUREOBJECTIVE_DESC","This is the Extraction game mode. Follow the white arrow on your screen to capture your team's flag.","Dies ist der Extraktionsmodus. Um zu gewinnen musst du Missionsziele extrahieren (Flagge, Radio, Truck). Folge den weißen Pfeilen zum aktuellen Missionsziel."
+"XL1000_NC_CAPTUREOBJECTIVE_DESC","This is the Extraction game mode. Follow the white arrow on your screen to capture the enemy flag.","Dies ist der Extraktionsmodus. Um zu gewinnen musst du Missionsziele extrahieren (Flagge, Radio, Truck). Folge den weißen Pfeilen zum aktuellen Missionsziel."
 "XL1000_NC_EXTRACTOBJECTIVE_DESC","Follow the arrow and take the flag to the enemy flag near your spawn. Hold (TAB) to see your score.","Wenn du ein Ziel eingenommen hast musst du es extrahieren. Folge den weißen Pfeilen zur Extraktionszone. Erfolgreiche Extraktionen geben dir und deinem Team Punkte. Arbeitet zusammen. [TAB] für eine Übersicht."
-"XL1000_NC_CAPTUREBATTERY_DESC","This is the Checkpoint game mode. To win you need to pick up the Battery with a vehicle. Enter a vehicle, then follow the white arrow on your screen to pick up the Battery.","Dies ist der Checkpoint Modus. Um zu gewinnen musst du die Batterie mit einem Fahrzeug mehrere Runden herumfahren. Kaufe ein Fahrzeug und folge den weißen Pfeilen zur Batterie."
+"XL1000_NC_CAPTUREBATTERY_DESC","This is the Checkpoint game mode. To win you need do laps with the Battery in a vehicle. Grab a car, then follow the white arrow on your screen to pick up the Battery.","Dies ist der Checkpoint Modus. Um zu gewinnen musst du die Batterie mit einem Fahrzeug mehrere Runden herumfahren. Kaufe ein Fahrzeug und folge den weißen Pfeilen zur Batterie."
 "XL1000_NC_COMPLETELAP_DESC","Follow the white arrow on your screen to drive the battery through each of the checkpoints. Hold (TAB) to see your score.","Sobald du die Batterie hast, musst du sie durch Kontrollpunkte fahren um Runden abzuschließen. Wenn das gegnerische Team die Batterie hat, kannst du sie mit Straßensperren aufhalten. Absolvierte Runden mit der Batterie geben dir und deinem Team Punkte. Arbeitet zusammen. [TAB] für eine Übersicht."
-"XL1004_NC_NEUTRALIZECHEMICAL_DESC","Buy the 'Neutralizer' chemical and place it inside an enemy chemical to destroy it (hold CTRL).",""
+"XL1004_NC_NEUTRALIZECHEMICAL_DESC","Buy the 'Neutralizer' chemical and place it inside a chemical (yours or an enemies) to destroy it and earn cash (hold CTRL).",""
 "XL1001_NC_OPENGUIDE_DESC","Press (F10) to finish this tutorial. This opens the How to Play Guide if you want to learn more.","Drücke (F10), um das Tutorial zu beenden. Dies öffnet die 'Wie man spielt' Hilfe, wenn du mehr wissen willst."
-"XL1001_NC_LASTMANSTANDING_DESC","Try to survive the round! This takes 2 minutes and gives +20 score.","Versuche die Runde zu überleben! Das dauert 2 Minuten und gibt +20 Punkte."
+"XL1001_NC_LASTMANSTANDING_DESC","Try to survive the round! This takes 3 minutes and gives +20 score.","Versuche die Runde zu überleben! Das dauert 2 Minuten und gibt +20 Punkte."
 "XL1001_NC_BUYWEAPON_BR_DESC","Stand inside a buy zone (the yellow circles), and press (B) to buy ammo.","Stell dich in eine Kaufzone (gelbe Kreise) und drücke (B), um Munition zu kaufen."
 "XL1000_NC_GETSHIFTY_DESC","Press (SHIFT) to shift. Shifts are shown below your health bar.","Drücke (SHIFT), um zu shiften. Shifts werden unter der HP angezeigt."
 "XL1001_NC_WINTHEGAME_DESC","When you get 50 points you gain extra damage. Then win one final round to win the game!","Sobald du 50 Punkte bekommst, machst du doppelten Schaden. Gewinne dann eine letzte Runde, um das Spiel zu gewinnen!"
@@ -2391,13 +2397,13 @@ Die Anzeigereichweite ist"
 "XL1000_TUTORIALCONTROL12","Show Scoreboard","Punktetabelle zeigen"
 "XL1000_HELP_NEWBIECHECKLIST","Play the Tutorial","Spiele das Tutorial"
 "XL1000_HELP_MINIMAP","Game Information","Spielinformation"
-"XL1000_HELP_HEALTH","Health Info","Lebensinfo"
+"XL1000_HELP_HEALTH","Health & Mana","Lebensinfo"
 "XL1000_HELP_WEAPONS","Weapons & Ammo","Waffen & Munition"
 "XL1000_HELP_SKILLS","Active Skills","Aktive Skills"
 "XL1000_HELP_NEWBIECHECKLIST_INFO","Learn to play and earn bonus XP!","Erlerne das Spiel mit der Neulings-Checkliste. Du bekommst für jeden Auftrag extra Erfahrung."
-"XL1000_HELP_MINIMAP_INFO","Your score and the player count are shown under the minimap.","Deine Punktzahl und die Spielerzahl werden unter der Minimap angezeigt."
-"XL1000_HELP_HEALTH_INFO","Your health, mana, cash, and shifts are shown here.","Deine Leben, Mana, dein Geld und deine Shifts werden hier angezeigt."
-"XL1000_HELP_WEAPONS_INFO","Press 1, 2, 3 to select weapons, and press G to throw grenades.","Drücke 1, 2, 3, um Waffen auszuwählen und 4 für Granaten."
+"XL1001_HELP_TOPBAR_INFO","The player count, timer, and your score are shown here.",""
+"XL1001_HELP_HEALTH_INFO","Your health, mana and shifts are shown down here.",""
+"XL1000_HELP_WEAPONS_INFO","Press 1, 2, 3 to select weapons, and middle mouse to throw grenades.","Drücke 1, 2, 3, um Waffen auszuwählen und 4 für Granaten."
 "XL1000_HELP_SKILLS_INFO","Press Right Mouse, C & F to cast skills. Hold ALT to buy skill points.","Drücke die rechte Maustaste, C & F um Skills zu nutzen. Halte ALT, um Skillpunkte zu kaufen."
 "XL1000_TUTBASICS","Game Overview","Spiel Übersicht"
 "XL1000_TUTCOMBAT","Combat Tips","Tipps zum Kampf"
