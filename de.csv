@@ -236,23 +236,32 @@
 "XL1002_ALLTIMEBIG","ALL TIME","INSGESAMT"
 "XL1002_SETUPGAMEBIG","SETUP GAME","SPIEL EINSTELLEN"
 "XL1002_XPEARNEDBIG","XP EARNED","XP VERDIENT"
+"XL1002_TOPSTATSBIG","TOP STATS",""
+"XL1002_WINSTREAKBIG","WIN STREAK",""
+"XL1002_KILLSTREAKBIG","KILL STREAK",""
+"XL1002_RECRUITSBIG","RECRUITS",""
+"XL1002_KILLSBIG","KILLS",""
+"XL1002_CONSECUTIVEWINS","Consecutive BR Wins",""
+"XL1002_PLAYERSRECRUITED","Players Recruited",""
 "XL1002_CAMPAIGNBIG","CO-OP CAMPAIGN","KAPAGNE"
 "XL1000_KILLCOINSBIG","KILL COINS","KILL-MÜNZEN"
-"XL1000_SPEEDRUNSBIG","SPEEDRUNS","SPEEDRUNS"
+"XL1000_SPEEDRUNSBIG","SPEED RUNS","SPEEDRUNS"
 "XL1000_SINGLERUNSBIG","SINGLE RUNS","EINZELNE RUNS"
 "XL1000_YOURPROGRESS","Your Progress","Dein Fortschritt"
 "XL1000_TODAYSLEADERS","Today's Leaders","Heutige Beste"
 "XL1000_YESTERDAYSLEADERS","Yesterday's Leaders","Gestrige Beste"
 "XL1000_PREVIOUSLEADERS","Previous Leaders","Bisherige Beste"
 "XL1000_ALLTIMELEADERS","All Time Leaders","Beste aller Zeiten"
+"XL1000_THISMONTHSLEADERS","This Month's Leaders",""
 "XL1000_LEADERS","Leaders","Beste"
 "XL1000_TOTALCASHEARNED","Total Cash Earned","Insgesamt Geld verdient"
 "XL1000_HOURSPLAYED","Hours Played","Stunden gespielt"
 "XL1000_HOURSRECRUITED","Hours Played by Recruits","Stunden rekrutiert"
 "XL1000_TOTALRECRUITS","Total Recruits","Rekrutierte Personen"
-"XL1000_BONUSKILLCOINS","Bonus Kill Coins","Bonus Kill-Münzen"
+"XL1000_BONUSKILLCOINS","Bonus Kill Coins Earned","Bonus Kill-Münzen"
 "XL1000_LATESTRECRUIT","Latest Recruit","Letzter Rekrut"
 "XL1000_RECRUITS","recruits","Rekruten"
+"XL1000_FREESTEAMKEY","free steam key",""
 "XL1000_TOTALXPEARNED","Total XP Earned","Insgesamt XP verdient"
 "XL1000_TOTALKILLCOINSEARNED","Total Kill Coins Earned","Kill-Münzen insgesamt bekommen"
 "XL1000_DAILYXPEARNED","Daily XP Earned","Tägliche XP verdient"
@@ -265,8 +274,6 @@
 "XL1000_DIRECTIP","Direct IP Search","Direkte IP-Suche"
 "XL1000_PORT","Port","Port"
 "XL1000_PASSWORD","Password","Passwort"
-"XL1000_PLAYWITHFRIENDS","Play With Friends!","Spiele mit Freunden!"
-"XL1000_PAUSINGDISABLED","Note: This will disable pausing.","Notiz: Dies deaktiviert den Pausemodus."
 "XL1000_APPLYSMALL","Apply","Anwenden"
 "XL1000_USEFILTERS","Use Filters","Filter anwenden"
 "XL1001_INTERNET","Internet & LAN","Internet & LAN"
@@ -442,13 +449,18 @@
 "XL1000_EXIT","EXIT","EXIT"
 "XL1000_QUITGAME","QUIT GAME","SPIEL BEENDEN"
 "XL1000_LEAVEPARTY","LEAVE PARTY","PARTY VERLASSEN"
-"XL1000_CREATEPARTY","CREATE PARTY","PARTY ERSTELLEN"
+"XL1000_SOMEFRIENDSONLINE","{{%01%}} FRIENDS ONLINE",""
+"XL1000_ONEFRIENDONLINE","1 FRIEND ONLINE",""
+"XL1000_PLAYWITHFRIENDS","PLAY WITH FRIENDS","Spiele mit Freunden!"
 "XL1000_INVITEFRIEND","INVITE FRIENDS","FREUNDE EINLADEN"
+"XL1000_ADDFRIEND","ADD FRIEND",""
 "XL1000_CREATEAPARTY","Invite Steam Friends to your Party","Steamfreunde zur Party einladen"
 "XL1000_NOFRIENDSONLINE","None of your Steam friends are currently online.","Keiner deiner Steamfreunde ist gerade online."
-"XL1000_STEAMINVITESNEEDSFULLGAME","Due to Steam's technical limitations, demo users can't invite friends.","Aufgrund der Limitierungen von Steam können Demo Spieler keine Freunde einladen."
+"XL1000_STEAMINVITESNEEDSFULLGAME","Due to Steam's technical limitations, demo users can't create parties.","Aufgrund der Limitierungen von Steam können Demo Spieler keine Freunde einladen."
 "XL1000_LOBBYINVITED","invited","eingeladen"
 "XL1000_LOBBYPLAYING","playing","spielt"
+"XL1000_ALREADYINPARTY","Already In Party",""
+"XL1000_PLAYINGGENESHIFT","Playing Geneshift",""
 "XL1000_LOBBYDIFFSERVER","diff server","anderer Server"
 "XL1000_LOBBYREADY","ready","bereit"
 "XL1000_LOBBYMENU","menu","Menü"
@@ -456,6 +468,7 @@
 "XL1000_LOBBYSEARCHING","searching","suchend"
 "XL1000_JOINLEADERSSERVER","Join Leader's Server","Dem Leiter beitreten"
 "XL1000_WAITINGONPARTYLEADER","Waiting for Leader","Warte auf Leiter"
+"XL1000_JOININGSERVER","Joining Server",""
 "XL1000_LOBBYREADYBIG","READY","BEREIT"
 "XL1000_LOBBYJOINBIG","JOIN","BEITRETEN"
 "XL1000_FAILEDTOJOINSERVER","Failed to Join Server","Beitreten nicht erfolgreich"
@@ -466,8 +479,8 @@
 "XL1000_CREATEOPTIONALPASSWORD","Add an Optional Password","Optionales Passwort hinzufügen"
 "XL1000_EMAILOPTIONAL","Email","E-Mail"
 "XL1000_CLANTAG","Clan Tag","Clantag"
-"XL1000_STEAMKEY","Complete Edition Steam Key","Steam Key"
-"XL1000_REFERRAL","Referral","Empfehlung"
+"XL1000_STEAMKEY","Free Steam Key","Steam Key"
+"XL1000_SHARETHISLINK","Share this Link",""
 "XL1000_MUTANTSMALL","Mutant","Mutant"
 "XL1000_LOGINSMALL","Login","Einloggen"
 "XL1000_LOGGEDIN","Logged In","Eingeloggt"
@@ -709,6 +722,8 @@
 "XL1000_DEATHSSMALL","deaths","tode"
 "XL1000_WEAPONACCURACY","Weapon Accuracy","Genauigkeit"
 "XL1000_BIGGESTKILLSTREAK","Biggest Kill Streak","Längste Anbschussreihe"
+"XL1000_BIGGESTWINSTREAK","Biggest Win Streak",""
+"XL1000_CURRENTWINSTREAK","Current Win Streak",""
 "XL1000_GUARDCASH","Guard cash","Geld Wachen"
 "XL1000_GUARDCASHSMALL","cash","Geld Wachen"
 "XL1000_DAMAGESMALL","damage","Schaden"
@@ -735,12 +750,22 @@
 "XL1000_INGAMEZOMBIEKILLSBIG","FROM ZOMBIE KILLS","VON ZOMBIEKILLS"
 "XL1000_MULTIPLAYERLEVELBIG","MULTIPLAYER LEVEL","MULTISPIELER LEVEL"
 "XL1000_STEALTHRATING","STEALTH RATING","SCHLEICHWERTUNG"
-"XL1000_SCORETAB_CHALLENGES","Challenges","Herausforderungen"
-"XL1000_SCORETAB_XPFROMKILLS","XP From Kills","XP durch Kills"
+"XL1000_SCORETAB_CHALLENGESWINS","XP From Challenges",""
+"XL1000_SCORETAB_XPFROMKILLS","XP From Kills & Wins","XP durch Kills"
 "XL1000_SCORETAB_KILLSDEATHS","Kills & Deaths",""
-"XL1000_SCORETAB_ROUNDMATCHWINS","Round Wins","Runden- & Matchgewinne"
-"XL1000_SCORETAB_XPBONUSES","XP Bonuses","XP Boni"
+"XL1000_SCORETAB_BRWINSTREAKBONUS","Win Streak Bonus",""
+"XL1000_SCORETAB_HEXGRIDBONUSES","Hex Grid Bonuses",""
 "XL1000_GAMEDURATION","Game Duration",""
+"XL1000_BRWINSTREAK","BR Win Streak",""
+"XL1000_NOTAPPLICABLE","N/A",""
+"XL1000_PLUSONEADDED","+{{%01%}} added",""
+"XL1000_STEAMKEYUNLOCKED","Free Steam Key Unlocked!",""
+"XL1000_FULLGAMEUNLOCKED","FULL GAME UNLOCKED",""
+"XL1000_THANKSFORBUYINGGENESHIFT","Thanks for Buying Geneshift!",""
+"XL1000_FROM1NEWRECRUIT","From 1 New Recruit",""
+"XL1000_FROMXNEWRECRUITS","From {{%01%}} New Recruits",""
+"XL1000_FROMDAILYLEADERBOARDS","From Daily Leaderboards",""
+"XL1000_FROMRECRUITSANDLEADERBOARDS","From Recruits and Leaderboards",""
 "XL1000_KILLCOINSEARNED","Kill Coins Earned","Killmünzen verdient"
 "XL1000_EXPERIENCEEARNED","Experience Earned","Erfahrung bekommen"
 "XL1000_KILLSTREAK","Kill Streak","Abschussreihe"
@@ -1214,6 +1239,7 @@
 "XL1000_SLIDING","sliding","schlittern"
 "XL1000_TIMELEFT","Time Left","Zeit übrig"
 "XL1000_KILLCOINSAWARDEDIN","Kill Coins Awarded In","Killmünzen verdient in"
+"XL1000_THISBOARDRESETSEACHMONTH","This leaderboard resets each month",""
 "XL1000_STEALTHLEADERBOARDS","STEALTH LEADERBOARDS","Schleichen Rangliste"
 "XL1000_CAMPAIGNLEADERBOARDS","CAMPAIGN LEADERBOARDS","Kampagne Rangliste"
 "XL1000_OUTBREAKLEADERBOARDS","OUTBREAK LEADERBOARDS","OUTBREAK RANGLISTE"
@@ -1302,6 +1328,7 @@
 "XL1000_WARMUPROUND","Warmup Round","Aufwärmrunde"
 "XL1001_ROYALEROUNDSTART01","Frenzy!","Raserei!"
 "XL1001_ROYALEROUNDSTART02","The Battle Begins!","Der Kampf beginnt!"
+"XL1001_ROYALEROUNDSTART03","Your win streak is {{%01%}}!",""
 "XL1000_SCIENTISTS","Scientists","Forscher"
 "XL1000_REBELS","Rebels","Rebellen"
 "XL1000_SCIENTISTSLEAD","Scientists lead","Scientists führen"
@@ -1435,9 +1462,8 @@
 "XL1001_GETTHECOMPLETEEDITION","Get the Complete Edition","Hol dir die Complete Edition"
 "XL1003_BASICACCOUNTDESC00","Get the Complete Edition DLC on Steam to unlock the full game. Support development and unlock these cool features!","Hole dir das"
 "XL1000_BASICACCOUNTDESC01","Geneshift is on sale for a limited time on Steam. Upgrade now to support development and get the full game for cheap!","Geneshift ist für limitierte Zeit auf Steam im Angebot. Upgrade jetzt, um die Entwicklung zu unterstützen und hol' dir das volle Spiel für wenig Geld!"
-"XL1001_GETAFREESTEAMKEY","Get a Free Steam Key!","Hol' dir einen kostenlosen Steam Schlüssel!"
-"XL1002_FREESTEAMKEY","FREE GAME",""
-"XL1002_KEYUNLOCKED","KEY UNLOCKED!",""
+"XL1002_GETAFREESTEAMKEY","Get Geneshift for Free!",""
+"XL1002_FREESTEAMKEY","FREE STEAM KEY",""
 "XL1009_FREEACCOUNTDESC01","Singleplayer/Co-op Campaign","Einzelspieler/Co-op Kampagne"
 "XL1009_FREEACCOUNTDESC02","Access All Locked Kill Coins","Greife auf gesperrte Killmünzen zu"
 "XL1009_FREEACCOUNTDESC03","Unlock 70 New Challenges","Entsperre 70 neue Herausforderungen"
@@ -1448,11 +1474,14 @@
 "XL1009_FREEACCOUNTDESC03_DESC","Complete challenges of increasing difficulty and gain bonus rewards. You'll also be able to complete one extra daily challenge per day.","Meistere Herausforderungen von steigenden Schwierigkeitsgraden und verdiene Boni. Außerdem schaltest du damit eine weitere tägliche Herausforderung frei."
 "XL1009_FREEACCOUNTDESC04_DESC","Gain a +50% bonus to all XP earned each match (excluding challenges).","Verdiene +50% XP in jedem Match (inklusive Herausforderungen)."
 "XL1009_FREEACCOUNTDESC05_DESC","Display this medallion next to your name in the leaderboards and chat.","Zeige diesen Medallion neben deinem Namen in Ranglisten und im Chat."
-"XL1000_FREEKEYDESC01","Share this link online to get the full game for free!","Teile diesen Link um Geneshift umsonst zu bekommen!"
-"XL1002_FREEKEYDESC02","After someone has clicked this link and downloads the game, they'll become your recruit (even if they play the free edition).","Wenn Leute diesen Link anklicken und das Spiel runterladen, werden sie deine Rekruten (auch wenn sie die kostenlose Version Spielen)."
-"XL1002_FREEKEYDESC03","Also, once your recruits play a combined total of 100 hours the box below will reveal a key for the full game and Complete Edition DLC!","Übrigens, sobald deine Rekruten 100 Stunden gespielt haben, bekommst du einen Key für die Vollversion des Spiels MIT dem DLC!"
-"XL1002_FREEKEYDESC04","For every hour that any of your recruits play you will gain","Für jede Stunde, die deine Rekruten spielen wirst du bekommen:"
-"XL1003_THEYHAVEEARNEDYOU","They've also earned you","Sie haben dir verdient:"
+"XL1004_REFERRAL_INFO","Share this link with friends to get recruits and awesome rewards!",""
+"XL1004_REFERRAL_FREESTEAMKEY","Free Steam Key","Steam Key"
+"XL1004_REFERRAL_FREESTEAMKEY_DESC","Get the Complete Edition DLC for FREE! You simply need to recruit {{%01%}} players. Then a key will automatically appear in the box above.",""
+"XL1004_REFERRAL_BONUSKILLCOINS","Bonus Kill Coins",""
+"XL1004_REFERRAL_BONUSKILLCOINS_DESC01","Whenever you gain a new recruit you'll receive:",""
+"XL1004_REFERRAL_BONUSKILLCOINS_DESC02","Every 5th recruit will give you an additional:",""
+"XL1004_REFERRAL_SIGNUPBONUS","Recruit Signup Bonus",""
+"XL1004_REFERRAL_SIGNUPBONUS_DESC","Players become your recruits by clicking the link above then installing Geneshift. As a bonus, they'll start with +{{%01%}} coins for using your link.",""
 "XL1000_SUCCESS","Success!","Erfolg!"
 "XL1000_SUCCESSFULLYLOGGEDINAS","Successfully logged in as","Erfolgreich eingeloggt als"
 "XL1000_INVALIDPROFILEDETECTED","Invalid Profile Detected.","Ungültiges Profil erkannt."
@@ -1664,7 +1693,7 @@
 "XL1000_MUTATIONDESC01","Gives you skill points. Level skills by holding [ALT]. Skills reset after each match.","Bringt die Fähigkeitspunkte. Du kannst Skills die du bereits entdeckt hast, verbessern indem du [ALT] hältst."
 "XL1002_PHASERDESC01","Increases how many phase shifts you can perform in a row. Press [SHIFT] to shift.","Erhöht die Anzahl an Phasenshifts. Drücke [UMSCHALT] um zu shiften."
 "XL1000_UPGRADESKILLTREES","Multi Builds","Multi-Builds"
-"XL1001_UPGRADESKILLTREES_DESC","Lets you to create builds that mix Cybernetic, Physical, and Mental skills together. However, you will have to pay a penalty of 4 skill points to unlock each additional tree, leaving fewer points for actual skills.","Lässt dich Builds erstellen, die kibernetische, physische und mentale Skills verbinden.
+"XL1001_UPGRADESKILLTREES_DESC","Lets you to create builds that mix Cybernetic, Physical, and Mental skills together. However, you will have to pay a penalty of 4 skill points to unlock each additional tree, leaving fewer points for actual skills.","Lässt dich Builds erstellen, die kibernetische, physische und mentale Skills verbinden.
 Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizuschalten, sodass am Ende weniger übrig bleibt."
 "XL1000_UPGRADEXPRATE","XP Multiplier","XP Multiplikator"
 "XL1000_UPGRADEXPRATE_DESC","Increases the XP you earn at the end of each match by 10%. This is added on top of the 50% bonus you get for unlocking the full game. This is applied to all forms of XP earned except challenges.","Erhöht die XP, die du am Ende des Matches bekommst, um 10%. Dies wird auf den 50% Bonus aufgerechnet, den du beim Freischalten des vollen Spiels bekommst. Gilt für alle verdienten XP bis auf Herausforderungen."
@@ -1991,6 +2020,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_DISCONNECTWARNINGRANKED","You are currently committed to a ranked match. If you leave now you'll be counted as losing this round.","Sicher, dass du die Verbindung trennen willst. Du spielst momentan in einem gewerteten Match. Durch einen Abbruch verlierst du Respekt."
 "XL1000_DISCONNECTWARNINGCAMPAIGN","If you leave now then any progress you've made on this campaign level will not be saved.","Willst du die Verbindung trennen? Wenn du das Spiel verlässt wird jeder Fortschritt in der Kampagne nicht gespeichert."
 "XL1000_DISCONNECTWARNING","Are you sure you want to leave this match?","Bist du sicher, dass du die Runde verlassen willst?"
+"XL1000_DISCONNECTWARNINGSTREAK","Your win streak will drop from {{%01%}} to {{%02%}} and you'll miss the end of round XP bonuses.",""
 "XL1000_LEAVEPARTYWARNINGTITLE","Leave Party","Party verlassen"
 "XL1000_LEAVEPARTYWARNINGDESC","Are you sure you want to leave this party?","Bist du sicher, dass du die Party verlassen willst?"
 "XL1000_QUITWARNINGTITLE","Quit Game","Spiel beenden"
@@ -2089,7 +2119,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1005_CHEMICAL_NEUTRALIZER_DESC01","Destroys all chemicals you're standing in and pays you for each chemical destroyed.",""
 "XL1004_CHEMICAL_NEUTRALIZER_DESCHUDCARRY","Chemical immunity",""
 "XL1000_CHEMICAL_INSULATOR_DESC01","Protects your chemicals from enemy Neutralizers. Place this on a chemical and if an enemy tries to neutralize it, it will remove the Insulator but save the original chemical. Can only be used once per chemical.","Schützt deine Chemikalien vor dem Neutralisierer. Platziere dies auf einer Chemikalie und ein Gegner der den Neutralisierer verwendet wird nur den Isolator entfernen. Nur einmal pro Chemikalie nutzbar."
-"XL1000_CHEMICAL_REVEALER_DESC01","Reveals the location of nearby enemy chemicals making them easier to neutralize. The revealing range is","Zeigt, wo die nächsten gegnerischen Chemikalien sind, um sie einfacher auszulöschen.
+"XL1000_CHEMICAL_REVEALER_DESC01","Reveals the location of nearby enemy chemicals making them easier to neutralize. The revealing range is","Zeigt, wo die nächsten gegnerischen Chemikalien sind, um sie einfacher auszulöschen.
 Die Anzeigereichweite ist"
 "XL1002_CHEMICAL_CONCEALER_DESC01","Upgrade: Makes the chemical you're standing in permanently invisible to enemies.",""
 "XL1002_CHEMICAL_GOOTRAP_DESC01","Enemies in your Goo Trap are slowed by","Verlangsame Gegner um"
