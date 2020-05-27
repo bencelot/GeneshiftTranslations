@@ -1,15 +1,15 @@
 "location","source","target"
 "XL1000_TRANSLATION_MADE_BY","This translation was made by:","Übersetzt von:"
-"XL1000_ADD_YOUR_NAMES_HERE","yourusername","chross, hoschi111, Panossa"
+"XL1000_ADD_YOUR_NAMES_HERE","yourusername","chross, hoschi111, Panossa, tommy33790"
 "XL1000_THANKYOU","Thank you!","Danke!"
-"XL1000_TRANSLATIONERRORS","This translation is managed by the community and may contain a few errors. If you see any issues please contact us on discord! https://discord.gg/geneshift (or bencelot@geneshift.net)","Diese Übersetzung wird von der Community verwaltet und kann Fehler enthalten. Wenn du welche entdeckst, melde dich über Discord! https://discord.gg/geneshift (bencelot@geneshift.net)"
+"XL1000_TRANSLATIONERRORS","This translation is managed by the community and may contain a few errors. If you see any issues please contact us on discord! https://discord.gg/geneshift (or bencelot@geneshift.net)","Diese Übersetzung wird von der Community verwaltet und kann Fehler enthalten. Wenn du welche entdeckst, melde dich über Discord! https://discord.gg/geneshift (oder bencelot@geneshift.net)"
 "XL1000_PLAY","PLAY","SPIELEN"
 "XL1000_MULTIPLAYER","MULTIPLAYER","MEHRSPIELER"
-"XL1000_UNLOCKS","UNLOCKS","Freigeschaltet"
+"XL1000_UNLOCKS","UNLOCKS","FREIGESCHALTET"
 "XL1000_GAMEINFO","GAME INFO","SPIEL INFO"
 "XL1000_SERVERINFO","SERVER INFO","SERVER INFO"
 "XL1001_QUICKPLAY","QUICK PLAY","SCHNELLES SPIEL"
-"XL1003_SOLONCOOP","SOLO / CO-OP",""
+"XL1003_SOLONCOOP","SOLO / CO-OP","ALLEIN / KOOPERATIV"
 "XL1000_OPTIONS","OPTIONS","EINSTELLUNGEN"
 "XL1000_MAPEDITOR","MAP EDITOR","KARTENEDITOR"
 "XL1000_MAINMENU","MAIN MENU","HAUPTMENÜ"
@@ -18,11 +18,11 @@
 "XL1000_JOINOURDISCORD","JOIN DISCORD","DEM DISCORD BEITRETEN"
 "XL1000_AWARDS","AWARDS","BELOHNUNGEN"
 "XL1000_STARTGAME","START GAME","SPIEL STARTEN"
-"XL1000_MODE_CHOOSEBESTSERVER","Auto Choose Best Server",""
+"XL1000_MODE_CHOOSEBESTSERVER","Auto Choose Best Server","BESTEN SERVER AUTOMATISCH WÄHLEN"
 "XL1000_MODE_CAMPAIGN","Campaign","Kampagne"
 "XL1000_MODE_BATTLEROYALE","Battle Royale","Battle Royale"
-"XL1000_MODE_DAILYSURVIVALRUN","Daily Survival Run",""
-"XL1000_MODE_DAILYSURVIVALRUNCOMPLETED","Daily Survival Run Completed!",""
+"XL1000_MODE_DAILYSURVIVALRUN","Daily Survival Run","Tägliches Überlebensspiel"
+"XL1000_MODE_DAILYSURVIVALRUNCOMPLETED","Daily Survival Run Completed!","Tägliches Überlebensspiel Geschafft!"
 "XL1001_MODE_CONQUEST","Team Conquest","Team Eroberung"
 "XL1001_MODE_DEATHMATCH","FFA Deathmatch","FFA Deathmatch"
 "XL1000_MODE_EXTRACTION","Capture the Flag","Flagge Erobern"
@@ -31,8 +31,8 @@
 "XL1000_HOSTINGOPTIONS","HOSTING OPTIONS","HOST-OPTIONEN"
 "XL1000_START","START","START"
 "XL1000_LOADED","(loaded)","(geladen)"
-"XL1000_FINISHCAMPAIGN","FINISH CAMPAIGN","KAMPAGNE ABSCHLIEßEN"
-"XL1000_FINISHDEMOCAMPAIGN","FINISH DEMO CAMPAIGN","DEMO KAMPAGNE ABSCHLIEßEN"
+"XL1000_FINISHCAMPAIGN","FINISH CAMPAIGN","KAMPAGNE ABSCHLIESSEN"
+"XL1000_FINISHDEMOCAMPAIGN","FINISH DEMO CAMPAIGN","DEMO KAMPAGNE ABSCHLIESSEN"
 "XL1000_CONTINUE","CONTINUE","WEITER"
 "XL1000_REALLOCATE","REALLOCATE","NEU ZUTEILEN"
 "XL1000_COMMON","COMMON","ALLGEMEIN"
@@ -58,7 +58,7 @@
 "XL1000_CUSTOMSERVERLOBBY","CUSTOM SERVER LOBBY","BENUTZERDEFINIERTE LOBBY"
 "XL1000_SERVERJOINGAME","JOIN GAME","SPIEL BEITRETEN"
 "XL1000_SERVERSTARTGAME","START GAME","SPIEL STARTEN"
-"XL1000_SERVERSTARTCASHRUN","START XP-RUN","CASHRUN STARTEN"
+"XL1000_SERVERSTARTCASHRUN","START XP-RUN","XP-RUN STARTEN"
 "XL1000_SERVERSTARTSPEEDRUN","START SPEEDRUN","SPEEDRUN STARTEN"
 "XL1000_GAMEOPTIONS","GAME OPTIONS","SPIELOPTIONEN"
 "XL1000_PLAYERS","PLAYERS","SPIELER"
@@ -140,7 +140,7 @@
 "XL1000_SERVERALLOWMERCS","Allow Mercs","Söldner erlauben"
 "XL1000_SERVERMISSIONS","Missions","Missionen"
 "XL1000_SERVERCIVILIANS","Civilians","Zivilisten"
-"XL1000_SERVERDYNAMICSQUADS","Dynamic Squads","Dynamische Teams"
+"XL1000_SERVERDYNAMICSQUADS","Dynamic Squads","Dynamische Geschwader"
 "XL1000_SERVERNOPENALTIES","No Penalties","Keine Strafen"
 "XL1000_SERVERCARSNCHEMS","Cars & Chems","Fahrzeuge & Chemikalien"
 "XL1000_SERVERCUSTWEAPONS","Cust. Weapons","Veränderte Waffen"
@@ -150,7 +150,7 @@
 "XL1000_SERVERTEAMVICTORY","Team Victory","Teamsieg"
 "XL1000_SERVERFFA","Free for All","Frei für alle"
 "XL1000_SERVERDUOS","Partner Duos","Partner Doppel"
-"XL1000_SERVERSQUADSIZE","Max Squad Size","Maximale Gruppengröße"
+"XL1000_SERVERSQUADSIZE","Max Squad Size","Maximale Geschwadergröße"
 "XL1000_SERVERNUMROUNDS","Num Rounds","Num Runden"
 "XL1000_SERVERROUNDDURATION","Round Time (s)","Rundenzeit (s)"
 "XL1000_SERVEROBJECTIVES","Objectives","Ziele"
@@ -171,7 +171,7 @@
 "XL1000_SERVERCONTROLPOINTS","C. Points","Kontrollpunkte"
 "XL1000_SERVERKILLSPERPOINT","Cap Cooldown","Kills pro Punkt"
 "XL1000_SERVERRECAPTURING","Recapturing","Zurückerobern"
-"XL1000_XROUNDS","{{%01%}} Rounds",""
+"XL1000_XROUNDS","{{%01%}} Rounds","{{%01%}} Runden"
 "XL1000_PLAYFUL","Playful","Leicht"
 "XL1000_STANDARD","Standard","Normal"
 "XL1000_HARDCORE","Hardcore","Hardcore"
@@ -189,29 +189,29 @@
 "XL1000_ULTIMATECHALLENGES","Ultimate Challenges","Ultimative Herausforderungen"
 "XL1000_BRSOLO","Solo","Solo"
 "XL1000_BRDUOS","Duos","Duo"
-"XL1000_COOPSURVIVALRUNS","Co-op Survival Runs",""
-"XL1000_COOPSURVIVALRUNSLOCKED","Co-op Survival Runs (DLC Only)",""
-"XL1000_BRCOOPSQUADS","Squads","Squads"
-"XL1000_SQUAD","Squad","Squad"
+"XL1000_COOPSURVIVALRUNS","Co-op Survival Runs","Kooperative Überlebensspiele"
+"XL1000_COOPSURVIVALRUNSLOCKED","Co-op Survival Runs (DLC Only)","Kooperative Überlebensspiele (Nur DLC)"
+"XL1000_BRCOOPSQUADS","Squads","Geschwader"
+"XL1000_SQUAD","Squad","Geschwader"
 "XL1000_BRTEAMS","Teams","Teams"
 "XL1000_BATTLEROYALESETTINGS","Battle Royale Settings","Battle Royale Einstellungen"
 "XL1000_CHOOSESTARTINGMAP","Choose Starting Map","Wähle Startkarte"
 "XL1000_CHOOSEGAMEMODE","Choose Game Mode","Spielmodus auswählen"
 "XL1000_BATTLEROYALECHALLENGES","Battle Royale Challenges","Battle Royale Herausforderungen"
-"XL1001_CLAIMTHEPREVIOUSCHALLENGE","You must complete a nearby challenge before attempting this.","Du musst eine Herausforderung in der Nähe beenden, bevor du hiermit anfängst."
-"XL1001_GETDLCTOUNLOCKCHALLENGES","Get the full game to unlock this challenge and gain more rewards!","Hol' dir das komplette Spiel, um diese Herausforderung freizuschalten und mehr Belohnungen zu bekommen!"
+"XL1001_CLAIMTHEPREVIOUSCHALLENGE","You must complete a nearby challenge before attempting this.","Du musst erst eine Herausforderung in der Nähe beenden."
+"XL1001_GETDLCTOUNLOCKCHALLENGES","Get the Supporters DLC to unlock this challenge and gain more rewards!","Hol' dir das komplette Spiel, um diese Herausforderung freizuschalten und mehr Belohnungen zu bekommen!"
 "XL1001_GETDLCTOACCESSKILLCOINS","80% of the kill coins you earn are locked. Upgrade now to access all locked coins!","80% der verdienten Münzen sind gesperrt. Upgrade jetzt, um Zugriff zu erhalten!"
 "XL1000_COMPLETETOGETREWARD","Complete this to get a reward!","Beende das hier, um eine Belohnung zu bekommen!"
 "XL1000_UNLOCKNEARBYITEM","You must unlock a nearby item before you can unlock this.","Du musst ein Item in der Nähe freischalten, bevor du das hier freischalten kannst."
-"XL1001_UNLOCKSREQUIRED","You need to unlock all items in the previous tier before you can access this tier.",""
+"XL1001_UNLOCKSREQUIRED","You need to unlock all items in the previous tier before you can access this tier.","Du musst alle Gegenstände der vorherigen Stufe freischalten, bevor du Zugang zu dieser Stufe erhälst."
 "XL1000_HOWTOEARNKILLCOINS","Not enough Kill Coins. Earn Kill Coins by leveling up and completing challenges.","Nicht genug Killmünzen. Verdiene Münzen, indem du auflevelst und Herausforderungen meisterst."
-"XL1000_NOTENOUGHKILLCOINSDESC","Not enough Kill Coins. Upgrade to the full game to access all your locked kill coins!","Nicht genug Killmünzen. Upgrade auf das komplette Spiel, um die gesperrten Münzen zu bekommen!"
+"XL1001_NOTENOUGHKILLCOINSDESC","Not enough Kill Coins. Get the Supporters DLC to access all your locked kill coins!",""
 "XL1000_LOGINTOUNLOCKITEMS","You must login to unlock items.","Du musst dich einloggen, um Items freizuschalten."
-"XL1001_BONUSEXPERIENCEADDED","As you've already unlocked this item you have been awarded","Da du dieses Item schon freigeschaltet hast, hast du bekommen:"
+"XL1001_BONUSEXPERIENCEADDED","As you've already unlocked this item you have been awarded","Da du dieses Item schon freigeschaltet hast, bekommst du"
 "XL1001_UNLOCKINITEMSPAGE","You unlocked a new item!","Du hast ein neues Item freigeschaltet!"
 "XL1000_YOUCOMPLETEDTHISCHALLENGE","You completed this challenge!","Du hast diese Herausforderung beendet!"
 "XL1001_YOUUNLOCKEDANITEM","You unlocked an item","Du hast ein Item freigeschaltet"
-"XL1000_UNLOCKFULLGAME","UNLOCK FULL GAME","KOMPLETTES SPIEL FREISCHALTEN"
+"XL1001_GETSUPPORTERSDLC","GET SUPPORTERS DLC",""
 "XL1000_UPGRADENOW","UPGRADE NOW!","JETZT UPGRADEN!"
 "XL1000_VIEWCHALLENGEINFO","VIEW CHALLENGE INFO","HERAUSFORDERUNGSINFO ANZEIGEN"
 "XL1000_VIEWITEMINFO","VIEW ITEM INFO","GEGENSTANDSINFO ANZEIGEN"
@@ -234,23 +234,23 @@
 "XL1000_SERVERLOBBYTAB","SERVER LOBBY","SERVER LOBBY"
 "XL1000_SERVERHOSTTAB","HOST GAME","SPIEL HOSTEN"
 "XL1002_LEADERBOARDS","LEADERBOARDS","RANGTABELLE"
-"XL1004_DAILYLEADERBOARDS","Daily Leaderboards",""
+"XL1004_DAILYLEADERBOARDS","Daily Leaderboards","Tägliche Rangtabelle"
 "XL1003_ALLTIMELEADERBOARDS","All Time XP Leaderboards","Meiste XP aller Zeiten"
-"XL1003_CAMPAIGNLEADERBOARDS","Campaign Leaderboards",""
+"XL1003_CAMPAIGNLEADERBOARDS","Campaign Leaderboards","Kampagnenrangtabelle"
 "XL1002_TODAYBIG","TODAY","HEUTE"
 "XL1002_YESTERDAYBIG","YESTERDAY","GESTERN"
 "XL1002_ALLTIMEBIG","ALL TIME","INSGESAMT"
-"XL1002_THISMONTHBIG","THIS MONTH",""
+"XL1002_THISMONTHBIG","THIS MONTH","DIESER MONAT"
 "XL1002_SETUPGAMEBIG","SETUP GAME","SPIEL EINSTELLEN"
 "XL1002_XPEARNEDBIG","XP EARNED","XP VERDIENT"
-"XL1002_TOPSTATSBIG","TOP STATS",""
-"XL1002_SURVIVALRUNSBIGBIG","SURVIVAL RUNS",""
-"XL1002_WINSTREAKBIG","WIN STREAK",""
-"XL1002_KILLSTREAKBIG","KILL STREAK",""
-"XL1002_RECRUITSBIG","RECRUITS",""
-"XL1002_KILLSBIG","KILLS",""
-"XL1003_CONSECUTIVEWINS","Consecutive Survival Wins",""
-"XL1002_PLAYERSRECRUITED","Players Recruited",""
+"XL1002_TOPSTATSBIG","TOP STATS","BESTENSTATISTIK"
+"XL1002_SURVIVALRUNSBIGBIG","SURVIVAL RUNS","Überlebensspiele"
+"XL1002_WINSTREAKBIG","WIN STREAK","SIEGESREIHE"
+"XL1002_KILLSTREAKBIG","KILL STREAK","TÖTUNGSREIHE"
+"XL1002_RECRUITSBIG","RECRUITS","REKRUTEN"
+"XL1002_KILLSBIG","KILLS","TÖTUNGEN"
+"XL1003_CONSECUTIVEWINS","Consecutive Survival Wins","Aufeinanderfolgende Überlebenssiege"
+"XL1002_PLAYERSRECRUITED","Players Recruited","Rekrutierte Spieler"
 "XL1002_CAMPAIGNBIG","CAMPAIGN","KAMPAGNE"
 "XL1000_KILLCOINSBIG","KILL COINS","KILL-MÜNZEN"
 "XL1000_SPEEDRUNSBIG","SPEED RUNS","SPEEDRUNS"
@@ -260,7 +260,7 @@
 "XL1000_YESTERDAYSLEADERS","Yesterday's Leaders","Gestrige Beste"
 "XL1000_PREVIOUSLEADERS","Previous Leaders","Bisherige Beste"
 "XL1000_ALLTIMELEADERS","All Time Leaders","Beste aller Zeiten"
-"XL1000_THISMONTHSLEADERS","This Month's Leaders",""
+"XL1000_THISMONTHSLEADERS","This Month's Leaders","Die besten dieses Monats"
 "XL1000_LEADERS","Leaders","Beste"
 "XL1000_TOTALCASHEARNED","Total Cash Earned","Insgesamt Geld verdient"
 "XL1000_HOURSPLAYED","Hours Played","Stunden gespielt"
@@ -269,16 +269,16 @@
 "XL1000_BONUSKILLCOINS","Bonus Kill Coins Earned","Bonus Kill-Münzen"
 "XL1000_LATESTRECRUIT","Latest Recruit","Letzter Rekrut"
 "XL1000_RECRUITS","recruits","Rekruten"
-"XL1000_FREESTEAMKEY","free steam key",""
+"XL1000_FREESTEAMKEY","free steam key","Gratis Steam-Key"
 "XL1000_TOTALXPEARNED","Total XP Earned","Insgesamt XP verdient"
 "XL1000_TOTALKILLCOINSEARNED","Total Kill Coins Earned","Kill-Münzen insgesamt bekommen"
 "XL1000_DAILYXPEARNED","Daily XP Earned","Tägliche XP verdient"
 "XL1000_XPEARNEDSOFAR","XP Earned So Far","Bisher XP verdient"
-"XL1000_DAILYSURVIVALSCORE","Daily Survival Score",""
-"XL1000_TOPSURVIVALSCORE","Top Survival Score",""
+"XL1000_DAILYSURVIVALSCORE","Daily Survival Score","Tägliche Überlebenspunkte"
+"XL1000_TOPSURVIVALSCORE","Top Survival Score","Höchste Überlebenspunkte"
 "XL1000_MYKILLCOINS","My Kill Coins","Meine Kill-Münzen"
 "XL1000_LOCKEDCOINS","Locked Coins","Gesperrte Münzen"
-"XL1000_MYXPEARNED","My Total XP Earned","Meine gesamten XP Punkte"
+"XL1000_MYXPEARNED","My Total XP Earned","Meine gesamten XP"
 "XL1000_CONTROLSTAB","CONTROLS","STEUERUNG"
 "XL1000_PLAYERNAME","Player Name","Spielername"
 "XL1000_DIRECTIP","Direct IP Search","Direkte IP-Suche"
@@ -317,14 +317,14 @@
 "XL1000_GAMEPADTAB","GAMEPAD","GAMEPAD"
 "XL1000_QUICKCHATS","QUICK CHATS","SCHNELLE CHATS"
 "XL1000_LANGUAGE","Language","Sprache"
-"XL1000_SHOWHUDINFO","Show Extra HUD Info",""
+"XL1000_SHOWHUDINFO","Show Extra HUD Info","Extra HUD Informationen anzeigen"
 "XL1000_SHOWCHAT","Show Player Chat","Zeige Chat"
-"XL1000_SHOWSERVERCHAT","Show Server Chat",""
+"XL1000_SHOWSERVERCHAT","Show Server Chat","Server Chat anzeigen"
 "XL1000_SHOWBOTCHAT","Show Bot Chat","Zeige Botchat"
 "XL1000_CAPAT30FPS","Cap at 30 FPS","Begrenze auf 30 FPS"
 "XL1000_AUTOBUYMENU","Automatically Open Buy Menu","Automatische Kaufmenü öffnen"
 "XL1000_AUTOWEAPONPICKUP","Automatically Pick Up Weapons","Automatisch Waffen aufheben"
-"XL1000_BIRDSEYECAMERA","Birds Eye Camera",""
+"XL1000_BIRDSEYECAMERA","Birds Eye Camera","Vogelperspektive"
 "XL1000_SHOWHELP","Show Help Screen","Zeige Hilfebildschirm"
 "XL1000_SAVESCREENSHOT","Save Screenshot","Screenshot speichern"
 "XL1000_TILTCAMERAVIEW","Tilt Camera View","Gekippte Kamera"
@@ -342,7 +342,7 @@
 "XL1000_ROTATINGVEHICLECAMERA","Rotating Vehicle Camera","Perspektivische Fahrzeugkamera"
 "XL1000_CACHEMAPLIGHTING","Cache Map Lighting","Cache für Kartenbeleuchtung"
 "XL1000_AUTOMATICALLYDOWNLOADUPDATES","Auto Download Updates","Updates automatisch laden"
-"XL1001_SHOWSKILLQUEUES","Enable Skill Queues","Zeige Fhigkeitswarteschlange"
+"XL1001_SHOWSKILLQUEUES","Enable Skill Queues","Zeige Fähigkeitswarteschlange"
 "XL1001_SHOWMAPEDITOR","Enable Map Editor","Aktiviere Mapbearbeitung"
 "XL1001_ENABLECUSTOMSERVERLOBBY","Enable Custom Server Lobby","Aktiviere benutzerdefinierte Serverlobby"
 "XL1001_SHOWREFERRALINFO","Show Referral Info","Zeige Einladungsinfos"
@@ -365,7 +365,7 @@
 "XL1000_RESOLUTIONRESTARTREQUIRED","Resolution (Restart Required)","Auflösung (Neustart erforderlich)"
 "XL1000_WINDOWED","Windowed","Fenstermodus"
 "XL1000_FULLSCREENAUTO","Fullscreen (Borderless)","Vollbild (randlos)"
-"XL1001_ANTIALIASING","Anti-aliasing","Anti-aliasing"
+"XL1001_ANTIALIASING","Anti-aliasing","Kantenglättung"
 "XL1000_BLOOM","Bloom","Hochglanz"
 "XL1000_VERTICALSYNC","Vertical Sync","Vertikaler Sync"
 "XL1000_SEXYMAPLIGHTING","Sexy Map Lighting","Sexy Karteneffekte"
@@ -378,8 +378,8 @@
 "XL1000_PARTICLEGORE","Blood Intensity","Blutpartikel"
 "XL1000_MAXPARTICLES","Max Particles","Max. Partikel"
 "XL1000_MAXDECALS","Max Decals","Max. Dekore"
-"XL1000_HUDALPHA","HUD Alpha","HUD Transpar."
-"XL1000_HUDSIZE","HUD Size",""
+"XL1000_HUDALPHA","HUD Alpha","HUD Transparenz"
+"XL1000_HUDSIZE","HUD Size","HUD Größe"
 "XL1000_MENUHUE","Menu Hue","Menüfarbe"
 "XL1000_CURSORSIZE","Crosshair Size","Zeigergröße"
 "XL1000_GRAPHICSQUALITY","Graphics Quality","Grafikqualität"
@@ -404,7 +404,7 @@
 "XL1000_LEVELSKILLS","Level Skills","Skills ändern"
 "XL1000_OPENBUYMENU","Open Buy Menu","Kaufmenü öffnen"
 "XL1000_PLACECHEMICALS","Place/Pickup Chemicals","Chemikalien platzieren"
-"XL1000_PLACE","Place",""
+"XL1000_PLACE","Place","Platzieren"
 "XL1000_PICKUP","Pick up","Aufnehmen"
 "XL1000_CHEMICAL","Chemical","Chemikalie"
 "XL1000_UNLOCKSKILLS","Unlock Skills","Schalte eine Fähigkeit frei"
@@ -462,19 +462,19 @@
 "XL1000_EXIT","EXIT","EXIT"
 "XL1000_QUITGAME","QUIT GAME","SPIEL BEENDEN"
 "XL1000_LEAVEPARTY","LEAVE PARTY","PARTY VERLASSEN"
-"XL1000_SOMEFRIENDSONLINE","{{%01%}} FRIENDS ONLINE",""
-"XL1000_ONEFRIENDONLINE","1 FRIEND ONLINE",""
-"XL1000_PLAYWITHFRIENDS","PLAY WITH FRIENDS","Spiele mit Freunden!"
+"XL1000_SOMEFRIENDSONLINE","{{%01%}} FRIENDS ONLINE","{{%01%}} FREUNDE ONLINE"
+"XL1000_ONEFRIENDONLINE","1 FRIEND ONLINE","1 FREUND ONLINE"
+"XL1000_PLAYWITHFRIENDS","PLAY WITH FRIENDS","SPIELE MIT FREUNDEN"
 "XL1000_INVITEFRIEND","INVITE FRIENDS","FREUNDE EINLADEN"
-"XL1000_ADDFRIEND","ADD FRIEND",""
+"XL1000_ADDFRIEND","ADD FRIEND","FREUND HINZUFÜGEN"
 "XL1000_CREATEAPARTY","Invite Steam Friends to your Party","Steamfreunde zur Party einladen"
 "XL1000_NOFRIENDSONLINE","None of your Steam friends are currently online.","Keiner deiner Steamfreunde ist gerade online."
 "XL1000_STEAMINVITESNEEDSFULLGAME","Due to Steam's technical limitations, demo users can't create parties.","Aufgrund der Limitierungen von Steam können Demo Spieler keine Freunde einladen."
-"XL1000_FRIENDSCANJOINSERVERVIACUSTOMSERVERLOBBY","Friends can also join your server via the 'custom server lobby'. Click the settings cog above the play button to browse servers.",""
+"XL1000_FRIENDSCANJOINSERVERVIACUSTOMSERVERLOBBY","Friends can also join your server via the 'custom server lobby'. Click the settings cog above the play button to browse servers.","Freunde können auch deinem Server über"
 "XL1000_LOBBYINVITED","invited","eingeladen"
 "XL1000_LOBBYPLAYING","playing","spielt"
-"XL1000_ALREADYINPARTY","Already In Party",""
-"XL1000_PLAYINGGENESHIFT","Playing Geneshift",""
+"XL1000_ALREADYINPARTY","Already In Party","Schon in der Party"
+"XL1000_PLAYINGGENESHIFT","Playing Geneshift","Spielt Geneshift"
 "XL1000_LOBBYDIFFSERVER","diff server","anderer Server"
 "XL1000_LOBBYREADY","ready","bereit"
 "XL1000_LOBBYMENU","menu","Menü"
@@ -482,25 +482,25 @@
 "XL1000_LOBBYSEARCHING","searching","suchend"
 "XL1000_JOINLEADERSSERVER","Join Leader's Server","Dem Leiter beitreten"
 "XL1000_WAITINGONPARTYLEADER","Waiting for Leader","Warte auf Leiter"
-"XL1000_JOININGSERVER","Joining Server",""
+"XL1000_JOININGSERVER","Joining Server","Server beitretend"
 "XL1000_LOBBYREADYBIG","READY","BEREIT"
 "XL1000_LOBBYJOINBIG","JOIN","BEITRETEN"
-"XL1000_FAILEDTOJOINSERVER","Failed to Join Server","Beitreten nicht erfolgreich"
+"XL1000_FAILEDTOJOINSERVER","Failed to join server. Try switching party leaders.","Beitreten nicht erfolgreich"
 "XL1000_USERNAME","Username","Benutzername"
 "XL1000_REMEMBERPASSWORD","Remember Password","Passwort speichern"
-"XL1001_DISCORDCODE","ENTER CODE",""
+"XL1001_DISCORDCODE","ENTER CODE","CODE EINGEBEN"
 "XL1000_LOBBYCHAT","Chat","Chat"
 "XL1000_CREATEOPTIONALPASSWORD","Add an Optional Password","Optionales Passwort hinzufügen"
 "XL1000_EMAILOPTIONAL","Email","E-Mail"
 "XL1000_CLANTAG","Clan Tag","Clantag"
 "XL1000_STEAMKEY","Free Steam Key","Steam Key"
-"XL1000_SHARETHISLINK","Share this Link",""
-"XL1000_MYRECRUITERIS","Give +1 Recruit To",""
+"XL1000_SHARETHISLINK","Share this Link","Teile diesen Link"
+"XL1000_MYRECRUITERIS","Give +1 Recruit To","+1 Rekruten für"
 "XL1000_CONFIRM2","Get Coins","BESTÄTIGEN"
-"XL1000_ADDED","Added",""
-"XL1000_YOUCANNOTRECRUITYOURSELF","Nice try! You cannot recruit yourself. Please enter another name.",""
-"XL1000_YOUMUSTBEATLEASTLEVELXTOGIVEARECRUIT","You must reach level {{%01%}} before you can enter a name here.",""
-"XL1000_ENTERYOURRECRUITERSNAME","Enter the username of the player who told you about Geneshift.",""
+"XL1000_ADDED","Added","Hinzugefügt"
+"XL1000_YOUCANNOTRECRUITYOURSELF","Nice try! You cannot recruit yourself. Please enter another name.","Netter Versuch! Du kannst dich nicht selbst rekrutieren. Gib bitte einen anderen Namen ein."
+"XL1000_YOUMUSTBEATLEASTLEVELXTOGIVEARECRUIT","You must reach level {{%01%}} before you can enter a name here.","Du musst Level {{%01%}} erreichen, bevor du hier einen Namen eingeben kannst."
+"XL1000_ENTERYOURRECRUITERSNAME","Enter the username of the player who told you about Geneshift.","Gib den Namen des Spielers ein, der dir von Geneshift erzählt hat."
 "XL1000_MUTANTSMALL","Mutant","Mutant"
 "XL1000_LOGINSMALL","Login","Einloggen"
 "XL1000_LOGGEDIN","Logged In","Eingeloggt"
@@ -524,7 +524,7 @@
 "XL1000_SELECTANOBJECT","Select an Object","Objekt auswählen"
 "XL1000_SELECTACOLOUR","Select a Color","Farbe auswählen"
 "XL1000_SELECTAMUTANTTOPLAYAS","Select a Mutant","Mutant auswählen"
-"XL1000_EDITINGMAP","Editing Map","Karte bearbeiten…"
+"XL1000_EDITINGMAP","Editing Map","Karte bearbeiten"
 "XL1000_LOADORCREATEANEWMAP","Load or Create a New Map","Karte laden oder erstellen"
 "XL1000_VIEWMAPS","View Maps","Karten anzeigen"
 "XL1000_MAPAUTHOR","Map Author","Kartenautor"
@@ -532,6 +532,7 @@
 "XL1000_HOWTOPLAYBIG","HOW TO PLAY","WIE SPIELT MAN"
 "XL1000_TIPSBIG","TIPS","TIPPS"
 "XL1000_TIPBIG","TIP","TIPP"
+"XL1000_TODAYSBONUSES","TODAY'S BONUSES",""
 "XL1000_SERVER","SERVER","SERVER"
 "XL1000_PARTY","PARTY","PARTY"
 "XL1000_ITSSTORYTIME","IT'S STORY TIME","ES IST STORY TIME"
@@ -618,22 +619,22 @@
 "XL1000_WARPING","Warping","Warpen"
 "XL1000_DISABLEDSMALL","disabled","deaktiviert"
 "XL1000_PLACINGTIME","Placing Time","Platzierungszeit"
-"XL1000_HOLDINGXCHEMICALS","Holding {{%01%}} Chemicals",""
+"XL1000_HOLDINGXCHEMICALS","Holding {{%01%}} Chemicals","Du hälst {{%01%}} Chemikalien"
 "XL1000_ACIDPURCHASESLIMITED","Seller Purchases Limited","Säurekäufe limitiert"
-"XL1000_BUYFROMYOURCHEMICAL","Buy From Your Chemical",""
+"XL1000_BUYFROMYOURCHEMICAL","Buy From Your Chemical","Kaufe von deiner Chemikalie"
 "XL1000_DISABLEDFORGAMEMODE","Disabled in Campaign","Deaktiviert in diesem Spielmodus"
 "XL1000_DISABLEDDURINGWARMUP","Disabled During Warmup","Deaktiviert während Aufwärmphase"
 "XL1000_TEAMKILLSNEEDED","Team Kills Needed","Teamkills benötigt"
 "XL1000_TEAMCHANGED","Team Changed","Team gewechselt"
 "XL1000_ALREADYINVEHICLE","Already In Vehicle","Bereits im Fahrzeug"
 "XL1000_ZOMBIESCANTBUY","Zombies Can't Buy","Zombies können nichts kaufen"
-"XL1001_STANDINBUYZONE","Buy From Buy Zone",""
-"XL1000_BUYFROMSYNTHETICSHOP","Buy From Synthetic Shop",""
-"XL1000_SHOPALREADYUPGRADED","Shop Already Upgraded",""
+"XL1001_STANDINBUYZONE","Buy From Buy Zone","Kaufe von Kaufzone"
+"XL1000_BUYFROMSYNTHETICSHOP","Buy From Synthetic Shop","Kaufe etwas vom künstlichen Laden"
+"XL1000_SHOPALREADYUPGRADED","Shop Already Upgraded","Shop bereits aktualisiert"
 "XL1000_CHEAPERFROMBUYZONE","Cheaper From Buy Zone","Billiger in Kaufzone"
 "XL1000_ZOMBIESLOW","Zombie Speed","Zombiegeschwindigkeit"
 "XL1000_TOOLTIP_PICKUP","Pick up","Aufnehmen"
-"XL1000_TOOLTIP_ENTER","Enter","Eingeben"
+"XL1000_TOOLTIP_ENTER","Enter","Einsteigen"
 "XL1000_TOOLTIP_RELOAD","Reload","Neuladen"
 "XL1000_TOOLTIP_BUY","Buy","Kaufen"
 "XL1000_TOOLTIP_PLACE","Place Chemical","Chemikalie verteilen"
@@ -653,14 +654,17 @@
 "XL1000_RIGHTCLICK","R. Click","Rechtsklick"
 "XL1000_CLICKARROW","Click Arrow","Pfeil anklicken"
 "XL1000_WEAPONS","Weapons","Waffen"
-"XL1000_CANBEPLACEDINMAP","Can be Placed in Map",""
+"XL1000_CANBEPLACEDINMAP","Can be Placed in Map","Kann auf der Karte plaziert werden"
 "XL1000_SINGLEUSE","Single Use","Einmalgebrauch"
-"XL1000_SHOPUPGRADE","Shop Upgrade",""
+"XL1000_SHOPUPGRADE","Shop Upgrade","Shop Upgrade"
 "XL1000_RANKED","Ranked","Gewertet"
 "XL1000_CASUAL","Casual","Lockeres Spiel"
 "XL1000_GAMEMODE","Game Mode","Spielmodus"
 "XL1000_CHOOSEFULLESTSERVER","Choose Fullest Server","Wähle vollsten Server"
+"XL1000_ENEMYDAMAGE","Enemy Damage",""
+"XL1000_SCOREPERKILL","Score Per Kill",""
 "XL1000_XPPERKILL","XP Per Kill","XP pro Kill"
+"XL1000_NUMROUNDS","Total Rounds",""
 "XL1000_XPWINNERS","XP Reward (Winners)","XP Belohnung (Gewinner)"
 "XL1000_XPWINNERS","XP Reward (1st Duo)","XP Belohnung (Gewinner)"
 "XL1000_XPWINNERS","XP Reward (2nd Duo)","XP Belohnung (Gewinner)"
@@ -708,10 +712,10 @@
 "XL1000_AWARDSSMALL","Awards","Auszeichnungen"
 "XL1000_PLAYERSMALL","Player","Spieler"
 "XL1000_SCORE","Score","Punkte"
-"XL1000_TOPSCORE","Top Score",""
-"XL1000_ENEMYCANWIN","Enemy Can Win!",""
-"XL1000_YOUCANWIN","You Can Win!",""
-"XL1000_ALLYCANWIN","Ally Can Win!",""
+"XL1000_TOPSCORE","Top Score","Höchste Punktzahl"
+"XL1000_ENEMYCANWIN","Enemy Can Win!","Gegner kann gewinnen!"
+"XL1000_YOUCANWIN","You Can Win!","Du kannst gewinnen!"
+"XL1000_ALLYCANWIN","Ally Can Win!","Verbündeter kann gewinnen!"
 "XL1000_REWARD","Reward","Belohnungen"
 "XL1000_REWARDED","Rewarded","Belohnung"
 "XL1000_UPCOMINGREWARD","Upcoming Rewards","Kommende Belohnungen"
@@ -723,7 +727,7 @@
 "XL1000_RANKEDMATCHESLOWER","ranked matches","gewertete Spiele"
 "XL1000_MYCPOINTS","My C. Points","Meine C. Punkte"
 "XL1000_MYSCORE","My Score","Meine Punktzahl"
-"XL1000_MYKILLS","My Kills","Meine Abschüsse"
+"XL1000_MYKILLS","My Kills","Meine Tötungen"
 "XL1000_MYCASH","My Cash","Mein Geld"
 "XL1000_ROUNDLEADER","Round Leader","Rundenbester"
 "XL1000_WASDISCOVEREDBY","was discovered by","wurde entdeckt von"
@@ -733,20 +737,20 @@
 "XL1000_YOUHAVECLONEDA","You have cloned a","Du klonst einen"
 "XL1000_FROM","from","von"
 "XL1000_YOUHAVENEUTRALIZEDA","You have neutralized a","Du neutralisierst einen"
-"XL1000_YOUHAVEDISCOVEREDA","You have discovered a","Du hast entdeckt:"
+"XL1000_YOUHAVEDISCOVEREDA","You have discovered a","Du hast entdeckt"
 "XL1000_YOUHAVEREMOVEDA","You have removed a","Du entfernst einen"
 "XL1000_BELONGINGTO","belonging to","gehört zu"
 "XL1000_KILL","Kill","Abschuss"
-"XL1000_KILLS","Total Kills","Abschüsse"
+"XL1000_KILLS","Total Kills","Tötungen"
 "XL1000_CASHEARNED","Cash Earned","Geld verdient"
 "XL1000_DEATHS","Total Deaths","Tode"
 "XL1000_DEATHSSMALL","deaths","tode"
 "XL1000_WEAPONACCURACY","Weapon Accuracy","Genauigkeit"
-"XL1000_BIGGESTKILLSTREAK","Biggest Kill Streak","Längste Anbschussreihe"
-"XL1000_BIGGESTWINSTREAK","Biggest Survival Win Streak",""
-"XL1000_CURRENTWINSTREAK","Current Win Streak",""
-"XL1000_GUARDCASH","Guard cash","Geld Wachen"
-"XL1000_GUARDCASHSMALL","cash","Geld Wachen"
+"XL1000_BIGGESTKILLSTREAK","Biggest Kill Streak","Größte Tötungsreihe"
+"XL1000_BIGGESTWINSTREAK","Biggest Survival Win Streak","Größte Überlebenssiegesreihe"
+"XL1000_CURRENTWINSTREAK","Current Win Streak","Aktuelle Siegesreihe"
+"XL1000_GUARDCASH","Guard cash","Geld bewachen"
+"XL1000_GUARDCASHSMALL","cash","Geld"
 "XL1000_DAMAGESMALL","damage","Schaden"
 "XL1000_COMPLETIONTIMEBIG","COMPLETION TIME","GESAMTZEIT"
 "XL1000_ITEMSDISCOVEREDBIG","ITEMS DISCOVERED","GEGENSTÄNDE GEFUNDEN"
@@ -756,13 +760,13 @@
 "XL1000_WANTEDLEVEL","Wanted Level","Fahndungslevel"
 "XL1000_TOTALCASHEARNEDBIG","TOTAL CASH SCORE","GESAMTES GELD"
 "XL1000_EXPERIENCEEARNEDSMALL","Experience Earned","Erfahrung bekommen"
-"XL1000_TOTALDAMAGETAKENBIG","TOTAL DAMAGE TAKEN","GESAMTSCHADEN"
+"XL1000_TOTALDAMAGETAKENBIG","TOTAL DAMAGE TAKEN","SCHADEN ERHALTEN INSGESAMT"
 "XL1000_WEAPONACCURACYBIG","WEAPON ACCURACY","WAFFENGENAUIGKEIT"
 "XL1000_TOTALDEATHSBIG","TOTAL DEATHS","TODE"
 "XL1000_EXPERIENCEEARNEDBIG","EXPERIENCE EARNED","ERFAHRUNG ERHALTEN"
 "XL1000_DAMAGETAKENBIG","DAMAGE TAKEN","SCHADEN ERLITTEN"
 "XL1000_CAMPAIGNTIMEBIG","CAMPAIGN TIME","KAMPAGNE ZEIT"
-"XL1000_TOTALSCOREBIG","TOTAL SCORE",""
+"XL1000_TOTALSCOREBIG","TOTAL SCORE","PUNKTE"
 "XL1000_ITEMSUNLOCKED","Items Unlocked","Gegenstände freigeschaltet"
 "XL1000_UNLOCKFOR","UNLOCK FOR","FREISCHALTUNG FÜR"
 "XL1000_NOTENOUGHKILLCOINS","NOT ENOUGH KILL COINS","NICHT GENUG KILL MÜNZEN"
@@ -771,24 +775,24 @@
 "XL1000_INGAMEZOMBIEKILLSBIG","FROM ZOMBIE KILLS","VON ZOMBIEKILLS"
 "XL1000_MULTIPLAYERLEVELBIG","MULTIPLAYER LEVEL","MULTISPIELER LEVEL"
 "XL1000_STEALTHRATING","STEALTH RATING","SCHLEICHWERTUNG"
-"XL1000_SCORETAB_CHALLENGESWINS","XP From Challenges",""
+"XL1000_SCORETAB_CHALLENGESWINS","XP From Challenges","XP von Herausforderungen"
 "XL1000_SCORETAB_XPFROMKILLS","XP From Kills & Wins","XP durch Kills"
-"XL1000_SCORETAB_KILLSDEATHS","Kills & Deaths",""
-"XL1000_SCORETAB_BRWINSTREAKBONUS","Win Streak Bonus",""
-"XL1000_SCORETAB_HEXGRIDBONUSES","Hex Grid Bonuses",""
-"XL1000_GAMEDURATION","Game Duration",""
-"XL1000_BRWINSTREAK","Survival Win Streak",""
-"XL1000_NOTAPPLICABLE","N/A",""
-"XL1000_PLUSONEADDED","+{{%01%}} added",""
-"XL1000_KILLCOINSADDED","+{{%01%}} kill coins added!",""
-"XL1000_STEAMKEYUNLOCKED","Free Steam Key Unlocked!",""
-"XL1000_FULLGAMEUNLOCKED","FULL GAME UNLOCKED",""
-"XL1000_THANKSFORBUYINGGENESHIFT","Thanks for Buying Geneshift!",""
-"XL1000_FROM1NEWRECRUIT","From 1 New Recruit",""
-"XL1000_FROMXNEWRECRUITS","From {{%01%}} New Recruits",""
-"XL1000_FROMYOURFRIEND","From Your Friend's Referral",""
-"XL1000_FROMDAILYLEADERBOARDS","From Daily Leaderboards",""
-"XL1000_FROMRECRUITSANDLEADERBOARDS","From Recruits and Leaderboards",""
+"XL1000_SCORETAB_KILLSDEATHS","Kills & Deaths","Tötungen & Tode"
+"XL1000_SCORETAB_BRWINSTREAKBONUS","Win Streak Bonus","Siegesreihenbonus"
+"XL1000_SCORETAB_HEXGRIDBONUSES","Hex Grid Bonuses","Hex Grid Boni"
+"XL1000_GAMEDURATION","Game Duration","Spieldauer"
+"XL1000_BRWINSTREAK","Survival Win Streak","Überlebenssiegesreihe"
+"XL1000_NOTAPPLICABLE","N/A","N / A"
+"XL1000_PLUSONEADDED","+{{%01%}} added","+{{%01%}} hinzugefügt"
+"XL1000_KILLCOINSADDED","+{{%01%}} kill coins added!","+{{%01%}} Killmünzen hinzugefügt!"
+"XL1000_STEAMKEYUNLOCKED","Free Steam Key Unlocked!","Gratis Steam-Key freigeschaltet!"
+"XL1000_FULLGAMEUNLOCKED","FULL GAME UNLOCKED","VOLLVERSION FREIGESCHALTET"
+"XL1000_THANKSFORBUYINGGENESHIFT","Thanks for Buying Geneshift!","Danke für deinen Geneshift Kauf!"
+"XL1000_FROM1NEWRECRUIT","From 1 New Recruit","Von 1 neuen Rekruten"
+"XL1000_FROMXNEWRECRUITS","From {{%01%}} New Recruits","Von {{%01%}} neuen Rekruten"
+"XL1000_FROMYOURFRIEND","From Your Friend's Referral","Von der Empfehlung deines Freundes"
+"XL1000_FROMDAILYLEADERBOARDS","From Daily Leaderboards","Von den Täglichen Ranglisten"
+"XL1000_FROMRECRUITSANDLEADERBOARDS","From Recruits and Leaderboards","Von Rekruten und Ranglisten"
 "XL1000_KILLCOINSEARNED","Kill Coins Earned","Killmünzen verdient"
 "XL1000_EXPERIENCEEARNED","Experience Earned","Erfahrung bekommen"
 "XL1000_KILLSTREAK","Kill Streak","Abschussreihe"
@@ -803,17 +807,17 @@
 "XL1000_MINUTESPLAYED","Minutes Played","Minuten gespielt"
 "XL1000_COSMETICUNLOCKS","Cosmetic Unlocks","Aussehen freigeschaltet"
 "XL1000_COMMUNITYCREDITS","Community Credits","Community Credits"
-"XL1000_COMMUNITYCREDITSMALL","community credit","community credit"
-"XL1000_COMMUNITYCREDITSSMALL","community credits","community credits"
+"XL1000_COMMUNITYCREDITSMALL","community credit","Community Credit"
+"XL1000_COMMUNITYCREDITSSMALL","community credits","Community Credit"
 "XL1000_CCSEARNED","CCs earned","CCs verdient"
 "XL1000_CCS","CCs","CCs"
 "XL1000_UNLOCK","Unlock","Freischalten"
 "XL1000_QUICKCONTROLS","QUICK CONTROLS","SCHNELLEINSTELLUNGEN"
 "XL1000_CONTROLS","Controls","Einstellungen"
-"XL1000_NEWBIECHECKLIST","TUTORIAL","NEULING CHECKLISTE!"
+"XL1000_NEWBIECHECKLIST","TUTORIAL","NEULING CHECKLISTE"
 "XL1000_MAPVOTE","MAP VOTE","KARTENABSTIMMUNG"
 "XL1000_KILLSELF","Kill Self","Selbst töten"
-"XL1000_CHANGESQUAD","Change Squad","Gruppe wechseln"
+"XL1000_CHANGESQUAD","Change Squad","Geschwader wechseln"
 "XL1000_AUTOMATIC","Automatic","Automatisch"
 "XL1000_CURRENT","Current","Deins"
 "XL1000_SHOWCHEMSTEAM","Show Chems Team","Zeige Teamchemikalien"
@@ -875,7 +879,7 @@
 "XL1000_RANKTITLE14","Faction Commander","Fraktionsführer"
 "XL1000_KD","K:D","K:D"
 "XL1000_KDRATIO","K:D Ratio","K:D Verhältnis"
-"XL1000_TEAMKILLS","Team Kills","Abschüsse Team"
+"XL1000_TEAMKILLS","Team Kills","Team Tötungen"
 "XL1000_CIVILIANKILLS","Civilian Kills","Zivilistenkills"
 "XL1000_ROADKILLS","Road Kills","Roadkills"
 "XL1000_VEHICLESDESTROYED","Vehicles Destroyed","Fahrzeuge zerstört"
@@ -900,7 +904,7 @@
 "XL1000_INVISIBLE","Invisible","unsichtbar"
 "XL1000_ALIVE","Alive","lebt"
 "XL1000_TARGETSREMAINING","Targets Remaining","Ziele übrig"
-"XL1000_GRENADEKILLS","Grenade Kills","Granaten Abschüsse"
+"XL1000_GRENADEKILLS","Grenade Kills","Granaten Tötungen"
 "XL1000_ROADKILLKILLS","Road Kills","Fahrzeug Tötungen"
 "XL1000_KILLWITH","Kill With","Töte mit"
 "XL1000_PRIMARY","Primary","Primärwaffe"
@@ -917,12 +921,34 @@
 "XL1000_HPS","hp/s","HP/s"
 "XL1000_S","s","s"
 "XL1000_XP","xp","XP"
-"XL1000_ARMOR","armor",""
+"XL1000_ARMOR","armor","Rüstung"
+"XL1000_SELLFORX","Sell For ${{%01%}}",""
 "XL1000_RANDOMBUFF_WEP_DAMAGE","Damage","Schaden"
 "XL1000_RANDOMBUFF_WEP_BULLETSPEED","Bullet Speed","Geschossgeschwindigkeit"
-"XL1000_RANDOMBUFF_WEP_MOVESPEED","Move Speed",""
-"XL1000_RANDOMBUFF_WEP_RELOADSPEED","Reload Speed",""
+"XL1000_RANDOMBUFF_WEP_MOVESPEED","Move Speed","Bewegungsgeschwindigkeit"
+"XL1000_RANDOMBUFF_WEP_RELOADSPEED","Reload Speed","Nachladegeschwindigkeit"
 "XL1000_RANDOMBUFF_WEP_RPM","Fire Rate","Feuerrate"
+"XL1000_RANDOMBUFF_SKILL_MANA","Mana Cost","Manakosten"
+"XL1000_RANDOMBUFF_SKILL_COOLDOWN","Cooldown","Abklingzeit"
+"XL1000_RANDOMBUFF_SKILL_PENALTY","Penalty Effect",""
+"XL1000_RANDOMBUFF_SKILL_HEALING","Healing Rate",""
+"XL1000_RANDOMBUFF_SKILL_DAMAGE","Skill Damage",""
+"XL1000_RANDOMBUFF_SKILL_SIZE","Skill Size",""
+"XL1000_RANDOMBUFF_SKILL_ENEMYSPEED","Enemy Speed",""
+"XL1000_RANDOMBUFF_SKILL_MAXHP","Max HP",""
+"XL1000_RANDOMBUFF_SKILL_SHIFTREGEN","Shift Regen",""
+"XL1000_RANDOMBUFF_SKILL_CHANELTIME","Channel Time",""
+"XL1000_RANDOMBUFF_SKILL_BOUNCES","Bounces",""
+"XL1000_RANDOMBUFF_SKILL_DURATION","Duration",""
+"XL1000_RANDOMBUFF_VEHICLE_BOOSTDURATION","Boost Duration",""
+"XL1000_RANDOMBUFF_VEHICLE_DAMAGETAKEN","Damage Taken","Schaden genommen"
+"XL1000_RANDOMBUFF_VEHICLE_RAMMINGDAMAGE","Ramming Damage",""
+"XL1000_RANDOMBUFF_VEHICLE_EXPLOSIONSIZE","Explosion Size",""
+"XL1000_RANDOMBUFF_CHEMICAL_DAMAGE","Overall Damage",""
+"XL1000_RANDOMBUFF_CHEMICAL_DAMAGETAKEN","Damage Taken","Schaden genommen"
+"XL1000_RANDOMBUFF_CHEMICAL_MANAREGEN","Mana Regen",""
+"XL1000_RANDOMBUFF_CHEMICAL_MOVESPEED","Move Speed","Bewegungsgeschwindigkeit"
+"XL1000_WHENHOLDINGX","When Holding: {{%01%}}",""
 "XL1000_SHOP","Shop","Shop"
 "XL1000_COOLDOWN","Cooldown","Abklingzeit"
 "XL1000_OUTOFCOMBATTIME","Out of Combat Time","Zeit außerhalb von Kämpfen"
@@ -1054,7 +1080,7 @@
 "XL1000_MAXMANA","Max Mana","Max. Mana"
 "XL1000_MANARESTOREDNOTOUTBREAK","Mana Restored (not Outbreak)","Mana wiederhergestellt (nicht Outbreak)"
 "XL1000_MAXHITPOINTS","Max Hitpoints","Max Trefferpunkte"
-"XL1000_SHIFTREGENRATE","Shift Regen Time","Shift Regenerationsrate"
+"XL1001_SHIFTREGENRATE","Shift Regen Rate",""
 "XL1000_REVEALRANGE","Reveal Range","Zeige Reichweite"
 "XL1000_OFCURRENTHP","of current HP","der momentanen HP"
 "XL1000_OFMAXHP","of max hp","der max HP"
@@ -1131,14 +1157,14 @@
 "XL1000_VIEWSKILLQUEUES","view skill queues","Zeige Warteschlange"
 "XL1000_SKILLLEVEL","Skill Level","Skillslevel"
 "XL1000_LOCKED","LOCKED","GESPERRT"
-"XL1000_FULLGAMEONLY","FULL GAME ONLY","NUR IN DER VOLLVERSION"
+"XL1001_SUPPORTERSONLY","SUPPORTERS ONLY",""
 "XL1000_ALLSKILLSLOCKED","All Skills Locked","Alle Skills gesperrt"
 "XL1000_LOCKEDMID","Locked","Gesperrt"
-"XL1000_UNLOCKTHISSKILLTREE","Unlock This Skill Tree",""
+"XL1000_UNLOCKTHISSKILLTREE","Unlock This Skill Tree","Diesen Skill Baum freischalten"
 "XL1000_COMPLETED","Completed","Komplett"
 "XL1000_COMPLETEDBIG","COMPLETED","ABGESCHLOSSEN"
-"XL1000_MISSIONBIG","MISSION",""
-"XL1000_FAILEDBIG","FAILED",""
+"XL1000_MISSIONBIG","MISSION","MISSION"
+"XL1000_FAILEDBIG","FAILED","GESCHEITERT"
 "XL1000_LOADING","Loading","Laden"
 "XL1000_INPROGRESS","In Progress","In Bearbeitung"
 "XL1000_AREYOUSURE","Are you Sure","Bist du sicher"
@@ -1155,7 +1181,7 @@
 "XL1000_SHIFTSSMALL","shifts","Shifts"
 "XL1000_SKILLLEVEL","Level","Skillslevel"
 "XL1000_UNLOCKTREE","Unlock Tree","Baum freischalten"
-"XL1000_UNLOCKS","Unlocks","Freigeschaltet"
+"XL1000_UNLOCKS","Unlocks","FREIGESCHALTET"
 "XL1000_STEAMACHIEVEMENT","Steam Achievement","Steam-Errungenschaft"
 "XL1000_POINTSMALL","point","Punkt"
 "XL1000_POINTSSMALL","points","Punkte"
@@ -1180,6 +1206,7 @@
 "XL1000_SYNERGYPOINTS","Synergy Points","Synergiepunkte"
 "XL1000_REQUIRED","Required","benötigt"
 "XL1000_REQUIRES","Requires","Benötigt"
+"XL1000_NEXTLEVELREQUIRES","Next Level Requires",""
 "XL1000_REQUIRESBIG","REQUIRES","BENÖTIGT"
 "XL1000_SIZE","Size","Größe"
 "XL1000_INGAMECOST","In-Game Cost","In-Game Kosten"
@@ -1214,8 +1241,8 @@
 "XL1000_SUPPLIES","Supplies","Vorräte"
 "XL1000_SUPPLYDROPINCOMING","Supply Drop Incoming!","Versorgungskiste kommt!"
 "XL1000_ZOMBIESUPPLYDROPINCOMING","Zombie Supply Drop Incoming!","Zombie-Versorgungskiste kommt!"
-"XL1000_GENETICHEARTHASSPAWNED","The Genetic Heart Respawned!",""
-"XL1000_GENETICHEARTALIVE","Genetic Heart is Alive!",""
+"XL1000_GENETICHEARTHASSPAWNED","The Genetic Heart Respawned!","Das Genetische Herz ist wieder da!"
+"XL1000_GENETICHEARTALIVE","Genetic Heart is Alive!","Das Genetische Herz ist da!"
 "XL1000_POOR","Poor","Schlecht"
 "XL1000_AVERAGE","Average","Durchschnittlich"
 "XL1000_GOOD","Good","Gut"
@@ -1269,7 +1296,7 @@
 "XL1000_SLIDING","sliding","schlittern"
 "XL1000_TIMELEFT","Time Left","Zeit übrig"
 "XL1000_KILLCOINSAWARDEDIN","Kill Coins Awarded In","Killmünzen verdient in"
-"XL1000_THISBOARDRESETSEACHMONTH","This leaderboard resets each month",""
+"XL1000_THISBOARDRESETSEACHMONTH","This leaderboard resets each month","Diese Rangliste wird jeden Monat zurückgesetzt"
 "XL1000_STEALTHLEADERBOARDS","STEALTH LEADERBOARDS","Schleichen Rangliste"
 "XL1000_CAMPAIGNLEADERBOARDS","CAMPAIGN LEADERBOARDS","Kampagne Rangliste"
 "XL1000_OUTBREAKLEADERBOARDS","OUTBREAK LEADERBOARDS","OUTBREAK RANGLISTE"
@@ -1282,14 +1309,14 @@
 "XL1000_CASHTHISSTAGE","Cash This Stage","Geld in diesem Abschnitt"
 "XL1000_RECORD","Record","Rekord"
 "XL1000_YOURRECORD","Your Record","Dein Rekord"
-"XL1000_NEWRECORD","New Record",""
+"XL1000_NEWRECORD","New Record","Neuer Rekord"
 "XL1000_NOTSET","Not Set!","Nicht gesetzt!"
 "XL1000_BESTTIMES","Best Times","Bestzeiten"
 "XL1000_SOLORUN","Solo Run","Solo Lauf"
 "XL1000_PLAYERCOOP","Player Co-op","Spieler Ko-Op"
 "XL1000_DIFFICULTY","Difficulty","Schwierigkeit"
 "XL1000_ALLPVPMODES","All PvP Modes","Alle PvP Modi"
-"XL1000_BATTLEROYALEONLY","Battle Royale game mode only.","Nur Battle Royale"
+"XL1000_BATTLEROYALEONLY","Battle Royale game mode only.","Nur Battle Royale."
 "XL1000_KILLCOINSREQUIRED","Kill Coins Required","Killmünzen gefordert"
 "XL1000_MINDIFFICULTYREQUIRED","Minimum Difficulty Required","Minimale Schwierigkeit gefordert"
 "XL1000_GAMEMODEREQUIRED","Game Mode Required","Spielmodus gefordert"
@@ -1322,8 +1349,8 @@
 "XL1000_SEAT","SEAT","SITZ"
 "XL1000_SPECTATING","Spectating","Beobachten"
 "XL1000_FREELOOKMODE","Free-Look Mode","Freie-Welt Modus"
-"XL1000_RANKEDGAMEINPROGRESS","A ranked match is currently in progress. You will be able to join when the next game starts","Ein gewertetes Spiel läuft gerade. Du kannst beitreten, wenn das nächste Spiel beginnt."
-"XL1000_SPEEDRUNINPROGRESS","A speedrun is currently in progress. You will be able to join when the next game starts","Ein Speedrun läuft gerade. Du kannst beitreten, wenn das nächste Spiel beginnt."
+"XL1000_RANKEDGAMEINPROGRESS","A ranked match is currently in progress. You will be able to join when the next game starts","Ein gewertetes Spiel läuft gerade. Du kannst beitreten, wenn das nächste Spiel beginnt"
+"XL1000_SPEEDRUNINPROGRESS","A speedrun is currently in progress. You will be able to join when the next game starts","Ein Speedrun läuft gerade. Du kannst beitreten, wenn das nächste Spiel beginnt"
 "XL1000_YOUWILLSPAWNATTHENEXTCHECKPOINT","You will spawn at the next checkpoint","Du wirst am nächsten Kontrollpunkt spawnen"
 "XL1000_CAPTUREDTHE","captured the","hat die"
 "XL1000_RETURNEDTHE","returned the","retournierte die"
@@ -1352,65 +1379,67 @@
 "XL1000_MISSIONFAILED","MISSION FAILED","MISSION FEHLGESCHLAGEN"
 "XL1000_CHECKPOINT","CHECKPOINT","CHECKPOINT"
 "XL1000_AWESOME","AWESOME","AWESOME"
-"XL1000_CHALLENGEBIG","CHALLENGE!","HERAUSFORDERUNG"
+"XL1000_CHALLENGEBIG","CHALLENGE!","HERAUSFORDERUNG!"
 "XL1000_LEVELUPBIG","LEVEL","LEVEL"
 "XL1000_ITSADRAW","IT'S A DRAW","Ziehen"
 "XL1000_ROUND","Round","Runde"
-"XL1000_ROUNDXOFY","Round {{%01%}} of {{%02%}}",""
+"XL1000_ROUNDXOFY","Round {{%01%}} of {{%02%}}","Runde {{%01%}} von {{%02%}}"
 "XL1000_WARMUPROUND","Warmup Round","Aufwärmrunde"
 "XL1001_ROYALEROUNDSTART01","Frenzy!","Raserei!"
 "XL1001_ROYALEROUNDSTART02","The Battle Begins!","Der Kampf beginnt!"
-"XL1001_HOWLONGCANYOUSURVIVE","How long can you survive?",""
-"XL1001_BEATYOURRECORDOF","Beat your record of {{%01%}} points!",""
-"XL1001_YOURWINSTREAKISX","Your Win Streak is {{%01%}}",""
+"XL1001_HOWLONGCANYOUSURVIVE","How long can you survive?","Wie lange überlebst du?"
+"XL1001_BEATYOURRECORDOF","Beat your record of {{%01%}} points!","Schlage deinen Rekord von {{%01%}} Punkten!"
+"XL1001_YOURWINSTREAKISX","Your Win Streak is {{%01%}}","Deine Siegesreihe ist {{%01%}}"
 "XL1000_SCIENTISTS","Scientists","Forscher"
 "XL1000_REBELS","Rebels","Rebellen"
 "XL1000_SCIENTISTSLEAD","Scientists lead","Scientists führen"
 "XL1000_REBELSLEAD","Rebels lead","Rebels führen"
 "XL1000_TEAMSEVEN","Teams even","Teams gleichauf"
-"XL1001_CANNOWWINWITH2XDAMAGE","can now win - with extra damage!",""
-"XL1001_PLAYERSCANNOWWINWITH2XDAMAGE","players can now win - with extra damage!",""
+"XL1001_CANNOWWINWITH2XDAMAGE","can now win - with extra damage!","kann nun gewinnen - mit extra Schaden!"
+"XL1001_PLAYERSCANNOWWINWITH2XDAMAGE","players can now win - with extra damage!","Spieler können nun gewinnen - mit extra Schaden!"
 "XL1000_YOUAREPLAYINGSOLO","You're playing solo!","Du spielst alleine!"
-"XL1000_YOUAREONSQUAD","You're on squad","Du bist in Gruppe"
-"XL1000_HOLDALTTOCHANGESQUAD","Hold ALT to change squad.","Halte ALT, um die Gruppe zu wechseln."
-"XL1000_LEADS","is winning","führen"
-"XL1000_ENEMYDAMAGEISX","Enemies deal {{%01%}} damage",""
-"XL1000_ENEMIESHAVEUNLOCKED","Enemies unlocked {{%01%}}",""
-"XL1000_ENEMIESHAVEUNITEDAGAINSTYOU","Final Round! The enemies have united!",""
-"XL1000_ENEMIESNOWRESPAWNASZOMBIES","Enemies now respawn as zombies!",""
-"XL1002_YOUREAZOMBIE","You're a zombie. Kill a player to respawn!",""
-"XL1002_FINDTHEGENETICHEART","Find the Genetic Heart to resurrect!",""
+"XL1000_YOUAREONSQUAD","You're on squad","Du bist in Geschwader"
+"XL1000_HOLDALTTOCHANGESQUAD","Hold ALT to change squad.","Halte ALT, um das Geschwader zu wechseln."
+"XL1000_LEADS","is winning","führt"
+"XL1000_ENEMYDAMAGEISX","Enemies deal {{%01%}} damage","Gegner erteilen {{%01%}} Schaden"
+"XL1000_ENEMYHEALTHISNOW","Enemies now have {{%01%}} max hp",""
+"XL1000_ENEMIESHAVEUNLOCKED","Enemies unlocked {{%01%}}","Gegner schalten {{%01%}} frei"
+"XL1000_ENEMIESHAVEUNITEDAGAINSTYOU","Final Round! The enemies have united!","Finale Runde! Die Gegner haben sich verbündet!"
+"XL1000_ENEMIESNOWRESPAWNASZOMBIES","Enemies now respawn as zombies!","Gegner werden nun Zombies!"
+"XL1002_YOUREAZOMBIE","You're a zombie. Kill a player to respawn!","Du bist ein Zombie. Töte einen Spieler, um wiederbelebt zu werden!"
+"XL1002_FINDTHEGENETICHEART","Find the Genetic Heart to resurrect!","Finde das Genetische Herz, um wiederaufzustehen!"
 "XL1000_YOUARESPECTATING","You're spectating the rest of the round.","Du guckst den Rest der Runde zu."
 "XL1000_PLAYERSREMAININGSMALL","players remaining","Spieler übrig"
-"XL1000_SUDDENDEATH","SUDDEN DEATH!",""
-"XL1000_GENETICHEART","Genetic Heart",""
+"XL1000_SUDDENDEATH","SUDDEN DEATH!","SUDDEN DEATH!"
+"XL1000_GENETICHEART","Genetic Heart","Genetisches Herz"
 "XL1000_ESCAPETHECIRCLEOFDEATH","Escape the circle of death!","Fliehe vor der Todeszone!"
 "XL1000_RETURNTOTHEBOMB","Return to the bomb!","Bringe die Bombe zurück!"
-"XL1001_DANGERANTIZOMBIEZONE","Melee only in the red zone!",""
+"XL1001_DANGERANTIZOMBIEZONE","Melee only in the red zone!","Ausschließlich Nahkampf in der Roten Zone!"
 "XL1000_OUTOFAMMO","Out of ammo!","Keine Munition!"
 "XL1000_MAXWANTEDLEVEL","Max wanted level!!","Maximaler Fahndungslevel!!"
 "XL1000_THECIRCLEISSHRINKING","The circle is shrinking!","Der Kreis verkleinert sich!"
 "XL1000_BACKINTHEGAME","You're back in the game!","Du bist wieder im Spiel!"
-"XL1000_LETTHEREBELIFE","Let there be life!",""
+"XL1000_LETTHEREBELIFE","Let there be life!","Lass es Leben geben!"
 "XL1000_RESURRECTIONREADY","Resurrection ready!","Wiederbelebung bereit!"
 "XL1000_RESURRECTIONREADYIN","Resurrection possible in:","Wiederbelebung möglich in:"
 "XL1000_SCIENTISTSWIN","SCIENTISTS WIN","SCIENTISTS GEWINNEN"
 "XL1000_REBELSWIN","REBELS WIN","REBELS GEWINNEN"
-"XL1000_WINS","WINS","GEWINNT"
+"XL1000_WINS","WINS","SIEGE"
 "XL1000_WINSROUND","Wins Round","gewinnt Runde"
-"XL1002_NOWHAS2XDAMAGE","Damage Boosted",""
-"XL1002_VICTORYBONUS","Victory Bonus: +{{%01%}}xp",""
-"XL1002_MILESTONEBONUS","Milestone Bonus: +{{%01%}}xp",""
-"XL1002_XPBONUS","+{{%01%}}xp",""
+"XL1002_NOWHAS2XDAMAGE","Damage Boosted","Schadensverstärkung"
+"XL1002_VICTORYBONUS","Victory Bonus","Siegesbonus: +{{%01%}}XP"
+"XL1002_MILESTONEBONUS","Milestone Bonus: +{{%01%}}xp","Meilensteinsbonus: +{{%01%}}XP"
+"XL1002_XPBONUS","+{{%01%}}xp","+{{%01%}}XP"
 "XL1000_WINSTHEWARMUP","Wins the Warmup","gewinnt die Aufwärmrunde"
 "XL1000_WINSTHEGAME","Wins the Game","gewinnt das Spiel"
-"XL1000_YOUSCOREDXPOINTS","You Scored {{%01%}} Points",""
-"XL1000_NEWPERSONALBEST","New Record Set!",""
-"XL1000_GAMEOVER","YOU DIED",""
-"XL1000_VICTORY","VICTORY",""
+"XL1000_YOUSCOREDXPOINTS","You Scored {{%01%}} Points","Du erzieltst {{%01%}} Punkte"
+"XL1000_NEWPERSONALBEST","New Record Set!","Neuer Rekord gespeichert!"
+"XL1000_XDIFFICULTYUNLOCKED","{{%01%}} Difficulty Unlocked!",""
+"XL1000_GAMEOVER","YOU DIED","DU BIST GESTORBEN"
+"XL1000_VICTORY","VICTORY","SIEG"
 "XL1000_WIN","WIN","GEWINNEN"
 "XL1000_WINSSMALL","wins","gewinnt"
-"XL1000_SCORESMALL","score",""
+"XL1000_SCORESMALL","score","Punkte"
 "XL1000_ANDBIG","AND","und"
 "XL1000_HAVEWONTHEDEATHMATCH","have won the deathmatch","haben das Deathmatch gewonnen"
 "XL1000_HASWONTHEDEATHMATCH","has won the deathmatch","hat das Deathmatch gewonnen"
@@ -1437,8 +1466,8 @@
 "XL1000_CONTINUECAMPAIGN","CONTINUE CAMPAIGN","KAMPAGNE FORTSETZEN"
 "XL1000_CAMPAIGNLOCKED","CAMPAIGN LOCKED","KAMPAGNE GESPERRT"
 "XL1000_REPLAY","REPLAY","REPLAY"
-"XL1000_DAILYRUNFINISHED_DESC","New Run In: {{%01%}}",""
-"XL1000_SURVIVALSCORE","Today's Score",""
+"XL1000_DAILYRUNFINISHED_DESC","New Run In: {{%01%}}","Neuer Versuch in: {{%01%}}"
+"XL1000_SURVIVALSCORE","Today's Score","Heutiger Punktestand"
 "XL1000_YOUARENOTLOGGEDIN","You are not logged in!","Du bist nicht eingeloggt!"
 "XL1000_YOUARENOTLOGGEDIN_INFO","You are not logged in. You can still play, but your progress won't be saved and you won't have access to your unlocked items.","Du bist nicht eingeloggt. Du kannst immer noch spielen, aber dein Fortschritt wird nicht gespeichert und du hast keinen Zugriff auf freigeschaltete Items."
 "XL1000_PLAYTHETUTORIAL","Try the tutorial!","Versuche das Tutorial!"
@@ -1446,10 +1475,10 @@
 "XL1000_TUTORIALCOMPLETE","Tutorial Complete!","Tutorial abgeschlossen!"
 "XL1000_TUTORIALCOMPLETE_INFO","You're ready. Click continue to fight real players and put your new skills to the test!","Du bist fertig. Klicke auf Fortfahren, um gegen echte Spieler zu spielen und deine neuen Skills zu testen!"
 "XL1000_UNSPENTKILLCOINS","Unspent kill coins!","Unbenutzte Killmünzen!"
-"XL1000_UNSPENTKILLCOINS_INFO","Use kill coins to unlock new items. This makes them available to use in-game!","Benutze Killmünzen, um Items freizuschalten. Das macht sie kaufbar in Kaufzonen im Spiel. Du kannst mehr Killmünzen bekommen, indem du Herausforderungen meisterst."
+"XL1000_UNSPENTKILLCOINS_INFO","Use kill coins to unlock new items. This makes them available to use in-game!","Benutze Killmünzen, um Items freizuschalten. Das macht sie kaufbar in Kaufzonen im Spiel. Du kannst mehr Killmünzen bekommen, indem du Herausforderungen meisterst!"
 "XL1000_DEMOTHECAMPAIGN","Demo the campaign!","Demokampagne!"
-"XL1000_YOUARENOTLOGGEDIN_INFO","Basic accounts can play the first stage of the campaign for free. Get the Complete Edition DLC to play through the full story!","Du bist nicht eingeloggt. Du kannst immer noch spielen, aber dein Fortschritt wird nicht gespeichert und du hast keinen Zugriff auf freigeschaltete Items."
-"XL1000_SURVIVALWARNING_INFO","Basic accounts get one survival run per day. But while you're under level {{%01%}} you get unlimited runs to practice. See if you can beat your top score!",""
+"XL1001_YOUARENOTLOGGEDIN_INFO","Basic accounts can play the first stage of the campaign for free. Get the Supporters Edition to play through the full story!",""
+"XL1000_SURVIVALWARNING_INFO","Normally you get one survival run per day. But while you're under level {{%01%}} you get unlimited runs to practice. See if you can beat your top score!","Einfache Accounts können einen Überlebensdurchlauf pro Tag spielen. Solange du unter Level {{%01%}} bist, kannst du immer trainieren. Mal schauen, ob du deinen Rekord brechen kannst!"
 "XL1000_YOURTIMESWILLNOTBESAVED","Your times won't be saved to the leaderboards.","Deine Zeiten werden nicht in den Ranglisten gespeichert."
 "XL1000_YOURPROGRESSWILLNOTBESAVED","Your progress will not be saved.","Dein Fortschritt wird nicht gespeichert."
 "XL1000_THEMAPWILLSHRINKIN","Not enough players. The map will shrink in","Nicht genügend Spieler. Die Karte verkleinert sich in"
@@ -1458,13 +1487,13 @@
 "XL1000_WAITINGFOREVENPLAYERS","WARMUP: Waiting for an even number of players","AUFWÄRMPHASE: Warten auf gerade Anzahl an Spielern"
 "XL1000_PLAYERSREQUIRED","players required","Spieler benötigt"
 "XL1000_WARMUPTHEMATCHWILLBEGININ","WARMUP: The match will officially begin in","AUFWÄRMPHASE: Das Spiel beginnt in"
-"XL1000_WARMUPJOINMESSAGE","Hold ALT to select a team and join the game. By joining you are committing to a full ranked match","Halte ALT, um ein Team zu wählen und dem Spiel beizutreten. Dadurch wird dein Spiel gewertet!"
+"XL1000_WARMUPJOINMESSAGE","Hold ALT to select a team and join the game. By joining you are committing to a full ranked match","Halte ALT, um ein Team zu wählen und dem Spiel beizutreten. Dadurch wird dein Spiel gewertet"
 "XL1000_THEROUNDWILLBEGININ","The round will begin in","Die Runde beginnt in"
 "XL1000_THEDEATHMATCHWILLBEGININ","The deathmatch will begin in","Das Deathmatch beginnt in"
 "XL1000_SECONDS","seconds","Sekunden"
 "XL1000_DRAW","Draw","Unentschieden"
 "XL1000_WINTHEROUND","win the round","gewinnt die Runde"
-"XL1000_WINSTHEROUND","wins the round","gewinnen die Runde"
+"XL1000_WINSTHEROUND","wins the round","gewinnt die Runde"
 "XL1000_YOUCOMPLETEDTHEROUND","You completed the round","Du hast die Runde abgeschlossen"
 "XL1000_NEWLEVELCOMPLETED","New level completed","Neuer Level abgeschlossen"
 "XL1000_YOUBROKETHETOPRECORD","You broke the top record","Du hast den Rekord gebrochen"
@@ -1490,50 +1519,50 @@
 "XL1000_KILLZOMBIESTODETONATEBOMB","Kill zombies to detonate the bomb.","Töte Zombies, um die Bombe zum Explodieren zu bringen."
 "XL1000_BANDURATION","Ban Duration (minutes)","Sperrzeit (Minuten)"
 "XL1000_NEWVERSIONSTARTUPDATING","A NEW VERSION OF GENESHIFT IS OUT. CLICK HERE TO START UPDATING!","ES GIBT EINE NEUE VERSION VON GENESHIFT. KLICKE HIER, UM DAS UPDATE ZU STARTEN!"
-"XL1000_FINISHEDDOWNLOADINGRESTARTGAME","GENESHIFT FINISHED DOWNLOADING! RESTART THE GAME TO COMPLETE THE UPDATE.","GENESHIFT WURDE HERUNTERGELADEN! SPIEL NEUSTARTEN, UM DAS UPDATE ABZUSCHLIEßEN!"
+"XL1000_FINISHEDDOWNLOADINGRESTARTGAME","GENESHIFT FINISHED DOWNLOADING! RESTART THE GAME TO COMPLETE THE UPDATE.","GENESHIFT WURDE HERUNTERGELADEN! SPIEL NEUSTARTEN, UM DAS UPDATE ABZUSCHLIESSEN."
 "XL1000_PLEASELOGIN1","Welcome to Geneshift! Please login or create a username below.","Willkommen bei Geneshift! Bitte einloggen oder Account erstellen."
 "XL1000_PLEASELOGIN2","Creating a username allows your progress to be saved.","Ein Account ermöglicht ein Speichern des Fortschritts und den Zugang zu den Offiziellen Foren."
 "XL1000_LOGINTOYOURACCOUNT","Login to continue your progress.","Logge dich ein, um deinen Fortschritt zu erweitern."
 "XL1001_PLEASEREGISTER","Welcome! Create a new username.","Willkommen! Erstelle einen neuen Benutzernamen."
 "XL1000_ACCOUNTSTATISTICS","Account Statistics","Kontostatistiken"
-"XL1000_RECENTCHANGES","Recent Changes",""
-"XL1000_NEWVERSION","New Version!",""
+"XL1000_RECENTCHANGES","Recent Changes","Letzte Änderungen"
+"XL1000_NEWVERSION","New Version!","Neue Version!"
 "XL1001_YOURPARTY","Your Party","Deine Party"
 "XL1001_DAILYCHALLENGES","Daily Challenges","Tägliche Herausforderungen"
 "XL1001_GIVEUSFEEDBACK","Give us Feedback","Gib' uns Feedback"
 "XL1001_GIVEUSFEEDBACK_DESC","Enter the Discord code to get +50 kill coins","Füge den Discord Code ein, um +50 Killmünzen zu bekommen"
 "XL1001_GIVEUSFEEDBACK_DESC2","Wubba lubba dub dub!","Wubba lubba dub dub!"
 "XL1001_LOGINTOVIEWCHALLENGES","Login to view challenges","Logge dich ein, um Herausforderungen zu sehen"
-"XL1001_UPGRADETOACCESSCHALLENGE","Unlock the full game to access this third daily challenge slot!","Entsperre das volle Spiel, um den dritten Herausforderungsslot freizuschalten!"
+"XL1001_UPGRADETOACCESSCHALLENGE","Unlock the Supporters DLC to access this third daily challenge slot!","Entsperre das volle Spiel, um den dritten Herausforderungsslot freizuschalten!"
 "XL1001_LOGINTOENTERDISCORDCODE","Login to enter your Discord code","Logge dich ein, um deinen Discord Code einzugeben"
 "XL1001_ONSALENOW","On Sale Now","Jetzt mit Rabatt"
 "XL1001_DISCOUNT","Discount","Rabatt"
 "XL1001_SUPPORTDEVELOPMENT","Support Development!","Unterstütze die Entwicklung!"
-"XL1001_GETTHECOMPLETEEDITION","Get the Complete Edition","Hol dir die Complete Edition"
-"XL1003_BASICACCOUNTDESC00","Get the Complete Edition DLC on Steam to unlock the full game. Support development and unlock these cool features!","Hole dir das"
-"XL1000_BASICACCOUNTDESC01","Geneshift is on sale for a limited time on Steam. Upgrade now to support development and get the full game for cheap!","Geneshift ist für limitierte Zeit auf Steam im Angebot. Upgrade jetzt, um die Entwicklung zu unterstützen und hol' dir das volle Spiel für wenig Geld!"
-"XL1000_SPECIALPROMOTION","Get a Free Game!",""
-"XL1000_SPECIALPROMOTION_DESC","This month, if you tell just {{%01%}} friends about Geneshift you'll get the full game for FREE!",""
-"XL1002_GETAFREESTEAMKEY","Get Geneshift for Free!",""
-"XL1002_FREESTEAMKEY","FREE STEAM KEY",""
+"XL1001_GETTHESUPPORTERSEDITION","Get the Supporters Edition",""
+"XL1006_BASICACCOUNTDESC00","Get the Supporters DLC on Steam to unlock these cool features!",""
+"XL1000_BASICACCOUNTDESC01","The Supporters Edition is on sale for a limited time on Steam. Upgrade now to support development and get the DLC for cheap!","Geneshift ist für limitierte Zeit auf Steam im Angebot. Upgrade jetzt, um die Entwicklung zu unterstützen und hol' dir das volle Spiel für wenig Geld!"
+"XL1001_SPECIALPROMOTION","Get the DLC Free!",""
+"XL1001_SPECIALPROMOTION_DESC","This month, if you tell just {{%01%}} friends about Geneshift you'll get the DLC for FREE!",""
+"XL1002_GETAFREESTEAMKEY","Get the DLC for Free!","Erhalte Geneshift gratis!"
+"XL1002_FREESTEAMKEY","FREE STEAM KEY","GRATIS STEAM-KEY"
 "XL1009_FREEACCOUNTDESC01","The Full Co-op Campaign","Einzelspieler/Co-op Kampagne"
 "XL1009_FREEACCOUNTDESC02","Access All Locked Kill Coins","Greife auf gesperrte Killmünzen zu"
 "XL1009_FREEACCOUNTDESC03","Unlock 70 New Challenges","Entsperre 70 neue Herausforderungen"
-"XL1010_FREEACCOUNTDESC04","Multiple Co-op Survival Runs",""
+"XL1010_FREEACCOUNTDESC04","Multiple Co-op Survival Runs","Mehrere Kooperative Überlebensläufe"
 "XL1009_FREEACCOUNTDESC05","Show Supporter's Medallion","Zeige Supporter-Medallie"
 "XL1009_FREEACCOUNTDESC01_DESC","Save the world in the full campaign, either solo or co-op (4 players online).","Spiele die volle Kampagne entweder solo, oder mit bis zu 4 Freunden online."
 "XL1009_FREEACCOUNTDESC02_DESC","Use 100% of the kill coins that you earn instead of just 20%. The locked 80% that you've already earned will become instantly available.","Benutze 100% der verdienten Killmünzen anstelle von 20%. Die 80% bereits verdienten Münzen werden direkt verfügbar."
 "XL1009_FREEACCOUNTDESC03_DESC","Complete challenges of increasing difficulty and gain bonus rewards. You'll also be able to complete one extra daily challenge per day.","Meistere Herausforderungen von steigenden Schwierigkeitsgraden und verdiene Boni. Außerdem schaltest du damit eine weitere tägliche Herausforderung frei."
-"XL1010_FREEACCOUNTDESC04_DESC","Play daily survival runs multiple times a day. Also unlock co-op (4 players online), and try survive alongside friends who also own the DLC.",""
+"XL1010_FREEACCOUNTDESC04_DESC","Play daily survival runs multiple times a day. Also unlock co-op (4 players online), and try survive alongside friends who also own the DLC.","Spiele mehrere Überlebensläufe pro Tag. Schalte auch den Kooperativen Modus (4 Spieler online) frei, und überlebe zusammen mit deinen Freunden, die auch das DLC besitzen."
 "XL1009_FREEACCOUNTDESC05_DESC","Display this medallion next to your name in the leaderboards and chat.","Zeige diesen Medallion neben deinem Namen in Ranglisten und im Chat."
-"XL1005_REFERRAL_INFO","Ask {{%01%}} friends to enter your name here - and get a free game!",""
+"XL1005_REFERRAL_INFO","Ask {{%01%}} friends to enter your name here - and get the DLC for free!","Frage {{%01%}} Freunde, deinen Namen hier einzutippen - und erhalte die Volllversion gratis!"
 "XL1004_REFERRAL_FREESTEAMKEY","Free Steam Key","Steam Key"
-"XL1004_REFERRAL_FREESTEAMKEY_DESC","Get the Complete Edition DLC for FREE! You only need to recruit {{%01%}} players. Then a key will automatically appear here for you (or a friend) to use.",""
-"XL1004_REFERRAL_BONUSKILLCOINS","Bonus Kill Coins",""
-"XL1004_REFERRAL_BONUSKILLCOINS_DESC01","Also, whenever you recruit a new player you'll receive:",""
-"XL1005_REFERRAL_BONUSKILLCOINS_DESC02","Every {{%01%}} recruits will award you an additional:",""
-"XL1004_REFERRAL_RECRUITXPLAYERS","Recruit {{%01%}} Players",""
-"XL1006_REFERRAL_SIGNUPBONUS_DESC","You gain +1 recruit when someone enters your name in the box above. Even better, if someone clicks your referral link then they MUST use your name, so share it around! Players also get +{{%01%}} coins for adding a name.",""
+"XL1005_REFERRAL_FREESTEAMKEY_DESC","Get the Supporters Edition for FREE! You only need to recruit {{%01%}} players. Then a key will automatically appear here for you (or a friend) to use.",""
+"XL1004_REFERRAL_BONUSKILLCOINS","Bonus Kill Coins","Bonus Killmünzen"
+"XL1004_REFERRAL_BONUSKILLCOINS_DESC01","Also, whenever you recruit a new player you'll receive:","Jedes Mal, wenn du einen neuen Spieler rekrutierst, erhälst du:"
+"XL1005_REFERRAL_BONUSKILLCOINS_DESC02","Every {{%01%}} recruits will award you an additional:","Jede {{%01%}} Rekruten belohnen dich zusätzlich mit:"
+"XL1004_REFERRAL_RECRUITXPLAYERS","Recruit {{%01%}} Players","Rekrutiere {{%01%}} Spieler"
+"XL1006_REFERRAL_SIGNUPBONUS_DESC","You gain +1 recruit when someone enters your name in the box above. Even better, if someone clicks your referral link then they MUST use your name, so share it around! Players also get +{{%01%}} coins for adding a name.","Du erhälst +1 Rekruten, wenn jemand deinen Namen in die obrige Box einträgt. Noch besser ist, dass wenn einer deinen Link anklickt, er deinen Namen eingeben MUSS. Also teile deinen Link! Spieler erhalten auch +{{%01%}} Münzen dafür, deinen Namen einzugeben."
 "XL1000_SUCCESS","Success!","Erfolg!"
 "XL1000_SUCCESSFULLYLOGGEDINAS","Successfully logged in as","Erfolgreich eingeloggt als"
 "XL1000_INVALIDPROFILEDETECTED","Invalid Profile Detected.","Ungültiges Profil erkannt."
@@ -1553,14 +1582,14 @@
 "XL1000_WINDOWSIDUSED","Your Windows ID is already associated with the Geneshift username","Deine Windows ID ist bereits mit dem Geneshift Benutzernamen verbunden"
 "XL1000_STOREIDUSED","Your store ID is already associated with the Geneshift username","Deine Store ID ist bereits mit dem Geneshift Benutzernamen verbunden"
 "XL1000_LOGINWITHACCOUNTINSTEAD","Please log-in with this account instead","Bitte mit diesem Account einloggen"
-"XL1000_OLDVERSION","Your version is out of date. Please restart Steam to force an update.","Du verwendest eine alte Version. Bitte aktualisieren!"
-"XL1000_OLDVERSIONNOSTEAM","Your version is out of date. Please switch to the free version on Steam to gain auto-updates! You can log in with the same account.",""
+"XL1000_OLDVERSION","Your version is out of date. Please restart Steam to force an update.","Du verwendest eine alte Version. Bitte aktualisieren."
+"XL1000_OLDVERSIONNOSTEAM","Your version is out of date. Please switch to the free version on Steam to gain auto-updates! You can log in with the same account.","Deine Spielversion ist nicht aktuell. Wechsle zu der gratis Steam Version, um automatische Updates zu erhalten! Du kannst dich mit dem selben Account einloggen."
 "XL1000_FAILEDTOREGISTER","Failed to register new username. Please try again.","Account konnte nicht erstellt werden. Bitte erneut versuchen."
 "XL1000_SERVERSAREDOWN","Geneshift's servers are down for emergency maintenance. Please try again in a few minutes!","Geneshift Server sind im Wartungsmodus. Versuche es später noch einmal!"
 "XL1000_USERNAMENOTFOUND","The username you entered could not be found.","Der eingegebene Benutzername konnte nicht gefunden werden."
-"XL1000_MUSTBEAFRIENDONSTEAM","To limit abuse, you must first be friends with this person on Steam.",""
+"XL1000_MUSTBEAFRIENDONSTEAM","To limit abuse, you must first be friends with this person on Steam.","Um Ausnutzung und Trolling zu verhindern, musst du erst mit dieser Person auf Steam befreundet sein."
 "XL1000_INCORRECTPASSWORD1","The password you entered is incorrect.","Das eingegebene Passwort ist falsch."
-"XL1001_INCORRECTPASSWORD2","Please ensure you're logged into Steam. You can also contact me at bencelot@geneshift.net or discord.gg/geneshift","Bitte prüfe, dass du in Steam eingeloggt bist. Notfalls kannst du mich unter bencelot@geneshift.net oder discord.gg/geneshift erreichen."
+"XL1001_INCORRECTPASSWORD2","Please ensure you're logged into Steam. You can also contact me at bencelot@geneshift.net or discord.gg/geneshift","Bitte prüfe, dass du in Steam eingeloggt bist. Notfalls kannst du mich unter bencelot@geneshift.net oder discord.gg/geneshift erreichen"
 "XL1000_ACCOUNTSUCCESSFULLYCREATED","Username successfully created!","Account erfolgreich erstellt!"
 "XL1000_FREEACCOUNTCREATED","Free account created!","Kostenloser Account erstellt!"
 "XL1000_NEWMUTANTWARNING","Only use this if you want to create/play as a different mutant.","Nur verwenden, wenn du mit einem anderen Mutanten spielen willst."
@@ -1584,7 +1613,7 @@
 "XL1000_CHOOSEAGAMEMODE","Choose at least 1 game mode","Wenigstens einen Spielmodus auswählen"
 "XL1000_SPECIFYAMAPNAME","Specify a Map Name","Kartennamen angeben"
 "XL1000_MAPALREADYEXISTS","This Map Already Exists","Diese Karte existiert bereits"
-"XL1000_TEXTUREWARNING","Are you sure you want to change the texture that this map uses? If you have simply renamed your texture and are updating your map, then this is ok. Otherwise, the textures may not display on the tiles as you would expect.","Willst du die Texturdatei für diese Karte wirklich ändern? Dies kann zu Anzeigefehlern führen."
+"XL1000_TEXTUREWARNING","Are you sure you want to change the texture that this map uses? If you have simply renamed your texture and are updating your map, then this is ok. Otherwise, the textures may not display on the tiles as you would expect.","Willst du die Texturdatei für diese Karte wirklich ändern? Falls du die Textur nur umbenannt hast, ist das ok. Ansonsten kann es zu Anzeigefehlern kommen."
 "XL1000_TEXTUREINFO1","Select the texture that this map that will use. If you want to use your own texture map, save it into","Wähle eine Texturdatei für diese Karte aus. Speichere eigene Texturdateien in"
 "XL1000_TEXTUREINFO2","as a png. Note: your account name must be included somewhere in the filename for it to be usable and appear in this list.","als PNG Datei. Hinweis: Dein Accountname muss im Dateinamen auftauchen um in der Liste angezeigt zu werden."
 "XL1000_TEXTUREINFO3","If you choose to create your own texture map remember that each map tile is 64x64 pixels in size. Also ensure that the dimensions of your texture are one of the following sizes: 128, 256, 512, 1024, or 2048 pixels.","Wenn du deine eigene Texturdatei erstellst, muss jeder Block 64x64 Pixel groß sein. Die gesamte Datei muss 128, 256, 512, 1024, oder 2048 Pixel groß sein."
@@ -1604,27 +1633,27 @@
 "XL1000_GAMECANCELLED","Game cancelled.","Spiel abgebrochen."
 "XL1000_GAMECLOSEDBYSERVER","The game was closed by the server.","Das Spiel wurde vom Server beendet."
 "XL1000_ERRORNOACCOUNT","You need to be logged in to play in this server. Go to the Main Menu to login or create a username.","Du musst eingeloggt sein, um auf diesem Server spielen zu können. Im Hauptmenü kannst du dich einloggen/registrieren."
-"XL1000_ERRORFREERANKED","Ranked servers require the Complete Edition of Geneshift to play. Purchase the Complete Edition DLC on Steam.","Gewertete Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
-"XL1000_ERRORFREESPEEDRUNS","Speedrun servers require the Complete Edition of Geneshift to play. Purchase the Complete Edition DLC on Steam.","Speedrun Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
-"XL1000_ERRORFREEPERMANENTMATCH","Permanent skill servers require the Complete Edition of Geneshift to play. Purchase the Complete Edition DLC on Steam.","Permanente Skill Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
-"XL1000_ERRORFREECUSTOMWEAPONS","Custom weapon mod servers require the Complete Edition of Geneshift to play. Purchase the Complete Edition DLC on Steam.","Modifzierte Waffen Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
-"XL1000_ERRORFREEGAMEMODE","This game mode requires the Complete Edition of Geneshift to play. Purchase the Complete Edition DLC on Steam.","Dieser Spielmodus benötigt die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1000_ERRORFREERANKED","Ranked servers require the Supporters Edition of Geneshift to play. Purchase the Supporters Edition DLC on Steam.","Gewertete Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1000_ERRORFREESPEEDRUNS","Speedrun servers require the Supporters Edition of Geneshift to play. Purchase the Supporters Edition DLC on Steam.","Speedrun Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1000_ERRORFREEPERMANENTMATCH","Permanent skill servers require the Supporters Edition of Geneshift to play. Purchase the Supporters Edition DLC on Steam.","Permanente Skill Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1000_ERRORFREECUSTOMWEAPONS","Custom weapon mod servers require the Supporters Edition of Geneshift to play. Purchase the Supporters Edition DLC on Steam.","Modifzierte Waffen Server benötigen die Complete Edition von Geneshift. Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1001_ERRORFREEGAMEMODE","This game mode requires the Supporters Edition of Geneshift to play. Purchase the Supporters Edition DLC on Steam.",""
 "XL1000_ERRORDUPLICATEACCOUNT","is already playing in this server. You cannot join this server with duplicate account names.","spielt bereits auf diesem Server. Es können keine zwei gleichen Benutzernamen gleichzeitig spielen."
 "XL1000_HOSTERROR_MUSTLOGIN","You need to be logged in to host this game mode. Go to the Main Menu to login or register an account.","Du musst eingeloggt sein, um diesen Spielmodus hosten zu können."
-"XL1000_HOSTERROR_FREEGAMEMODE01","You need the Complete Edition DLC to host this game mode. Purchase the Complete Edition DLC on Steam.","Du benötigst die Complete Edition von Geneshift um diesen Modus spielen zu können. Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1000_HOSTERROR_FREEGAMEMODE01","You need the Supporters Edition DLC to host this game mode. Purchase the Supporters Edition DLC on Steam.","Du benötigst die Complete Edition von Geneshift um diesen Modus spielen zu können. Bitte kaufe den Complete Edition DLC auf Steam."
 "XL1000_HOSTERROR_NOMAP","You must select a map before you can start this game.","Du musst eine Karte auswählen, bevor du das Spiel starten kannst."
 "XL1000_HOSTERROR_DIFFICULTYKILLCOINS","You need more kill coins before playing this difficulty.","Du brauchst mehr Killpunkte, bevor du diese Schwierigkeit spielen kannst."
 "XL1000_HOSTERROR_DEATHMATCH_REQUIREMENTS","You must specify a target cash or kills value to start a Deathmatch game.","Du musst Zielvorgaben (Cash, Kills) machen um ein Deathmatch zu starten."
 "XL1000_EXTRACTION_OBJECTIVES","You must specify at least one objective to start an Extraction game.","Du musst mindestens ein Ziel angeben um ein Extraction Spiel zu starten."
 "XL1001_HOSTERROR_MUSTLOGINSPEEDRUNS01","You must be logged in to compete on Leaderboards.","Du musst eingeloggt sein um auf den Ranglisten mitzuspielen."
 "XL1000_HOSTERROR_MUSTLOGINSPEEDRUNS02","Go to the Main Menu to login or register an account.","Im Hauptmenü kann man sich einloggen oder einen Account registrieren."
-"XL1001_HOSTERROR_FREESPEEDRUNS01","You need the Complete Edition to play Leaderboards.","Du benötigst die Complete Edition um auf den Ranglisten mitzuspielen."
-"XL1000_HOSTERROR_FREESPEEDRUNS02","Purchase the Complete Edition DLC on Steam.","Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1001_HOSTERROR_FREESPEEDRUNS01","You need the Supporters Edition to play Leaderboards.","Du benötigst die Complete Edition um auf den Ranglisten mitzuspielen."
+"XL1000_HOSTERROR_FREESPEEDRUNS02","Purchase the Supporters Edition DLC on Steam.","Bitte kaufe den Complete Edition DLC auf Steam."
 "XL1001_HOSTERROR_MUSTLOGINCAMPAIGN01","Please login to play the full campaign (internet is needed for leaderboards).","Bitte logge dich ein um die komplette Kampagne spielen zu können (Internet wird für die Ranglisten benötigt)."
-"XL1001_HOSTERROR_FREECAMPAIGN01","Purchase the full game to play the singleplayer campaign.","Bitte kaufe den Complete Edition DLC um die komplette Kampagne zu spielen."
-"XL1000_HOSTERROR_FREELEVELSKILLS01","You need the Complete Edition to create a permanent skill build. Purchase the Complete Edition DLC on Steam.","Du benötigst die Complete Edition um einen permanenten Skill Build zu erstellen. Bitte kaufe den Complete Edition DLC auf Steam."
-"XL1001_HOSTERROR_BUYDLCTOHOSTGAMEMODE","You need the full game to play this game mode.","Du brauchst das volle Spiel, um diesen Modus zu spielen."
-"XL1000_HOSTERROR_YOUNEEDMOREKCTOPLAYTHISDIFF","Earn Kill Coins to play","Verdiene Killmünzen, um zu spielen:"
+"XL1002_HOSTERROR_FREECAMPAIGN01","Purchase the Supporters DLC to play the singleplayer campaign.",""
+"XL1000_HOSTERROR_FREELEVELSKILLS01","You need the Supporters Edition to create a permanent skill build. Purchase the Supporters Edition DLC on Steam.","Du benötigst die Complete Edition um einen permanenten Skill Build zu erstellen. Bitte kaufe den Complete Edition DLC auf Steam."
+"XL1001_HOSTERROR_BUYDLCTOHOSTGAMEMODE","You need the Supporters DLC to play this game mode.","Du brauchst das volle Spiel, um diesen Modus zu spielen."
+"XL1000_HOSTERROR_YOUNEEDMOREKCTOPLAYTHISDIFF","Earn Kill Coins to play","Verdiene Killmünzen, um zu spielen"
 "XL1000_DEATHMATCHDESCRIPTION","The winning player or team is the the first to reach the target kills and target cash set below.","Der Spieler oder das Team gewinnt, wer zuerst die Zielvorgaben an Geld oder Kills erreicht."
 "XL1000_EXTRACTIONDESCRIPTION","The winning team is the first to extract all the objectives; one at a time and in the order specified below.","Das Team gewinnt, welches zuerst alle unten genannten Ziele in der Reihenfolge extrahiert hat."
 "XL1000_CHECKPOINTDESCRIPTION","The winning team is the first to complete all of the laps in the direction set below.","Das Team gewinnt, welches zuerst alle Runden in der angegebenen Richtung abgeschlossen hat."
@@ -1638,7 +1667,7 @@
 "XL1000_RAPIDMUTATIONDESC2","enemy mutants wins.","gegnerische Mutanten tötet, gewinnt."
 "XL1000_SOLDIERSGLORYDESC1","Rise through the ranks. Play in a faction and slay your opponents. The first player to kill","Steige im Rang auf. Schließe dich einer Faktion an und besiege deine Gegner. Der erste Spieler, der"
 "XL1000_SOLDIERSGLORYDESC2","enemy mutants wins.","gegnerische Mutanten tötet, gewinnt."
-"XL1000_CASHFLOWDESC1","Money is everything. Complete missions and neutralize chemicals to build your fortune. The first player to earn","Geld ist alles. Schließe Missionen ab und töte Gangster um dein Vermögen aufzubauen."
+"XL1000_CASHFLOWDESC1","Money is everything. Complete missions and neutralize chemicals to build your fortune. The first player to earn","Geld ist alles. Schließe Missionen ab und töte Gegner um dein Vermögen aufzubauen. Der erste Spieler, der erreicht"
 "XL1000_CASHFLOWDESC2","cash wins.","Geld gewinnt."
 "XL1000_STRATEGISTDESC1","Balance is key. You need the kills.. but you also need the cash. The first player to kill","Balance ist alles. Du brauchst die Tötungen aber auch das Geld. Der erste Spieler der"
 "XL1000_STRATEGISTDESC2","enemy mutants and earn","gegnerische Mutanten tötet, und"
@@ -1666,7 +1695,7 @@
 "XL1000_MEGAHEISTDESC1","Here you have multiple objectives to extract. Each objective must be extracted to its own extraction zone. The first team to extract all","Es gibt mehrere Ziele zu extrahieren. Jedes Ziel muss zu seinem Zielort gebracht werden. Das erste Team mit"
 "XL1000_MEGAHEISTDESC2","objectives wins the round.","extrahierten Zielen gewinnt die Runde."
 "XL1000_CHECKPOINTDESC1","The first team to complete","Das erste Team welches abschließt"
-"XL1000_CHECKPOINTDESC2","Carrying the Battery through checkpoints increases the max hitpoints of the vehicle carrying it","Transportieren der Batterie durch die Kontrollpunkte erhöht die maximalen Trefferpunkte des Fahrzeugs."
+"XL1000_CHECKPOINTDESC2","Carrying the Battery through checkpoints increases the max hitpoints of the vehicle carrying it","Das Transportieren der Batterie durch die Kontrollpunkte erhöht die maximalen Trefferpunkte des Fahrzeugs"
 "XL1000_CHECKPOINTDESC3","The Battery alternates between teams after each lap","Die Batterie wechselt das Team nach jeder Runde"
 "XL1000_CHECKPOINTDESC4","Boosting is disabled when carrying the Battery","Boost ist deaktiviert, wenn man die Batterie transportiert"
 "XL1000_OUTBREAKDESC1","Cooperatively defend against zombies to detonate all the bombs in the map","Zusammen gegen Zombies kämpfen um alle Bomben auf der Karte zu zünden"
@@ -1674,7 +1703,7 @@
 "XL1000_OUTBREAKDESC3","It will require","Noch"
 "XL1000_OUTBREAKDESC4","zombie souls to detonate all of the bombs","Zombieseelen um alle Bomben zu zünden"
 "XL1000_OUTBREAKDESC5","Zombies will only spawn upon players within range of the bomb","Zombies entstehen nur bei Spielern in Bombennähe"
-"XL1000_OUTBREAKDESC6","Survive against zombies while detonating all of the bombs in the map. Players who are killed will turn into zombies","Überlebe die Zombies während du alle Bomben auf der Karte zündest. Spieler die getötet werden, verwandeln sich in Zombies."
+"XL1000_OUTBREAKDESC6","Survive against zombies while detonating all of the bombs in the map. Players who are killed will turn into zombies","Überlebe die Zombies während du alle Bomben auf der Karte zündest. Spieler die getötet werden, verwandeln sich in Zombies"
 "XL1001_OUTBREAKDESC7","Players compete to finish quickly and place on leaderboards","Spieler kämpfen um die Bestzeit für ihren Platz auf den Ranglisten"
 "XL1000_STEALTHDESC1","Progress through the map by killing guards and detonating the bombs they protect","Kämpfe dich durch die Karte indem du Wachen tötest und die bewachten Bomben zündest"
 "XL1000_SURVIVAL","Survival!","Überleben!"
@@ -1742,14 +1771,13 @@
 "XL1000_KILLCASH","kill cash","Beute"
 "XL1001_HEALTHDESC01","Restores your health.","Stellt Gesundheit wieder her. Du bekommst auch Gesundheit bei Zurückbringen von Zombieseelen zur Bombe."
 "XL1003_MANADESC01","Restores your mana and lets you cast skills.","Füllt deine Mana und lässt dich Skills benutzen."
-"XL1000_CASHDESC01","Gives you cash. To buy weapons and ammo, stand inside a checkpoint and press [B].","Bringt die einen Haufen Geld. Du bekommst noch mehr Geld durch Meucheln und Komboabschüsse gegen Wachen."
+"XL1000_CASHDESC01","Gives you cash. To buy weapons and ammo, stand inside a checkpoint and press [B].","Bringt dir einen Haufen Geld. Um Waffen und Munition zu kaufen, stelle dich in einen Checkpoint und drücke [B]."
 "XL1000_MUTATIONDESC01","Gives you skill points. Level skills by holding [ALT]. Skills reset after each match.","Bringt die Fähigkeitspunkte. Du kannst Skills die du bereits entdeckt hast, verbessern indem du [ALT] hältst."
 "XL1002_PHASERDESC01","Increases how many phase shifts you can perform in a row. Press [SHIFT] to shift.","Erhöht die Anzahl an Phasenshifts. Drücke [UMSCHALT] um zu shiften."
 "XL1000_UPGRADESKILLTREES","Multi Builds","Multi-Builds"
-"XL1001_UPGRADESKILLTREES_DESC","Lets you to create builds that mix Cybernetic, Physical, and Mental skills together. However, you will have to pay a penalty of 4 skill points to unlock each additional tree, leaving fewer points for actual skills.","Lässt dich Builds erstellen, die kibernetische, physische und mentale Skills verbinden.
-Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizuschalten, sodass am Ende weniger übrig bleibt."
+"XL1001_UPGRADESKILLTREES_DESC","Lets you to create builds that mix Cybernetic, Physical, and Mental skills together. However, you will have to pay a penalty of 4 skill points to unlock each additional tree, leaving fewer points for actual skills.","Lässt dich Builds erstellen, die kibernetische, physische und mentale Skills verbinden. Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizuschalten, sodass am Ende weniger übrig bleibt."
 "XL1000_UPGRADEXPRATE","XP Multiplier","XP Multiplikator"
-"XL1001_UPGRADEXPRATE_DESC","Increases the XP you earn at the end of each match by 10%. This is applied to all forms of XP earned except challenges.",""
+"XL1001_UPGRADEXPRATE_DESC","Increases the XP you earn at the end of each match by 10%. This is applied to all forms of XP earned except challenges.","Erhöht die XP, die du am Ende jedes Mathes erhälst, um 10%. Dies betrifft alle Arten von XP, außer die von Herausforderungen."
 "XL1000_CHALLENGE_FALLINGDAGGER","Falling Dagger","Fallende Klingen"
 "XL1000_CHALLENGE_CARKILLER","Car Killer","Autobomber"
 "XL1000_CHALLENGE_GRENADIER","Grenadier","Grenadier"
@@ -1764,12 +1792,12 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_CHEMICALHUNTER","Chemical Hunter","Verrückter Wissenschaftler"
 "XL1000_CHALLENGE_PESTCONTROL","Pest Control","Pestdoktor"
 "XL1000_CHALLENGE_TICKINGTIMEBOMB","Ticking Time Bomb","Tick Tack"
-"XL1000_CHALLENGE_UNHARMED","Unharmed","Unverwundbar"
+"XL1000_CHALLENGE_UNHARMED","Unharmed","Unverletzt"
 "XL1000_CHALLENGE_CASHCOLLECTOR","Cash Collector","Geizhals"
 "XL1000_CHALLENGE_KILLINGSPREE","Killing Spree","Amoklauf"
 "XL1000_CHALLENGE_QUADKILL","Quadkill","Viererkill"
 "XL1000_CHALLENGE_MULTIKILL","Multikill","Multikill"
-"XL1000_CHALLENGE_UNSTOPPABLE","Unstoppable","Nicht aufzuhalten"
+"XL1000_CHALLENGE_UNSTOPPABLE","Unstoppable","Unaufhaltbar"
 "XL1000_CHALLENGE_GETSHIFTY","Get Shifty","Nicht nur eine Phase"
 "XL1000_CHALLENGE_FLAWLESSVICTORY","Flawless Victory","Perfektionist"
 "XL1000_CHALLENGE_SURPRISEATTACK","Surprise Attack","Überraschung"
@@ -1790,7 +1818,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_ALCHEMIST","Alchemist","Alchemist"
 "XL1000_CHALLENGE_SHOTGUNSHOTGUNNING","Double Shotgun","Schrot verschießen"
 "XL1000_CHALLENGE_VEHICULARHOMICIDE","Vehicular Homicide","Fahrzeug-Massenmord"
-"XL1001_CHALLENGE_HEARTHUNTER","Heart Hunter",""
+"XL1001_CHALLENGE_HEARTHUNTER","Heart Hunter","Herz Hetzer"
 "XL1000_CHALLENGE_KINGOFTHECIRCLE","King of the Circle","König des Kreises"
 "XL1000_CHALLENGE_MARKSMAN","Marksman","Meisterschütze"
 "XL1000_CHALLENGE_REVENGE","Revenge","Rache"
@@ -1830,7 +1858,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_KILLERCLAWS","Killer Claws","Killerkrallen"
 "XL1000_CHALLENGE_SUPPRESSIVEFIRE","Suppressive Fire","Unterdrückungsfeuer"
 "XL1000_CHALLENGE_RIFLERAMPAGE","Rifle Rampage","Gewehr Amok"
-"XL1000_CHALLENGE_FALLINGDAGGER_DESC","Knife an enemy while falling from the sky.","Töte einen Gegner währen du vom Himmel fällst."
+"XL1001_CHALLENGE_FALLINGDAGGER_DESC","Kill an enemy with your knife while falling from the sky. Hold the mouse to charge up your knife and do a one-shot kill.",""
 "XL1000_CHALLENGE_CARKILLER_DESC","Kill an enemy by blowing up his vehicle.","Töte einen Gegner indem du sein Fahrzeug explodieren lässt."
 "XL1000_CHALLENGE_GRENADIER_DESC","Kill an enemy player with a grenade.","Töte einen Gegner mit einer Granate."
 "XL1001_CHALLENGE_LASTMANSTANDING_DESC","Win a battle royale round.","Gewinne eine Runde Battle Royale."
@@ -1841,7 +1869,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_ROADKILL_DESC","Run over and kill an enemy player with a vehicle.","Töte einen Gegner durch Überfahren."
 "XL1000_CHALLENGE_PACIFIST_DESC","Win a round without harming any enemy players or zombies.","Gewinne eine Solorunde ohne Gegner oder Zombies Schaden zuzufügen."
 "XL1001_CHALLENGE_WANTED_DESC","Get a 4 star wanted level.","Bekomme ein 4 Sterne Fahndungslevel."
-"XL1001_CHALLENGE_CHEMICALHUNTER_DESC","Destroy a concealed enemy chemical with the Neutralizer chemical.",""
+"XL1001_CHALLENGE_CHEMICALHUNTER_DESC","Destroy a concealed enemy chemical with the Neutralizer chemical.","Zerstöre eine kaschierte gegnerische Chemikalie mit dem Neutralisierer."
 "XL1000_CHALLENGE_PESTCONTROL_DESC","Kill 10 zombies in a single round.","Töte 20 Zombies in einer einzigen Runde."
 "XL1000_CHALLENGE_TICKINGTIMEBOMB_DESC","Kill an enemy player by detonating a Torpedo. The player must be on-foot when killed.","Töte 2 Gegner indem du einen Torpedo zur Explosion bringst. Die Gegner müssen dabei zu Fuß sein."
 "XL1000_CHALLENGE_UNHARMED_DESC","Win a round without taking any damage.","Gewinne eine Solo oder Duo Runde ohne Schaden zu nehmen."
@@ -1866,16 +1894,16 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_GOLDENBULLET_DESC","Kill 2 enemy players with the same bullet. Explosive and vehicle kills don't count.","Töte zwei Spieler mit der selben Kugel. Sprengstoff und Fahrzeuge zählen nicht."
 "XL1001_CHALLENGE_STALKER_DESC","While invisible, stay next to an enemy player for 25s. You must remain within 15m of the enemy the entire time.","Solange du unsichtbar bist, bleibe in der Nähe eines Gegners für 25 Sekunden. Du musst innerhalb von 15 Metern sein."
 "XL1000_CHALLENGE_SPEEDRUN_DESC","Win a 50 point, 10+ player match in under 10 minutes.","Gewinne ein 30 Punkte, 10+ Spieler Solo oder Duo Match in weniger als 10 Minuten."
-"XL1002_CHALLENGE_HOLDYOURBREATH_DESC","Stay in the circle of death for at least 30 seconds without dying and without using vehicles.",""
-"XL1000_CHALLENGE_ALCHEMIST_DESC","Earn a total of $10,000 by dropping weapons into the Alchemic Acid chemical.","Verdiene insgesamt $10.000 indem du Waffen in der Alchemic Acid Chemikalie auflöst."
+"XL1002_CHALLENGE_HOLDYOURBREATH_DESC","Stay in the circle of death for at least 30 seconds without dying and without using vehicles.","Halte dich mindestens 30 Sekunden in der Todeszone auf, ohne zu sterben und ohne ein Fahrzeug zu verwenden."
+"XL1000_CHALLENGE_ALCHEMIST_DESC","Earn a total of $10,000 by dropping weapons into the Alchemic Acid chemical.","Verdiene insgesamt $10.000 indem du Waffen in der Alchemie Säure Chemikalie auflöst."
 "XL1000_CHALLENGE_SHOTGUNSHOTGUNNING_DESC","Kill 3 enemies (zombies included) with a shotgun. Do this in a single round while riding shotgun in a vehicle.","Töte 5 Gegner (inkl. Zombies) mit einer Schrotflinte. In einer Runde, während du in einem Auto auf dem Beifahrersitz mitfährst."
 "XL1000_CHALLENGE_VEHICULARHOMICIDE_DESC","Kill 3 enemies (zombies included) by running them over with a vehicle in a single round.","Töte 5 Gegner (inkl. Zombies) indem du sie in einer Runde überfährst."
-"XL1003_CHALLENGE_HEARTHUNTER_DESC","As a zombie, find the Genetic Heart to resurrect.",""
+"XL1003_CHALLENGE_HEARTHUNTER_DESC","As a zombie, find the Genetic Heart to resurrect.","Finde das Generische Herz als Zombie, um wiederbelebt zu werden."
 "XL1003_CHALLENGE_KINGOFTHECIRCLE_DESC","Stay inside a buy zone for 90s without dying or leaving the circle.","Bleibe in einer Kaufzone für 90 Sekunden, ohne zu sterben oder den Kreis zu verlassen."
 "XL1000_CHALLENGE_MARKSMAN_DESC","Using the Barrett M98B, land 10 shots in a row without missing. This must be done in a single round without hitting vehicles.","Benutze die Barrett M98B, treffe 10 mal in Folge ohne danebenzuschiessen. Dies muss in einer Runde passieren und ohne Fahrzeuge zu treffen."
 "XL1000_CHALLENGE_REVENGE_DESC","As a zombie, kill the enemy player who most recently killed you.","Töte als Zombie den Spieler, der dich zu letzt getötet hat."
 "XL1000_CHALLENGE_CLOSESHAVE_DESC","Kill an enemy and survive with less than 20 hitpoints remaining.","Töte einen Gegner und überlebe mit weniger als 10 HP übrig."
-"XL1002_CHALLENGE_OVERHEAL_DESC","Collect enough health kits to reach 200 max hitpoints.",""
+"XL1002_CHALLENGE_OVERHEAL_DESC","Collect enough health kits to reach 200 max hitpoints.","Sammle so viel Verbandszeug, dass du 200 max. HP hast."
 "XL1000_CHALLENGE_HATTRICK_DESC","Kill 3 enemies (zombies included) in the same kill combo.","Töte 3 Gegner (inkl. Zombies) mit einem Kill Combo."
 "XL1000_CHALLENGE_WALLOFFLAMES_DESC","Kill 2 enemies (zombies included) with the same Molotov Cocktail.","Töte 2 Gegner (inkl. Zombies) mit dem gleichen Molotov Cocktail."
 "XL1000_CHALLENGE_MANICMECHANIC_DESC","Destroy an enemy vehicle with your knife.","Zerstöre ein gegnerisches Fahrzeug mit deinem Messer."
@@ -1888,11 +1916,11 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_TOUGHASNAILS_DESC","Take a total 500 hitpoints of enemy damage without dying.","Erleide 1000 HP Schaden von Gegnern ohne zu sterben."
 "XL1001_CHALLENGE_HUMILIATION_DESC","Kill an enemy player while they have extra damage. Extra Damage is given to players who are about to win the match.","Töte einen gegnerischen Spieler, während sie doppelten Schaden machen. Doppelten Schaden machen Spieler, die fast die Runde gewonnen haben."
 "XL1000_CHALLENGE_ISTUDIEDTHEBLADE_DESC","Win a 50 point, 10+ player solo match with only knife or zombie claw kills.","Gewinne ein 30 Punkte, 10+ Spieler Solo Match nur mit dem Messer."
-"XL1000_CHALLENGE_MELTDOWN_DESC","Kill 2 enemies (zombies included) with a single cast of the Radiate skill.","Töte drei Gegner (inkl. Zombies) mit einer Aktivierung vom Radiate Skill."
+"XL1000_CHALLENGE_MELTDOWN_DESC","Kill 2 enemies (zombies included) with a single cast of the Radiate skill.","Töte zwei Gegner (inkl. Zombies) mit einer Aktivierung vom Radiate Skill."
 "XL1001_CHALLENGE_MONEYBAGS_DESC","Save up $20,000 of in-game cash.","Spare 30.000$ an Spielgeld."
 "XL1000_CHALLENGE_KILLERCLIP_DESC","Kill 2 enemy players with the same gun without reloading.","Töte 2 Spieler mit der gleichen Waffe, ohne Nachzuladen."
 "XL1000_CHALLENGE_PISTOLPRACTICE_DESC","Deal 300 hitpoints of pistol damage against enemy players in a single round.","Mache 300 Pistolenschaden gegen Spieler in einer einzigen Runde."
-"XL1001_CHALLENGE_CIVSLAUGHTER_DESC","Kill 20 civilians in a single round.",""
+"XL1001_CHALLENGE_CIVSLAUGHTER_DESC","Kill 20 civilians in a single round.","Töte 20 Zivilisten in einer einzigen Runde."
 "XL1000_CHALLENGE_DRIVEBY_DESC","Kill an enemy player by firing out the window of a car.","Töte einen Gegner, während du im Auto sitzt."
 "XL1000_CHALLENGE_SILENTSTABBINGS_DESC","Kill 5 enemy players with a knife. You have the entire match to do this.","Töte 5 gegnerische Spieler mit einem Messer. Du hast eine ganze Runde dafür Zeit."
 "XL1000_CHALLENGE_SURVIVOR_DESC","Stay alive for 5 minutes.","Bleibe 5 Minuten am Leben."
@@ -1904,13 +1932,13 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHALLENGE_NAILEDIT_DESC","Kill 3 enemy players with the Nailgun without dying.","Töte 3 Spieler mit einer Nagelpistole, ohne zu sterben."
 "XL1000_CHALLENGE_SCRAPYARD_DESC","Destroy 5 vehicles in a single round.","Zerstöre 5 Fahrzeuge in einer Runde."
 "XL1000_CHALLENGE_WARPNETWORK_DESC","Place 3 Warp Fields inside 3 separate buy zones.","Platziere 3 Teleportfelder in 3 verschiedenen Kaufzonen."
-"XL1001_CHALLENGE_ROADRAGE_DESC","Run over 30 civilians in an entire match.",""
+"XL1001_CHALLENGE_ROADRAGE_DESC","Run over 30 civilians in an entire match.","Überfahre 30 Zivilisten in einem ganzen Match."
 "XL1000_CHALLENGE_DANGERZONE_DESC","Stay inside the central red zone for 90s without leaving or dying.","Bleibe in der zentralen roten Zone für 90 Sekunden, ohne sie zu verlassen oder zu sterben."
 "XL1000_CHALLENGE_JUMPFORJOY_DESC","Use 10 different jump pads in a single round.","Benutze 10 verschiedene Sprungplattformen in einer Runde."
 "XL1000_CHALLENGE_KILLERCLAWS_DESC","Kill a living player as a zombie by only using your claws.","Töte einen lebenden Spieler als Zombie, indem du nur die Krallen benutzt."
 "XL1000_CHALLENGE_SUPPRESSIVEFIRE_DESC","Fire 500 rounds in a single life, without dying and not as a zombie.","Feuer' 500 Schüsse in einem Leben, ohne zu sterben und nicht als Zombie."
 "XL1000_CHALLENGE_RIFLERAMPAGE_DESC","Kill 10 enemy players using an AK47 or M4A1 in an entire match.","Töte 10 Spieler mit einer AK47 oder M4A1 in einer Runde."
-"XL1000_DAILY_CHALLENGE_COMPLETED","This challenge will refresh in","Diese Herausforderung wird erneuert in:"
+"XL1000_DAILY_CHALLENGE_COMPLETED","This challenge will refresh in","Diese Herausforderung wird erneuert in"
 "XL1000_DAILY_KILLS_KNIFE","Get Knife Kills","Mache Messerkills"
 "XL1000_DAILY_KILLS_GRENADE","Get Grenade Kills","Mache Granatenkills"
 "XL1000_DAILY_KILLS_PISTOLS","Get Pistol Kills","Mache Pistolenkills"
@@ -1922,18 +1950,18 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_DAILY_KILLS_SUPERS","Get Superweapon Kills","Mache Superwaffen-Kills"
 "XL1000_DAILY_WIN_ROUNDS","Win Royale Rounds","Gewinne Battle Royale Runden"
 "XL1000_DAILY_PLAY_MATCHES","Play Matches","Spiele Runden"
-"XL1001_DAILY_TOP3_MATCHES","Win a Match",""
+"XL1001_DAILY_TOP3_MATCHES","Win a Match","Gewinne ein Match"
 "XL1000_DAILY_KILLS_ROADKILL","Get Road Kills","Mache Fahrzeugkills"
 "XL1000_DAILY_KILLS_DRIVEBYS","Driveby Shootings","Drive-by-Shootings"
 "XL1000_DAILY_KILLS_SKILL","Kills Using Skills","Kills mit Skills"
-"XL1000_DAILY_COLLECT_HEARTS","Find Genetic Hearts",""
+"XL1000_DAILY_COLLECT_HEARTS","Find Genetic Hearts","Finde Generische Herzen"
 "XL1000_DAILY_KILLS_AIRKNIFES","Knife Kills in Air","Messerkills in der Luft"
 "XL1000_DAILY_DESTROY_PLAYERS","Kill Players","Töte Spieler"
 "XL1000_DAILY_DESTROY_ZOMBIES","Kill Zombies","Töte Zombies"
 "XL1000_DAILY_DESTROY_CIVILIANS","Kill Civilians","Töte Zivilisten"
 "XL1000_DAILY_DESTROY_VEHICLES","Destroy Vehicles","Zerstöre Fahrzeuge"
 "XL1000_DAILY_COLLECT_AMMO","Collect Ammo","Sammle Muni"
-"XL1000_DAILY_COLLECT_HP","Collect Health Kits","Sammle Gesundheits-Kits"
+"XL1000_DAILY_COLLECT_HP","Collect Health Kits","Sammle Verbandszeug"
 "XL1000_DAILY_COLLECT_MANA","Collect Mana Orbs","Sammle Mana-Orbs"
 "XL1000_DAILY_COLLECT_CASH","Collect Cash Piles","Sammle Geldbündel"
 "XL1000_DAILY_COLLECT_PHASERS","Collect Phase Shifts","Sammle Phasenverschiebungen"
@@ -1941,29 +1969,32 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_DAILY_PLACE_CHEMICALS","Place Chemicals","Platziere Chemikalien"
 "XL1000_DAILY_DESTROY_CHEMICALS","Neutralize Chemicals","Neutralisiere Chemikalien"
 "XL1000_DAILY_DRIVE_METERS","Drive Meters","Fahre Meter"
-"XL1000_CIVMISSION_ACTIVATE","Press [{{%01%}}] to accept.",""
-"XL1000_CIVMISSION_HELP_01","GOT A MINUTE?",""
-"XL1000_CIVMISSION_HELP_02","GET MONEY!",""
-"XL1000_CIVMISSION_HELP_03","MISSION HERE!",""
-"XL1000_CIVMISSION_HELP_04","WANNA JOB?",""
-"XL1000_CIVMISSION_HELP_05","WANT CASH?",""
-"XL1000_CIVMISSION_HELP_06","HOT CONTRACT!",""
-"XL1000_CIVMISSION_HELP_07","SUCKY SUCKY!",""
-"XL1000_CIVMISSION_HELP_08","I NEED HELP!",""
-"XL1000_CIVMISSION_HELP_09","HEY YOU!",""
-"XL1000_CIVMISSION_HELP_10","YOU WANT WORK?",""
-"XL1000_CIVMISSION_MURDER_01","MURDERER!",""
-"XL1000_CIVMISSION_MURDER_02","GET HIM!",""
-"XL1000_CIVMISSION_MURDER_03","BOOOOO!",""
-"XL1000_CIVMISSION_MURDER_04","YOU'RE WANTED!",""
-"XL1000_CIVMISSION_MURDER_05","NOT YOU!",""
-"XL1000_CIVMISSION_MURDER_06","BEGONE THOT!",""
-"XL1000_CIVMISSION_MURDER_07","RISE UP!",""
-"XL1000_CIVMISSION_MURDER_08","AHHHH!",""
-"XL1000_CIVMISSION_MURDER_09","GET AWAY!",""
-"XL1000_CIVMISSION_MURDER_10","CALL THE COPS!",""
-"XL1000_CONQUESTDESC1","The winning player is the first to capture all","Es gewinnt der erste, der alle"
-"XL1000_CONQUESTDESC2","Play as a team to capture all","Spiele als Team um alle"
+"XL1000_DAILY_KILLS_CIVROADKILL","Civilian Road Kills",""
+"XL1000_DAILY_KILLS_CIVKNIFEKILL","Civilian Knife Kills",""
+"XL1000_DAILY_KILLS_TARGETS","Kill Targets",""
+"XL1000_CIVMISSION_ACTIVATE","Press [{{%01%}}] to accept.","Drücke {{%01%}} um zu akzeptieren."
+"XL1000_CIVMISSION_HELP_01","GOT A MINUTE?","HAST DU 'NE MINUTE?"
+"XL1000_CIVMISSION_HELP_02","GET MONEY!","HOL' GELD!"
+"XL1000_CIVMISSION_HELP_03","MISSION HERE!","HIER IST 'NE MISSION!"
+"XL1000_CIVMISSION_HELP_04","WANNA JOB?","WILLSTE 'NEN AUFTRAG?"
+"XL1000_CIVMISSION_HELP_05","WANT CASH?","BRAUCHSTE GELD?"
+"XL1000_CIVMISSION_HELP_06","HOT CONTRACT!","GUTER VERTRAG!"
+"XL1000_CIVMISSION_HELP_07","SUCKY SUCKY!","SUCKY SUCKY!"
+"XL1000_CIVMISSION_HELP_08","I NEED HELP!","ICH BRAUCHE HILFE!"
+"XL1000_CIVMISSION_HELP_09","HEY YOU!","HEY, DU!"
+"XL1000_CIVMISSION_HELP_10","YOU WANT WORK?","WILLSTE ARBEITEN?"
+"XL1000_CIVMISSION_MURDER_01","MURDERER!","MÖRDER!"
+"XL1000_CIVMISSION_MURDER_02","GET HIM!","HALTET IHN!"
+"XL1000_CIVMISSION_MURDER_03","BOOOOO!","BUUUUUH!"
+"XL1000_CIVMISSION_MURDER_04","YOU'RE WANTED!","DU WIRST GESUCHT!"
+"XL1000_CIVMISSION_MURDER_05","NOT YOU!","NICHT DU!"
+"XL1000_CIVMISSION_MURDER_06","NO MATE!","VERZIEH' DICH!"
+"XL1000_CIVMISSION_MURDER_07","RISE UP!","STEH' AUF!"
+"XL1000_CIVMISSION_MURDER_08","AHHHH!","AHHHH!"
+"XL1000_CIVMISSION_MURDER_09","GET AWAY!","LAUF!"
+"XL1000_CIVMISSION_MURDER_10","CALL THE COPS!","RUF' DIE POLIZEI!"
+"XL1000_CONQUESTDESC1","The winning player is the first to capture all","Um zu gewinnen, finde als erster alle"
+"XL1000_CONQUESTDESC2","Play as a team to capture all","Spiele als Team und fange alle"
 "XL1000_CONQUESTDESC3","Control Points in the map. Capture points with the Capturer purchased from the buy menu.","Kontrollpunkte in der Karte zu besetzen. Besetze diese mit dem Besetzer aus dem Kaufmenü."
 "XL1000_CONQUESTDESC4","Recapturing is enabled meaning that only one player can own a Control Point at once.","Zurückerobern ist aktiv, das heißt dass nur ein Spieler einen Kontrollpunkt gleichzeitig besetzen kann."
 "XL1000_CONQUESTDESC5","Recapturing is enabled meaning that only one team can own a Control Point at once.","Zurückerobern ist aktiv, das heißt dass nur ein Team einen Kontrollpunkt gleichzeitig besetzen kann."
@@ -1983,24 +2014,24 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_EXTRACTIONINFO1","The winning team is the first to extract all of the objectives. Players are awarded extra points for helping to extract and defend objectives.","Es gewinnt das Team, das zuerst alle Ziele extrahiert. Spieler werden für das Extrahieren und Verteidigen belohnt."
 "XL1000_CHECKPOINTINFO1","The winning team is the first to drive the Battery through","Es gewinnt das Team, welches die Batterie zuerst durch"
 "XL1000_CHECKPOINTINFO2","Carrying the Battery through checkpoints will increase your vehicle's max hitpoints","Transportieren der Batterie durch die Kontrollpunkte erhöht die maximalen Trefferpunkte des Fahrzeugs"
-"XL1000_CHECKPOINTINFO3","After a lap the Battery will respawn and can only be picked up the the losing team from the previous lap","Nach eine Runde erscheint die Batterie neu und kann nur vom Verliererteam der Vorrunde aufgenommen werden."
+"XL1000_CHECKPOINTINFO3","After a lap the Battery will respawn and can only be picked up the the losing team from the previous lap","Nach eine Runde erscheint die Batterie neu und kann nur vom Verliererteam der Vorrunde aufgenommen werden"
 "XL1000_CHECKPOINTINFO4","Boosting is disabled when carrying the Battery","Boost ist deaktiviert, wenn man die Batterie transportiert"
 "XL1000_OUTBREAKINFO1","Cooperatively defend against zombies to detonate all the bombs in the map","Zusammen gegen Zombies kämpfen um alle Bomben auf der Karte zu zünden"
 "XL1000_OUTBREAKINFO2","The first team to detonate all of their bombs wins","Das erste Team welches alle seine Bomben zündet gewinnt"
 "XL1000_OUTBREAKINFO3","To detonate bombs players must kill zombies, collect their souls and then return them to the active bomb. It will require","Um die Bomben zu zünden müssen Spieler Zombies töten und deren Seelen zur Bombe bringen. Man braucht"
 "XL1000_OUTBREAKINFO4","zombie souls to detonate all of the bombs","Zombieseelen um alle Bomben zu zünden"
 "XL1000_OUTBREAKINFO5","Zombies will only spawn upon players within range of the bomb","Zombies entstehen nur bei Spielern in Bombennähe"
-"XL1001_OUTBREAKINFO6","Survive against zombies while detonating bombs in the map. Players who are killed will turn into zombies but will return to the survivors whenever a bomb is detonated","Überlebe die Zombies, während du alle Bomben auf der Karte zündest. Spieler, die getötet werden, verwandeln sich in Zombies."
+"XL1001_OUTBREAKINFO6","Survive against zombies while detonating bombs in the map. Players who are killed will turn into zombies but will return to the survivors whenever a bomb is detonated","Überlebe die Zombies, während du alle Bomben auf der Karte zündest. Spieler, die getötet werden, verwandeln sich in Zombies, aber sie werden wieder Überlebende, wenn eine Bombe detoniert"
 "XL1000_OUTBREAKINFO7","The zombie difficulty is","Die Zombieschwierigkeitsstufe ist"
 "XL1000_OUTBREAKINFO8","Players compete to finish quickly and place on leaderboards","Spieler kämpfen um die Bestzeit für ihren Platz auf den Ranglisten"
 "XL1000_RANKEDINFO","At the end of the match your respect will be altered based on how your final score ranks against the scores of your enemies. If you are not in the game at the end of the match your score will be treated as 0 and you will lose respect. In team games your respect will also be altered by the success of your team.","Am Ende einer Spiels wird dein Respekt angepasst, jenachdem wie deine Endbewertung gegenüber denen der anderen Spieler ist. Wenn du am Ende des Spiels nicht mehr dabei bist, wirst du mit 0 bewertet und verlierst Respekt. In Teamspielen wird dein Respekt entsprechend deiner Teamleistung angepasst."
 "XL1000_CASUALINFO","Playing in this server will not impact your respect rank in any way.","Spielen auf diesem Server hat keinen Einfluss auf deinen Respekt."
 "XL1000_MAXSKILLLIMITWARNING1","The maximum skills allowed for this server is lower than your current level. You can still play but will only have access to your lowest","Die maximale Anzahl an Skills für diesen Server ist niedriger als deine Stufe. Du kannst hier spielen hast aber nur Zugriff auf deine unteren"
 "XL1000_MAXSKILLLIMITWARNING2","skill points","Fähigkeitspunkte"
-"XL1004_CAMPAIGNCOOP_INFO_01","To play co-op, invite Steam friends to your party, then start playing the game. If they cannot join, you may need to forward your ports to 11235.",""
-"XL1003_UNLOCKITEMS_INFO_01","Unlock items with the XP you earn in-game. This lets you access them from buy zones.","Schalte Gegenstände mit in-Game Punkten drei. Dadurch kannst du diese dann in den Kaufzonen kaufen."
-"XL1003_UNLOCKITEMS_INFO_02","Get the full game for 5x more XP.","Hol dir die Complete Edition und erhalte 5x mehr Punkte."
-"XL1003_UNLOCKITEMS_INFO_03","Get the full game to earn XP 5x faster.","Hol dir das Complete Edition DLC und erhalte 5x schneller Punkte."
+"XL1004_CAMPAIGNCOOP_INFO_01","To play co-op, invite Steam friends to your party, then start playing the game. If they cannot join, you may need to forward your ports to 11235.","Lade Steam Freunde in eine Party ein und starte ein Match, um Kooperativ zu spielen. Falls sie nicht beitreten können, müsstest du evtl. deinen Port zu 11235 setzen."
+"XL1003_UNLOCKITEMS_INFO_01","Unlock items with the XP you earn in-game. This lets you access them from buy zones.","Schalte Gegenstände mit XP frei. Dadurch kannst du diese dann in den Kaufzonen erwerben."
+"XL1003_UNLOCKITEMS_INFO_02","Get the Supporters DLC for 5x more XP.","Hol dir die Complete Edition und erhalte 5x mehr Punkte."
+"XL1003_UNLOCKITEMS_INFO_03","Get the Supporters DLC to earn XP 5x faster.","Hol dir das Complete Edition DLC und erhalte 5x schneller Punkte."
 "XL1003_UNLOCKITEMS_INFO_04","1) Discover new items by completing challenges.","1) Entdecke neue Gegenstände durch Abschließen von Herausforderungen."
 "XL1003_UNLOCKITEMS_INFO_05","2) Unlock these items with the XP you earn in-game.","2) Schalte diese Gegenstände mit in-Game Punkten frei."
 "XL1003_UNLOCKITEMS_INFO_06","3) Once unlocked, items can be accessed from buy zones.","3) Einmal freigeschaltet kannst du die Dinge in den Kaufzonen erwerben."
@@ -2019,45 +2050,46 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_SIMPLELOAD_DEATHMATCH_HTP_07","Get extra cash from neutralizing and the cash fountain","Erhalte extra Geld durch Neutralisieren und den Geldbrunnen"
 "XL1000_SIMPLELOAD_DEATHMATCH_HTP_08","The first team to earn a combined","Das erste Team welches zusammen"
 "XL1000_SIMPLELOAD_DEATHMATCH_HTP_09","The first player to earn","Der erste Spieler der"
-"XL1000_SIMPLELOAD_DEATHMATCH_HTP_10","cash wins","Geld verdient gewinnt!"
+"XL1000_SIMPLELOAD_DEATHMATCH_HTP_10","cash wins","Geld verdient, gewinnt"
 "XL1002_SIMPLELOAD_DEATHMATCH_TIP_01","Press (SHIFT) to phase shift and escape enemies","Drücke (SHIFT), um Phasenverschiebung zu nutzen und durch Gegner zu kommen"
 "XL1000_SIMPLELOAD_DEATHMATCH_TIP_02","Unlock some healing skills (ALT) to help in combat","Schalte ein paar Heilskills (ALT) frei die dir im Kampf helfen"
 "XL1000_SIMPLELOAD_DEATHMATCH_TIP_03","Buy superweapons to kill enemies faster","Kaufe Superwaffen um Gegner schneller töten zu können"
-"XL1005_SIMPLELOAD_BATTLEROYALE_HTP_01","Increase your score over multiple back-to-back rounds",""
-"XL1005_SIMPLELOAD_BATTLEROYALE_HTP_02","Get +1 point per kill, and +20 for winning a round",""
-"XL1005_SIMPLELOAD_BATTLEROYALE_HTP_03","To win, first reach {{%01%}} points, then win one final round",""
-"XL1006_SIMPLELOAD_BATTLEROYALE_HTP_04","Try to survive all {{%01%}} increasingly difficulty rounds",""
-"XL1003_SIMPLELOAD_BATTLEROYALE_TIP_01","If you become a zombie, find the Genetic Heart to revive",""
-"XL1003_SIMPLELOAD_BATTLEROYALE_TIP_02","Save cash to buy more powerful guns on future rounds",""
-"XL1003_SIMPLELOAD_BATTLEROYALE_TIP_03","Press 'E' on civilians to do missions and gain rewards",""
+"XL1005_SIMPLELOAD_BATTLEROYALE_HTP_01","Increase your score over multiple back-to-back rounds","Erhöhe deine Punktzahl über mehrere aufeinanderfolgende Runden"
+"XL1006_SIMPLELOAD_BATTLEROYALE_HTP_02","Get +{{%01%}} points per kill, and +20 for winning a round",""
+"XL1005_SIMPLELOAD_BATTLEROYALE_HTP_03","To win, first reach {{%01%}} points, then win one final round","Erreiche zuerst {{%01%}} Punkte und gewinne die finale Runde, um zu gewinnen"
+"XL1006_SIMPLELOAD_BATTLEROYALE_HTP_04","Try to survive all {{%01%}} increasingly difficulty rounds","Versuche alle {{%01%}} Runden, die immer schwerer werden, zu überleben"
+"XL1003_SIMPLELOAD_BATTLEROYALE_TIP_01","If you become a zombie, find the Genetic Heart to revive","Wenn du zum Zombie wirst, solltest du das Generische Herz finden, um wiederbelebt zu werden"
+"XL1003_SIMPLELOAD_BATTLEROYALE_TIP_02","Save cash to buy more powerful guns on future rounds","Spare Geld, um später stärkere Waffen zu kaufen"
+"XL1003_SIMPLELOAD_BATTLEROYALE_TIP_03","Press 'E' on civilians to do missions and gain bonuses","Drücke 'E' an Zivilisten, um Missionen zu erledigen und Belohnungen
+zu erhalten"
 "XL1000_SIMPLELOAD_EXTRACTION_HTP_01","Follow the white arrow on your screen","Folge den weißen Pfeilen auf dem Bildschirm"
 "XL1000_SIMPLELOAD_EXTRACTION_HTP_02","Carry objectives to their extraction locations","Transportiere Ziele in ihre Zielzone"
-"XL1000_SIMPLELOAD_EXTRACTION_HTP_03","The first team to extract all the objectives wins","Das erste Team, das alle Ziele extrahiert gewinnt!"
+"XL1000_SIMPLELOAD_EXTRACTION_HTP_03","The first team to extract all the objectives wins","Das erste Team, das alle Objekte extrahiert, gewinnt"
 "XL1000_SIMPLELOAD_EXTRACTION_TIP_01","Protect allies carrying the flag with defensive skills","Schütze Verbündete, welche die Flagge tragen mit defensiven Skills"
 "XL1000_SIMPLELOAD_EXTRACTION_TIP_02","Use vehicles to quickly catch up to escaping enemies","Benutze Fahrzeuge um fliehende Gegner einzuholen"
 "XL1000_SIMPLELOAD_EXTRACTION_TIP_03","Place Warp Fields near objectives to capture them faster","Platziere Warpfelder in der Nähe von Zielen um sie schneller zu extrahieren"
 "XL1000_SIMPLELOAD_CHECKPOINT_HTP_01","Buy a car to pick up the Battery","Kaufe ein Fahrzeug um die Batterie transportieren zu können"
 "XL1000_SIMPLELOAD_CHECKPOINT_HTP_02","Follow the white arrow to complete laps around the map","Folge den weißen Pfeilen um Runden auf der Karte abzuschließen"
 "XL1000_SIMPLELOAD_CHECKPOINT_HTP_03","The first team to complete","Das erste Team, das"
-"XL1000_SIMPLELOAD_CHECKPOINT_HTP_04","laps with the Battery wins","Runden mit der Batterie abschließt gewinnt!"
+"XL1000_SIMPLELOAD_CHECKPOINT_HTP_04","laps with the Battery wins","Runden mit der Batterie abschließt, gewinnt"
 "XL1000_SIMPLELOAD_CHECKPOINT_TIP_01","Save cash to buy vehicles with extra health and speed","Spare Geld um Fahrzeuge mit mehr Trefferpunkten und Geschwindigkeit zu kaufen"
 "XL1000_SIMPLELOAD_CHECKPOINT_TIP_02","Use machine guns and explosives to destroy enemy cars","Benutze Maschinenpistolen und Sprengstoff um gegnerische Fahrzeuge zu zerstören"
 "XL1000_SIMPLELOAD_CHECKPOINT_TIP_03","Set up roadblocks with cheap vehicles to block enemy laps","Errichte Straßensperren mit billigen Fahrzeugen um Gegner bei ihren Runden zu stören"
 "XL1000_SIMPLELOAD_OUTBREAK_HTP_01","Kill zombies and collect the souls they drop","Töte Zombies und sammle ihre Seelen ein"
 "XL1000_SIMPLELOAD_OUTBREAK_HTP_02","Return souls to the bomb by following the white arrow","Bringe die Seelen zur Bombe in Richtung der weißen Pfeile zurück"
-"XL1000_SIMPLELOAD_OUTBREAK_HTP_03","Detonate all the bombs to complete the level","Zünde alle Bomben um das Level abzuschließen!"
-"XL1000_SIMPLELOAD_OUTBREAK_HTP_04","Detonate all the bombs in the map without dying","Zünde alle Bomben auf der Karte ohne zu sterben!"
-"XL1000_SIMPLELOAD_OUTBREAK_HTP_05","The first team to detonate all of their bombs wins","Das erste Team das alle seine Bomben zündet gewinnt!"
-"XL1000_SIMPLELOAD_OUTBREAK_HTP_06","Detonate all the bombs quickly to top leaderboards","Zünde schnell alle Bomben um oben in den Ranglisten zu stehen!"
+"XL1000_SIMPLELOAD_OUTBREAK_HTP_03","Detonate all the bombs to complete the level","Zünde alle Bomben, um das Level abzuschließen"
+"XL1000_SIMPLELOAD_OUTBREAK_HTP_04","Detonate all the bombs in the map without dying","Zünde alle Bomben auf der Karte, ohne zu sterben"
+"XL1000_SIMPLELOAD_OUTBREAK_HTP_05","The first team to detonate all of their bombs wins","Das erste Team, das alle seine Bomben zündet, gewinnt"
+"XL1000_SIMPLELOAD_OUTBREAK_HTP_06","Detonate all the bombs quickly to top leaderboards","Zünde schnell alle Bomben, um oben in den Ranglisten zu stehen"
 "XL1000_SIMPLELOAD_OUTBREAK_TIP_01","Returning souls gives you cash, mana, health and XP","Das Zurückbringen von Seelen bringt Geld, Mana, Gesundheit und Erfahrung"
 "XL1000_SIMPLELOAD_OUTBREAK_TIP_02","Use skills with large splash damage to slaughter zombies","Verwende Skills mit großem Flächenschaden gegen Zombies"
 "XL1000_SIMPLELOAD_OUTBREAK_TIP_03","Place vehicles and chemicals to slow zombies down","Platziere Fahrzeuge und Chemikalien um Zombies zu verlangsamen"
 "XL1000_SIMPLELOAD_OUTBREAK_TIP_04","Huddle in corners to survive the swarming zombies","Zwäng dich in eine Ecke um die Zombieschwärme zu überleben"
 "XL1002_SIMPLELOAD_CONQUEST_HTP_00","Capture Control Points by standing next to them","Nehme Kontrollpunkte ein, indem du in der Nähe stehst"
-"XL1003_SIMPLELOAD_CONQUEST_HTP_01","After capturing, both teams will go on cooldown for","Nach dem Einnehmen werden beide Teams einen Cooldown bekommen:"
+"XL1003_SIMPLELOAD_CONQUEST_HTP_01","After capturing, both teams will go on cooldown for","Nach dem Einnehmen werden beide Teams einen Cooldown bekommen"
 "XL1000_SIMPLELOAD_CONQUEST_HTP_03","The first team to capture all","Das erste Team, das alle"
 "XL1000_SIMPLELOAD_CONQUEST_HTP_04","The first player to capture all","Der erste Spieler der alle"
-"XL1000_SIMPLELOAD_CONQUEST_HTP_05","Control Points wins","Kontrollpunkte besetzt gewinnt!"
+"XL1000_SIMPLELOAD_CONQUEST_HTP_05","Control Points wins","Kontrollpunkte besetzt, gewinnt"
 "XL1001_SIMPLELOAD_CONQUEST_TIP_01","Have 2 players in the circle to capture at max speed","Habe 2 Spieler im Kreis, um mit maximaler Geschwindigkeit einzunehmen"
 "XL1001_SIMPLELOAD_CONQUEST_TIP_02","Getting kills will speed up your team's cooldown timer","Kills bekommen hilft dem Cooldown-Timer deines Teams"
 "XL1001_SIMPLELOAD_CONQUEST_TIP_03","Use the Capturer chemical to capture points extra fast","Benutze die Einnehmer-Chemikalie, um Kontrollpunkte schneller einzunehmen"
@@ -2075,9 +2107,9 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_AWARDNAME03","The Queen","Die Königin"
 "XL1000_AWARDDESC03","third place","dritter Platz"
 "XL1000_AWARDNAME04","The Slayer","der Schlächter"
-"XL1000_AWARDDESC04","most kills","die meisten Abschüsse"
+"XL1000_AWARDDESC04","most kills","die meisten Tötungen"
 "XL1000_AWARDNAME05","The Warrior","Der Krieger"
-"XL1000_AWARDDESC05","biggest kill streak","meisten Abschüsse in Folge"
+"XL1000_AWARDDESC05","biggest kill streak","größte Tötungsreihe"
 "XL1000_AWARDNAME06","The Assassin","Der Meuchelmörder"
 "XL1000_AWARDDESC06","best K:D ratio","bestes K:D Verhältnis"
 "XL1000_AWARDNAME07","The Marksman","Der Schütze"
@@ -2086,17 +2118,17 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_AWARDDESC08","most cash earned per minute","das meiste Geld pro Minute"
 "XL1000_AWARDNAME09","The Sacrifice","das Opfer"
 "XL1000_AWARDDESC09","most deaths","die meisten Tode"
-"XL1000_AWARDNAME10","Hero Squad","Heldenschwadron"
+"XL1000_AWARDNAME10","Hero Squad","Heldengeschwader"
 "XL1000_AWARDDESC10","clan with the highest average score per minute","Clan mit der höchsten durchschnittlichen Wertung pro Minute"
-"XL1000_AWARDNAME11","Speedrun Squad","Speedrunschwadron"
+"XL1000_AWARDNAME11","Speedrun Squad","Speedrungeschwader"
 "XL1000_AWARDDESC11","all players who completed the speedrun","Alle Spieler die den Speedrun abgeschlossen ahben"
 "XL1000_AWARDNAME12","Level Smasher","Levelbezwinger"
 "XL1000_AWARDDESC12","completing a new campaign level","einen neuen Kampagnenabschnitt abschließen"
 "XL1000_DISCONNECTWARNINGRANKED","You are currently committed to a ranked match. If you leave now you'll be counted as losing this round.","Sicher, dass du die Verbindung trennen willst. Du spielst momentan in einem gewerteten Match. Durch einen Abbruch verlierst du Respekt."
 "XL1000_DISCONNECTWARNINGCAMPAIGN","If you leave now then any progress you've made on this campaign level will not be saved.","Willst du die Verbindung trennen? Wenn du das Spiel verlässt wird jeder Fortschritt in der Kampagne nicht gespeichert."
 "XL1000_DISCONNECTWARNING","Are you sure you want to leave this match?","Bist du sicher, dass du die Runde verlassen willst?"
-"XL1000_DISCONNECTWARNINGSTREAK","Your win streak will drop from {{%01%}} to {{%02%}} and you'll miss the end of round XP bonuses.",""
-"XL1000_DISCONNECTWARNINGSURVIVALRUNS","This will finish your daily survival run and you'll miss the end of round XP bonuses.",""
+"XL1000_DISCONNECTWARNINGSTREAK","Your win streak will drop from {{%01%}} to {{%02%}} and you'll miss the end of round XP bonuses.","Deine Siegesreihe wird von {{%01%}} auf {{%02%}} fallen und du wirst die XP Boni am Rundenende verpassen."
+"XL1000_DISCONNECTWARNINGSURVIVALRUNS","This will finish your daily survival run and you'll miss the end of round XP bonuses.","Dies wird deinen Täglichen Überlebenslauf beenden und du wirst die XP Boni am Rundenende verpassen."
 "XL1000_LEAVEPARTYWARNINGTITLE","Leave Party","Party verlassen"
 "XL1000_LEAVEPARTYWARNINGDESC","Are you sure you want to leave this party?","Bist du sicher, dass du die Party verlassen willst?"
 "XL1000_QUITWARNINGTITLE","Quit Game","Spiel beenden"
@@ -2131,7 +2163,7 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CCNEONS","Vehicle Neons","Neons"
 "XL1000_CCNEONSDESC","Activates sexy neons lights underneath your vehicle. The neon lights are bright and colorful and really stand out when driving in dark areas.","Heißes Neonlicht unter deinem Fahrzeug. Sieht super aus, wenn du durch die Dunkelheit braust. Kann nach deinen Wünschen angepasst werden."
 "XL1000_CCCOLOREDHEADLIGHTS","Colored Headlights","Farbiges Frontlicht"
-"XL1000_CCCOLOREDHEADLIGHTSDESC","Let's you change the color of your vehicle's headlights. Mix and match with your neons and make a sweet driving disco party!","Du kannst die Farbe deines Frontlichts ändern. Kombiniere dies mit Neons um eine fahrende Discoparty zu feiern."
+"XL1000_CCCOLOREDHEADLIGHTSDESC","Let's you change the color of your vehicle's headlights. Mix and match with your neons and make a sweet driving disco party!","Du kannst die Farbe deines Frontlichts ändern. Kombiniere dies mit Neons, um eine fahrende Discoparty zu feiern!"
 "XL1000_CCVEHICLEDECALS","Vehicle Decals","Fahrzeugfolie"
 "XL1000_CCVEHICLEDECALSDESC","Burn rubber with some sweet decals on your vehicle. Flames, flowers, stripes, you name it. The decals are painted onto your vehicle in a color of your choosing.","Pimpe dein Fahrzeug mit diesen Folien auf. Flammen, Blumen, Streifen, du weisst schon. Du kannst die Farbe frei wählen."
 "XL1000_CCBULLETTRAILS","Bullet Trails","Leuchtgeschosse"
@@ -2139,28 +2171,28 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_UNLOCKEDBIG","UNLOCKED","FREIGESCHALTET"
 "XL1000_UNLOCKINGBIG","UNLOCKING","FREISCHALTRN"
 "XL1000_OUTOFRANGE","OUT OF RANGE","NICHT IN REICHWEITE"
-"XL1000_ITEMSREQUIRED","ITEMS REQUIRED: {{%01%}}",""
+"XL1000_ITEMSREQUIRED","ITEMS REQUIRED: {{%01%}}","BENÖTIGTE GEGENSTÄNDE: {{%01%}}"
 "XL1000_ALREADYUNLOCKED","ALREADY UNLOCKED","BEREITS FREIGESCHALTET"
 "XL1000_FULLYUPGRADED","FULLY UPGRADED","KOMPLETT GEUPGRADET"
 "XL1000_HIDECOSMETIC","HIDE COSMETIC","KOSMETIK VERSTECKEN"
 "XL1000_SHOWCOSMETIC","SHOW COSMETIC","KOSMETIK ZEIGEN"
 "XL1000_UNLOCKED","Unlocked","Freigeschaltet"
 "XL1000_DISABLED","Disabled","Gesperrt"
-"XL1000_SHOWN","Shown","Gezeigt"
+"XL1000_SHOWN","Shown","Angezeigt"
 "XL1000_HIDDEN","Hidden","Versteckt"
-"XL1000_ITEMSREQUIRED","Items Required",""
-"XL1000_TIERXITEMS","Tier {{%01%}} Items",""
-"XL1000_ITEMCOST","Item Cost",""
+"XL1000_ITEMSREQUIRED","Items Required","BENÖTIGTE GEGENSTÄNDE: {{%01%}}"
+"XL1000_TIERXITEMS","Tier {{%01%}} Items","Stufe {{%01%}} Gegenstände"
+"XL1000_ITEMCOST","Item Cost","Gegenstandskosten"
 "XL1000_EXPERIENCE","Experience","Erfahrung"
 "XL1000_MUTATIONMUTANT","Mutation (mutant","Mutation (Mutant"
-"XL1001_STARTINGLEVELUNLOCKDESC","Increases the number of skill points you begin each game with. This is added to the 10 free skill points you get as you level up.","Erhöht die Anzahl von Skillpunkten, mit denen du jede Runde anfängst. Dies kommt zu den 10 kostenlosen Punkten hinzu, die du pro Levelup bekommst."
+"XL1002_STARTINGLEVELUNLOCKDESC","Increases the number of skill points you begin each game with.",""
 "XL1000_MISSIONINFO1","As a mercenary guards have no effect on missions. You must only target other mutants.","Als Söldner haben Gangster keinen Einfluss auf deine Missionen sondern nur Spieler."
 "XL1000_MISSIONINFO2","This mission requires teammates and does not work as a mercenary.","Diese Mission benötigt Teamspieler und kann daher als Söldner nicht gewählt werden."
 "XL1000_MISSIONINFO3","Guards will only reward","Gangster geben nur"
 "XL1000_MISSIONINFO4","of the potential cash reward.","des möglichen Geldes."
-"XL1000_CHEMICAL_SYNTHETICSHOP","Synthetic Shop",""
+"XL1000_CHEMICAL_SYNTHETICSHOP","Synthetic Shop","Künstlicher Laden"
 "XL1000_CHEMICAL_CAPTURER","Capturer","Fänger"
-"XL1000_CHEMICAL_WEAPONSELLER","Alchemic Acid",""
+"XL1000_CHEMICAL_WEAPONSELLER","Alchemic Acid","Alchemie Säure"
 "XL1000_CHEMICAL_WARPFIELD","Warp Field","Portalfeld"
 "XL1000_CHEMICAL_SONARCELLS","Sonar Cells","Sonarzellen"
 "XL1000_CHEMICAL_DAMAGEUPGRADE","Damage Stimulant","Schadensupgrade"
@@ -2169,58 +2201,58 @@ Allerdings wirst du 4 Skillpunkte Strafe bezahlen, um jeden weiteren Baum freizu
 "XL1000_CHEMICAL_NEUTRALIZER","Neutralizer","Neutralisierer"
 "XL1000_CHEMICAL_INSULATOR","Insulator","Isolator"
 "XL1000_CHEMICAL_REVEALER","Revealer","Offenbarer"
-"XL1000_CHEMICAL_CONCEALER","Concealer",""
+"XL1000_CHEMICAL_CONCEALER","Concealer","Kaschierer"
 "XL1000_CHEMICAL_GOOTRAP","Goo Trap","Schmierfalle"
-"XL1000_CHEMICAL_LASERTRIPWIRE","Laser Tripwire",""
-"XL1000_CHEMICAL_FISSIONMINE","Fission Mine",""
-"XL1004_CHEMICAL_SYNTHETICSHOP_DESC01","Creates a shop only you and your allies can use.",""
-"XL1001_CHEMICAL_SYNTHETICSHOP_DESCHUD","Buy zone",""
-"XL1001_CHEMICAL_SYNTHETICSHOP_DESCHUDCARRY","{{%01%}} ammo",""
+"XL1000_CHEMICAL_LASERTRIPWIRE","Laser Tripwire","LASER Stolperdraht"
+"XL1000_CHEMICAL_FISSIONMINE","Fission Mine","Fissions Mine"
+"XL1001_CHEMICAL_ALSOGENERATESCASH","Also gives you ${{%01%}} per minute.",""
+"XL1004_CHEMICAL_SYNTHETICSHOP_DESC01","Creates a shop only you and your allies can use.","Erzeugt einen Laden, den nur du und deine Mitspieler nutzen können."
+"XL1001_CHEMICAL_SYNTHETICSHOP_DESCHUD","Buy zone","Kaufzone"
+"XL1001_CHEMICAL_SYNTHETICSHOP_DESCHUDCARRY","{{%01%}} ammo","{{%01%}} Muniton"
 "XL1005_CHEMICAL_CAPTURER_DESC02","Used to capture Conquest control points. Place this directly onto a control point to capture it.","Wird benutzt, um Kontrollpunkte ohne Wartezeit einzunehmen. Platziere es direkt auf einen Kontrollpunkt zum Einnehmen."
 "XL1001_CHEMICAL_ALCHEMICACID_DESC01","Lets you sell weapons for cash when they're dropped into your acid.","Verkauft Waffen gegen Geld, wenn sie reingeworfen werden."
 "XL1000_CHEMICAL_ALCHEMICACID_DESCHUD","Sells weapons","Verkauft Waffen"
-"XL1001_CHEMICAL_ALCHEMICACID_DESCHUDCARRY","{{%01%}} cash",""
+"XL1001_CHEMICAL_ALCHEMICACID_DESCHUDCARRY","{{%01%}} cash","{{%01%}} Geld"
 "XL1002_CHEMICAL_WARPFIELD_DESC01","Teleports you to your other Warp Fields. Stand inside it, hold ALT, and click an arrow to teleport.","Teleportiert dich über die Karte. Im Warpfeld werden Pfeile angezeigt, die zu anderen Warpfeldern, zur Basis und Kontrollpunkten zeigen. Halte ALT zum teleportieren gedrückt."
 "XL1000_CHEMICAL_WARPFIELD_DESCHUD","Teleports","Teleportiert"
-"XL1001_CHEMICAL_WARPFIELD_DESCHUDCARRY","{{%01%}} shifts",""
+"XL1001_CHEMICAL_WARPFIELD_DESCHUDCARRY","{{%01%}} shifts","{{%01%}} Shifts"
 "XL1000_CHEMICAL_SONARCELLS_DESC01","Reveals enemies behind walls who stand inside it.","Zeigt Gegner sobald sie in der Sonarzelle stehen. Sie werden auf der Karte angezeigt und durch einen Pfeil im HUD markiert. Auch unsichtbare Gegner werde gezeigt."
 "XL1000_CHEMICAL_SONARCELLS_DESCHUD","Reveals enemies","Feinde aufdecken"
-"XL1001_CHEMICAL_SONARCELLS_DESCHUDCARRY","Extra vision",""
+"XL1001_CHEMICAL_SONARCELLS_DESCHUDCARRY","Extra vision","Mehr Sicht"
 "XL1000_CHEMICAL_DAMAGEUPGRADE_DESC01","Increases your weapon damage by","Erhöht Waffenschaden um"
 "XL1000_CHEMICAL_DAMAGEUPGRADE_DESC02","for","für"
 "XL1000_CHEMICAL_HEALTHUPGRADE_DESC01","Restores your health at","Heilt mit einer Rate von"
 "XL1000_CHEMICAL_HEALTHUPGRADE_DESC02","for","für"
 "XL1001_CHEMICAL_MANAUPGRADE_DESC01","Restores your mana at","Regeneriert Mana mit einer Rate von"
 "XL1001_CHEMICAL_MANAUPGRADE_DESC02","for","für"
-"XL1005_CHEMICAL_NEUTRALIZER_DESC01","Destroys all chemicals you're standing in and pays you for each chemical destroyed.",""
-"XL1004_CHEMICAL_NEUTRALIZER_DESCHUDCARRY","Chemical immunity",""
+"XL1005_CHEMICAL_NEUTRALIZER_DESC01","Destroys all chemicals you're standing in and pays you for each chemical destroyed.","Zerstört alle Chemikalien, in denen du stehst, und vergütet dich für jede zerstörte Chemikalie."
+"XL1004_CHEMICAL_NEUTRALIZER_DESCHUDCARRY","Chemical immunity","Chemische Immunität"
 "XL1000_CHEMICAL_INSULATOR_DESC01","Protects your chemicals from enemy Neutralizers. Place this on a chemical and if an enemy tries to neutralize it, it will remove the Insulator but save the original chemical. Can only be used once per chemical.","Schützt deine Chemikalien vor dem Neutralisierer. Platziere dies auf einer Chemikalie und ein Gegner der den Neutralisierer verwendet wird nur den Isolator entfernen. Nur einmal pro Chemikalie nutzbar."
-"XL1000_CHEMICAL_REVEALER_DESC01","Reveals the location of nearby enemy chemicals making them easier to neutralize. The revealing range is","Zeigt, wo die nächsten gegnerischen Chemikalien sind, um sie einfacher auszulöschen.
-Die Anzeigereichweite ist"
-"XL1002_CHEMICAL_CONCEALER_DESC01","Upgrade: Makes the chemical you're standing in permanently invisible to enemies.",""
+"XL1000_CHEMICAL_REVEALER_DESC01","Reveals the location of nearby enemy chemicals making them easier to neutralize. The revealing range is","Zeigt, wo die nächsten gegnerischen Chemikalien sind, um sie einfacher zu neutralisieren. Die Anzeigereichweite beträgt"
+"XL1002_CHEMICAL_CONCEALER_DESC01","Upgrade: Makes the chemical you're standing in permanently invisible to enemies.","Aufwertung: Macht jede Chemikalie, in der du stehst, für die Gegener für immer unsichtbar."
 "XL1002_CHEMICAL_GOOTRAP_DESC01","Enemies in your Goo Trap are slowed by","Verlangsame Gegner um"
 "XL1002_CHEMICAL_GOOTRAP_DESCHUD","Slows enemies","Langsame Gegner"
-"XL1002_CHEMICAL_GOOTRAP_DESCHUDCARRY","Bullets slow enemies",""
-"XL1000_CHEMICAL_LASERTRIPWIRE_DESC01","Fires a laser at enemies who walk through it. This removes {{%01%}} of their current health.",""
-"XL1000_CHEMICAL_LASERTRIPWIRE_DESCHUD","Attacks enemies",""
-"XL1001_CHEMICAL_LASERTRIPWIRE_DESCHUDCARRY","{{%01%}} recoil",""
-"XL1000_CHEMICAL_FISSIONMINE_DESC01","Explodes for {{%01%}}hp damage shortly after an enemy steps inside it.",""
-"XL1000_CHEMICAL_FISSIONMINE_DESCHUD","Explosive mine",""
-"XL1001_CHEMICAL_FISSIONMINE_DESCHUDCARRY","Throw {{%01%}} grenade",""
-"XL1002_CHEMICAL_SYNTHETICSHOP_PASSIVE_DESC01","Burn {{%01%}} less ammo.",""
-"XL1002_CHEMICAL_ALCHEMICACID_PASSIVE_DESC01","Earn {{%01%}} cash from kills and loot.",""
-"XL1002_CHEMICAL_WARPFIELD_PASSIVE_DESC01","Gives {{%01%}} shifts.",""
-"XL1002_CHEMICAL_SONARCELLS_PASSIVE_DESC01","Increases view range.",""
-"XL1002_CHEMICAL_GOOTRAP_PASSIVE_DESC01","Your bullets slow enemies by {{%01%}} for {{%02%}}.",""
-"XL1002_CHEMICAL_DAMAGEUPGRADE_PASSIVE_DESC01","{{%01%}} DMG per kill.",""
-"XL1002_CHEMICAL_HEALTHUPGRADE_PASSIVE_DESC01","{{%01%}} max hitpoints.",""
-"XL1002_CHEMICAL_MANAUPGRADE_PASSIVE_DESC01","{{%01%}} max mana.",""
-"XL1002_CHEMICAL_NEUTRALIZER_PASSIVE_DESC01","Immunity to enemy chemicals.",""
-"XL1002_CHEMICAL_LASERTRIPWIRE_PASSIVE_DESC01","{{%01%}} recoil.",""
-"XL1002_CHEMICAL_FISSIONMINE_PASSIVE_DESC01","Throw {{%01%}} grenade.",""
-"XL1002_CHEMICAL_WHENHELD","When Held",""
-"XL1002_CHEMICAL_WHENPLACED","When Placed",""
-"XL1000_CONCEALED","concealed",""
+"XL1002_CHEMICAL_GOOTRAP_DESCHUDCARRY","Bullets slow enemies","Patronen verlangsamen Gegner"
+"XL1000_CHEMICAL_LASERTRIPWIRE_DESC01","Fires a laser at enemies who walk through it. This removes {{%01%}} of their current health.","Feuert einen LASER auf jeden Gegner, der dieses passiert. Dieser Strahl verringert des Gegners HP um {{%01%}}."
+"XL1000_CHEMICAL_LASERTRIPWIRE_DESCHUD","Attacks enemies","Attackiert Gegner"
+"XL1001_CHEMICAL_LASERTRIPWIRE_DESCHUDCARRY","{{%01%}} recoil","{{%01%}} Rückstoß"
+"XL1000_CHEMICAL_FISSIONMINE_DESC01","Explodes for {{%01%}}hp damage shortly after an enemy steps inside it.","Explodiert für {{%01%}}HP Schaden, kurz nachdem ein Gegner drauftritt."
+"XL1000_CHEMICAL_FISSIONMINE_DESCHUD","Explosive mine","Explosive Mine"
+"XL1001_CHEMICAL_FISSIONMINE_DESCHUDCARRY","Throw {{%01%}} grenade","Wirf {{%01%}} Granaten"
+"XL1002_CHEMICAL_SYNTHETICSHOP_PASSIVE_DESC01","Burn {{%01%}} less ammo.","Verbrauche {{%01%}} weniger Munition."
+"XL1002_CHEMICAL_ALCHEMICACID_PASSIVE_DESC01","Earn {{%01%}} cash from kills and loot.","Verdiene {{%01%}} Geld von Tötungen und Beute."
+"XL1002_CHEMICAL_WARPFIELD_PASSIVE_DESC01","Gives {{%01%}} shifts.","Gibt {{%01%}} Shifts."
+"XL1002_CHEMICAL_SONARCELLS_PASSIVE_DESC01","Increases view range.","Erweitert deine Sicht."
+"XL1002_CHEMICAL_GOOTRAP_PASSIVE_DESC01","Your bullets slow enemies by {{%01%}} for {{%02%}}.","Deine Patronen verlangsamen Gegner um {{%01%}} für {{%02%}}."
+"XL1002_CHEMICAL_DAMAGEUPGRADE_PASSIVE_DESC01","{{%01%}} DMG per kill.","{{%01%}} Schaden pro Tötung."
+"XL1002_CHEMICAL_HEALTHUPGRADE_PASSIVE_DESC01","{{%01%}} max hitpoints.","{{%01%}} max HP."
+"XL1002_CHEMICAL_MANAUPGRADE_PASSIVE_DESC01","{{%01%}} max mana.","{{01%}} max Mana."
+"XL1002_CHEMICAL_NEUTRALIZER_PASSIVE_DESC01","Immunity to enemy chemicals.","Immunität gegenüber gegnerischer Chemikalien."
+"XL1002_CHEMICAL_LASERTRIPWIRE_PASSIVE_DESC01","{{%01%}} recoil.","{{%01%}} Rückstoß."
+"XL1002_CHEMICAL_FISSIONMINE_PASSIVE_DESC01","Throw {{%01%}} grenade.","Wirf {{%01%}} Granate."
+"XL1002_CHEMICAL_WHENHELD","When Held","Wenn gehalten"
+"XL1002_CHEMICAL_WHENPLACED","When Placed","Wenn platziert"
+"XL1000_CONCEALED","concealed","kaschiert"
 "XL1000_PENALTY","Penalty","Strafe"
 "XL1000_ACTIVESKILLSCOSTSMANA","Active skills costs mana.","Aktive Skills kosten Mana."
 "XL1000_DOESNOTWORKASAZOMBIE","Does not work as a zombie.","Funktioniert nicht als Zombie."
@@ -2241,7 +2273,7 @@ Die Anzeigereichweite ist"
 "XL1000_SKILL_SELFREPAIR","Self Repair","Pflaster drauf"
 "XL1000_SKILL_FORCEFIELD","Force Field","Kraftfeld"
 "XL1000_SKILL_INVISIBILITY","Invisibility","Unsichtbarkeit"
-"XL1000_SKILL_BULLETTIME","Bullet Time","Bullet Time"
+"XL1000_SKILL_BULLETTIME","Bullet Time","Patronenzeit"
 "XL1000_SKILL_FRENZY","Frenzy","Raserei"
 "XL1000_SKILL_BLADEFURY","Blade Fury","Klingenwut"
 "XL1000_SKILL_SHOCKWAVE","Shockwave","Schockwelle"
@@ -2307,7 +2339,7 @@ Die Anzeigereichweite ist"
 "XL1001_SKILL_BLACKHOLE_DESC_01","Creates a spinning vortex on the ground that slows enemies.","Erschafft einen Wirbel auf dem Boden, der Gegner verlangsamt."
 "XL1003_SKILL_ENERGIZE_DESC_01","Increases your bullet speed.","Erhöht die Projektilgeschwindigkeit."
 "XL1003_SKILL_ENERGIZE_DESC_02","Reduces your max hitpoints.","Verringert deine maximalen HP."
-"XL1003_SKILL_ADRENALINRUSH_DESC_01","Increases your movement speed while reloading your primary weapon.",""
+"XL1003_SKILL_ADRENALINRUSH_DESC_01","Increases your movement speed while reloading your primary weapon.","Erhöht deine Bewegungsgeschwindigkeit während du deine Primärwaffe nachlädst."
 "XL1002_SKILL_ADRENALINRUSH_DESC_02","Increases reload time.","Erhöht Nachladezeit."
 "XL1000_SKILL_XRAYVISION_DESC_01","Reveals nearby enemies when you stand still. Your allies will also see these enemies.","Zeigt nahe Gegner an, wenn du stehenbleibst. Deine Verbündeten werden sie auch sehen."
 "XL1000_SKILL_XRAYVISION_DESC_02","Reduces your max hitpoints.","Verringert deine maximalen HP."
@@ -2353,15 +2385,15 @@ Die Anzeigereichweite ist"
 "XL1000_VEHICLE_EXTRACTIONTRUCK","Extraction Truck","Fördertruck"
 "XL1000_VEHICLE_CYBERTRUCK","Cybertruck","Cybertruck"
 "XL1000_VEHICLE_LOAFER_DESC","Pretty awful as a car. But it's cheap and makes a nice step for jumping over walls.","Eine ziemlich miese Karre, aber billig und daher super als Barrikade geeignet um Zombies zu verlangsamen."
-"XL1000_VEHICLE_BUGGIE_DESC","Fast and agile - just watch out for the low health. If it catches on fire you'll burn.","Schnell und wendig - aber sehr wenig Trefferpunkte. Wenn es in Brand gerät wirst du brennen!"
+"XL1000_VEHICLE_BUGGIE_DESC","Fast and agile - just watch out for the low health. If it catches on fire you'll burn.","Schnell und wendig - aber sehr wenig Trefferpunkte. Wenn es in Brand gerät, wirst du brennen."
 "XL1000_VEHICLE_GALLANT_DESC","Fast and durable - a great all-rounder. Can even withstand a direct shot from a Bazooka!","Schnell und wertig. Ein guter Allrounder. Hält selbst einem direkten Bazookatreffer stand!"
 "XL1000_VEHICLE_PICKUP_DESC","A good combat vehicle great for co-op drivebys. Press [F3] to hop into the back seat.","Ein gutes Kampffahrzeug für Ko-Op Drivebys. Drücke [3] um auf dem hinteren Sitz platz zu nehmen, volle 360 Grad Schussfeld."
-"XL1000_VEHICLE_RADARTRUCK_DESC","Has a radar the reveals the location of nearby enemies. Lets you see through walls and spy on your enemies' movements!","Besitzt ein Radar welches den Ort von Gegnern in der Nähe aufdeckt. So kannst du durch Wände gucken und gegnerische Bewegungen erkennen."
+"XL1000_VEHICLE_RADARTRUCK_DESC","Has a radar the reveals the location of nearby enemies. Lets you see through walls and spy on your enemies' movements!","Besitzt ein Radar, welches den Ort von Gegnern in der Nähe aufdeckt. So kannst du durch Wände gucken und gegnerische Bewegungen erkennen!"
 "XL1000_VEHICLE_CAMPER_DESC","Very durable for its price and with 6 seats it's great for co-op drivebys.","Guter Schutz für den Preis und mit 6 Sitzen prima für Ko-Op Aktion. Fahrzeuge regenerieren sich schneller, je mehr Spieler mitfahren. Ein Camper kann also ganz schön zäh sein."
 "XL1001_VEHICLE_ROADSTER_DESC","Fastest car in the game! Press [SHIFT] to boost and Tokyo Drift all over the place.","Schnellstes Auto im Spiel! Drücke [UMSCHALT] für Boost und machen einen Tokyo Drift über die ganze Karte."
 "XL1000_VEHICLE_TORPEDO_DESC","Comes with a ticking time bomb. [Left click] to toggle the timer on and off, but make sure you hop out before it explodes!","Wird mit einer Zeitbombe ausgeliefert. [Linke Maustaste] aktiviert oder deaktiviert sie. Steig aus bevor sie hochgeht!"
 "XL1000_VEHICLE_FLATBED_DESC","A huge truck with massive health and 5 passenger seats. The back 3 seats allow for a full 360 degree shooting range.","Ein riesiger Truck mit vielen Trefferpunkten und 6 Sitzen. Die hinteren 3 Sitze ermöglichen 360 Grad Schussfeld. Teuer, aber zusammen mit Verbündeten unschlagbar."
-"XL1000_VEHICLE_HORNET_DESC","[Left Click] to fire 2 homing missiles that deal huge damage against vehicles and zombies. ","Schießt zwei zielsuchende Raketen ab die großen Schaden bei Fahrzeugen und Zombies anrichten. Schnell, agil und gut gepanzert. Zwar teuer aber richtig eingesetzt unschlagbar."
+"XL1000_VEHICLE_HORNET_DESC","[Left Click] to fire 2 homing missiles that deal huge damage against vehicles and zombies. ","[Left Click] schießt zwei zielsuchende Raketen ab, die großen Schaden bei Fahrzeugen und Zombies anrichten. Schnell, agil und gut gepanzert."
 "XL1000_VEHICLE_EXTRACTIONTRUCK_DESC","Drive the Extraction Truck to its extraction zone.","Der Extraktions Truck muss zu seiner Zielzone gebracht werden um den Extraktionsspielmodus zu gewinnen."
 "XL1000_VEHICLE_CYBERTRUCK_DESC","[Left Click] to fire a deadly flamethrower. The Cybertruck is shatterproof.","[Linksklick], um einen Flammenwerfer zu benutzen. Der Cybertruck ist kugelsicher."
 "XL1001_WEAPON_KNIFE","Knife","Messer"
@@ -2400,7 +2432,7 @@ Die Anzeigereichweite ist"
 "XL1000_WEAPON_MP5_DESC","A high rof and high movement speed make this a great all-round weapon.","Niedriger Rückstoß und hohe Bewegungsgeschwindigkeit machen diese Waffe zu einem guten Alleskönner."
 "XL1000_WEAPON_NAILGUN_DESC","A high damage superweapon. Its bullets will bounce off walls and pierce through enemies.","Superwaffe mit extrem hohem Schaden. Feuert Geschosse ab, die Spieler durchschlagen und von Wänden abprallen."
 "XL1000_WEAPON_M3_DESC","Does huge damage at point blank range.","Kann Gegner direkt vor der Mündung sofort umnieten. Dafür ist es schwerer damit auf Distanz zu treffen."
-"XL1000_WEAPON_SPAS_DESC","An auto-shotgun with huge close range DPS. Charge up close and blast your enemies away!","Automatisches Schrotgewehr mit großen Schaden pro Sekunde auf kurzer Distanz. Verfolge deine Gegner und baller sie weg."
+"XL1000_WEAPON_SPAS_DESC","An auto-shotgun with huge close range DPS. Charge up close and blast your enemies away!","Automatisches Schrotgewehr mit großem Schaden pro Sekunde auf kurzer Distanz. Verfolge deine Gegner und baller' sie weg!"
 "XL1000_WEAPON_BLASTCANNON_DESC","An extremely powerful superweapon that fires explosive bullets. You can lob these bullets over walls to attack unsuspecting victims. You can also blast yourself up into the air with its explosive force by aiming at your feet.","Eine sehr mächtige Superwaffe die explosive Geschosse abfeuert. Kann in hohem Bogen über Hindernisse hinweg schiessen. Katapultiert dich in die Luft wenn du auf deine Füße zielst."
 "XL1002_WEAPON_AK47_DESC","Very effective at range, but you'll need to burst fire to control its recoil.","Sehr effektiv in der Distanz. Aber mann muss still stehen bleiben um den Rückstoss zu unterdrücken."
 "XL1000_WEAPON_M4A1_DESC","Accurate and great at range. It's silenced so nearby guards won't hear you fire it.","Schießt schnelle und zielsichere Geschosse die auch in der Entfernung noch ordentlich Wumms haben. Hat einen Schalldämpfer so dass Wachen in der Nähe dich nicht feuern hören."
@@ -2410,7 +2442,7 @@ Die Anzeigereichweite ist"
 "XL1001_WEAPON_MINIGUN_DESC","An extremely high damage superweapon that deals extra damage against zombies.","Eine Superwaffe die extrem viel Schaden anrichten kann. Und besonders effektiv gegen Zombies ist."
 "XL1001_WEAPON_RUGER_DESC","Gives you an extended scope to see further and snipe enemies off screen.","Gibt dir ein Zielfernrohr, mit dem du weiter siehst und Gegner außerhalb des Bildschirms treffen kannst."
 "XL1000_WEAPON_M98B_DESC","The classic sniper rifle. Fires extremely fast and accurate bullets and has a scope for increased view range.","Der Scharfschützen-Klassiker. Feuert schnell und zielgenau und hat ein Fernrohr für ein großes Sichtfeld. Die Kugeln verursachen mehr Schaden, desto weiter sie fliegen."
-"XL1000_WEAPON_PHOTONBEAM_DESC","An extremely long range superweapon that fires a beam of photons that penetrate enemy players and skills. Bullets actually gain damage the further they travel!","Eine Superwaffe mit unglaublicher Reichweite die einen Photonenstrahl abschießt, der gegnerische Spieler und Skills durchschlägt. Riesiger Schaden mit ultimativer Genauigkeit."
+"XL1000_WEAPON_PHOTONBEAM_DESC","An extremely long range superweapon that fires a beam of photons that penetrate enemy players and skills. Bullets actually gain damage the further they travel!","Eine Superwaffe mit unglaublicher Reichweite die einen Photonenstrahl abschießt, der gegnerische Spieler und Skills durchschlägt. Riesiger Schaden mit ultimativer Genauigkeit!"
 "XL1000_WEAPON_MOLOTOV_DESC","Tosses a flaming bottle that explodes on impact. These flames persist and deal damage to anything that travels through them.","Wirft eine brennende Flasche die bei aufprall explodiert. Ein Flammenmeer entsteht das jeden in Brand steckt, der durchläuft."
 "XL1001_WEAPON_FLAREGUN_DESC","Fires a flare that explodes on impact, like a mini bazooka.","Feuert ein Leuchtsignal, was beim Aufkommen explodiert."
 "XL1000_WEAPON_FLAMETHROWER_DESC","An extremely deadly superweapon that shoots fire and ignites anything it touches.","Eine tödliche Superwaffe die Flammen ausstößt und alles in Brand setzt was diese berühren. Die Flammen erzeugen bei Spielern extra Schaden und sind sehr effektiv gegen Zombies."
@@ -2422,7 +2454,7 @@ Die Anzeigereichweite ist"
 "XL1000_GUARD_CHAT_HIT06","Same team!","Gleiches Team!"
 "XL1000_GUARD_CHAT_HIT07","What did I do?","Was habe ich getan?"
 "XL1000_GUARD_CHAT_HIT08","Ok cut it out.","Ok lasse es."
-"XL1000_GUARD_CHAT_HIT09","Can you not?","Bitte aufhören!"
+"XL1000_GUARD_CHAT_HIT09","Can you not?","Kannst du nicht?"
 "XL1000_GUARD_CHAT_HIT10","Please.. no more.","Bitte.. hör auf."
 "XL1000_GUARD_CHAT_SPOT01","Enemy spotted!","Gegner gesichtet!"
 "XL1000_GUARD_CHAT_SPOT02","Attack!!","Hier ist doch jemand!"
@@ -2434,21 +2466,21 @@ Die Anzeigereichweite ist"
 "XL1000_ABILITY_SUPPORT_DESC","Nearby allies support you by slowly regenerating your mana and health.","Verbündete in deiner Nähe regenerieren langsam deine Gesundheit und Mana."
 "XL1000_HOVERTOVIEWSKILLSMENU","Hover here to view the skills menu.","Für das Menü mit der Maus überfahren."
 "XL1000_SKILLQUEUE01","click skills above to add them to the selected queue","klicke Skills an um sie in die Wartenschlange einzureihen"
-"XL1000_SKILLQUEUE02","You cannot queue skills unless you are playing in a Quickmatch.","Du kannst nur im Schnellen Spiel Skills in die Warteschlange einreihen"
+"XL1000_SKILLQUEUE02","You cannot queue skills unless you are playing in a Quickmatch.","Du kannst nur im Schnellen Spiel Skills in die Warteschlange einreihen."
 "XL1001_NC_RESURRECT","Zombie Resurrection","Zombie-Wiederbelebung"
 "XL1000_NC_CHATSERVER","Chat to the Server","Chatte mit dem Server"
 "XL1000_NC_KILLENEMY","Kill a Player","Töte einen Gegner"
-"XL1000_NC_PICKUPGUN","Pick up a Gun","Sammle eine Waffe aus"
-"XL1000_NC_BOOSTVEHICLE","Boost in a Vehicle",""
+"XL1000_NC_PICKUPGUN","Pick up a Gun","Sammle eine Waffe auf"
+"XL1000_NC_BOOSTVEHICLE","Boost in a Vehicle","Beschleunige in einem Fahrzeug"
 "XL1001_NC_RESETSKILLS","Reset Skill Build","Skill Build zurücksetzen"
 "XL1000_NC_UNLOCKSKILLS","Unlock Skills","Schalte eine Fähigkeit frei"
 "XL1000_NC_CASTSKILL","Cast a Skill","Benutze eine Fähigkeit"
 "XL1000_NC_COLLECTSOULS","Collect Souls","Sammle Zombieseelen"
 "XL1000_NC_RETURNSOULS","Return to Bomb","Bring Zombieseelen zur Bombe"
-"XL1000_NC_BUYSYNTHETICSHOP","Buy a Synthetic Shop",""
-"XL1000_NC_PLACESYNTHETICSHOP","Place Shop into Map",""
-"XL1000_NC_USESYNTHETICSHOP","Buy from your Shop",""
-"XL1000_NC_PICKUPCHEMICALS","Pick Up Chemicals",""
+"XL1000_NC_BUYSYNTHETICSHOP","Buy a Synthetic Shop","Kaufe einen Künstlichen Laden"
+"XL1000_NC_PLACESYNTHETICSHOP","Place Shop into Map","Platziere Laden in der Karte"
+"XL1000_NC_USESYNTHETICSHOP","Buy from your Shop","Kaufe von deinem Laden"
+"XL1000_NC_PICKUPCHEMICALS","Pick Up Chemicals","Nehme Chemikalien auf"
 "XL1000_NC_BUYCAPTURER","Buy a Capturer","Kaufe einen Besetzer"
 "XL1000_NC_CAPTURECPOINT","Capture a C. Point","Besetze einen K.punkt"
 "XL1000_NC_CAPTUREOBJECTIVE","Capture Objective","Nimm ein Ziel ein"
@@ -2462,37 +2494,37 @@ Die Anzeigereichweite ist"
 "XL1000_NC_GETSHIFTY","Get Shifty","Nicht nur eine Phase"
 "XL1000_NC_WINTHEGAME","Win the Game","Gewinne das Spiel"
 "XL1000_NC_KNIFEKILL","Get a Knife Kill","Mach' einen Messerkill"
-"XL1000_NC_STARTMISSION","Start a Mission",""
-"XL1000_NC_FINISHMISSION","Finish a Mission",""
+"XL1000_NC_STARTMISSION","Start a Mission","Starte eine Mission"
+"XL1000_NC_FINISHMISSION","Finish a Mission","Erfülle eine Mission"
 "XL1001_NC_RESURRECT_DESC","There are two ways to resurrect - killing a survivor, or finding the Genetic Heart.","Töte einen lebenden Spieler, um sich wiederzubeleben. Oder loote Geld und Waffen für die nächste Runde."
 "XL1002_NC_CHATSERVER_DESC","Press (ENTER) to chat. Say 'wassup' to receive a bonus 20xp!","Drücke (ENTER) zum Chatten. Sage 'hey', um 50Xp zu bekommen!"
-"XL1004_NC_KILLENEMY_DESC","Each kill gives you +1 score, and round wins give you +20.",""
+"XL1004_NC_KILLENEMY_DESC","Each kill gives you +1 score, and round wins give you +20.","Jede Tötung gibt dir +1 Punkt, und jede gewonnene Runde gibt dir +20."
 "XL1001_NC_PICKUPGUN_DESC","Stand on a gun and press (E). Your ammo is shown at the bottom right.","Stell' dich auf eine Waffe und drücke (E). Deine Muni wird unten rechts angezeigt."
-"XL1001_NC_BOOSTVEHICLE_DESC","Enter a car by pressing (E). You can fire out the windows. Hold (Right Mouse) to use its boost.",""
+"XL1001_NC_BOOSTVEHICLE_DESC","Enter a car by pressing (E). You can fire out the windows. Hold (Right Mouse) to use its boost.","Steige in ein Auto, indem du (E) drückst. Du kannst aus den Fenstern schießen. Halte (Rechte Maustaste) um den Boost zu verwenden."
 "XL1007_NC_RESETSKILLS_DESC","Hold (ALT) and click 'Reset Skill Build' from the drop-down skills menu up the top of the screen.","Halte (ALT) und klicke auf 'Skill Build erneuern' vom Drop-Down Skill Menü oben auf dem Bildschirm."
-"XL1006_NC_UNLOCKSKILLS_DESC","Spend 4 skill points on 'Self Repair'. You can buy skill points or reset your build at any time.","Verwende 4 Skill Punkte auf 'Selbstreparation'. Du kannst jederzeit Skillpunkte kaufen oder den Build neu machen."
-"XL1005_NC_CASTSKILL_DESC","Cast Self Repair with Right Click. Collect cash to buy more skill points and become more powerful!","Verwende 'Selbstreparatur' mit Rechtsklick. Sammle Geld, um mehr Skillpunkte zu kaufen und werde stärker!"
+"XL1006_NC_UNLOCKSKILLS_DESC","Spend 2 skill points on 'Self Repair'. You can buy skill points or reset your build at any time.","Verwende 4 Skill Punkte auf 'Selbstreparation'. Du kannst jederzeit Skillpunkte kaufen oder den Build neu machen."
+"XL1005_NC_CASTSKILL_DESC","Cast Self Repair with Right Click. Loot for cash and skill points to become more powerful!","Verwende 'Selbstreparatur' mit Rechtsklick. Sammle Geld, um mehr Skillpunkte zu kaufen und werde stärker!"
 "XL1000_NC_COLLECTSOULS_DESC","This is the Outbreak game mode. To win you need to kill zombies, collect their souls and return them to the bomb.","Die ist der Outbreak Spielmodus. Um zu gewinnen musst du Zombies töten und ihre Seelen zur Bombe bringen. Skills mit großem Flächenschaden sind meist effizienter als Waffen."
 "XL1001_NC_RETURNSOULS_DESC","After collecting souls you need to return them to the bomb. Follow the arrow on your screen to take your souls to the bomb. Hold (TAB) to see your score.","Nachdem du Seelen aufgesammelt hast, bring sie zur Bombe. Du erhältst Punkte, Geld, Mana und Erfahrung für jede zurückgebrachte Seele. Die extra Erfahrung hilft dir durch das Freischalten neuer Skills. Folge den weißen Pfeilen um Seelen zur Bombe zu bringen. Mit [TAB] siehst du die Punktetafel."
-"XL1005_NC_BUYSYNTHETICSHOP_DESC","Buy the 'Synthetic Shop' chemical. When you carry this chemical, your ammo will last longer.",""
-"XL1005_NC_PLACESYNTHETICSHOP_DESC","Place 'Synthetic Shop' by pressing (CTRL). This create a buy zone.",""
-"XL1005_NC_USESYNTHETICSHOP_DESC","Stand in your 'Synthetic Shop' and press (B) and buy ammo.",""
-"XL1005_NC_PICKUPCHEMICAL_DESC","Pick up your chemical by standing in it and pressing (CTRL).",""
+"XL1005_NC_BUYSYNTHETICSHOP_DESC","Buy the 'Synthetic Shop' chemical. When you carry this chemical, your ammo will last longer.","Kaufe die"
+"XL1005_NC_PLACESYNTHETICSHOP_DESC","Place 'Synthetic Shop' with (CTRL). This create a buy zone. It also gives you cash over time.","Platziere den"
+"XL1005_NC_USESYNTHETICSHOP_DESC","Stand in your 'Synthetic Shop' and press (B) and buy ammo.","Steh' in deinem"
+"XL1005_NC_PICKUPCHEMICAL_DESC","Pick up your chemical by standing in it and pressing (CTRL).","Nehme deine Chemikalie auf, indem du drin stehst und (STRG) drückst."
 "XL1004_NC_BUYCAPTURER_DESC","This is the Conquest game mode where you need to capture all of the Control Points in the map. You can do this extra fast with the 'Capturer' chemical. Buy a 'Capturer' chemical from your spawn zone.","Dies ist der Eroberungsmodus, wo du alle Kontrollpunkte auf der Map einnehmen musst. Du kannst das extra schnell mit der 'Einnehmer'-Chemikalie machen. Kaufe sie im Chemieshop im Spawn."
 "XL1003_NC_CAPTURECPOINT_DESC","Capture a point by holding (CTRL) and placing your Capturer on top of it. Hold (TAB) to see scores.","Nehme einen Punkt ein, indem du (Z) drückst und platziere deine Chemikalie da drauf. Halte (TAB), um die Punktzahlen zu sehen."
 "XL1000_NC_CAPTUREOBJECTIVE_DESC","This is the Extraction game mode. Follow the white arrow on your screen to capture the enemy flag.","Dies ist der Extraktionsmodus. Um zu gewinnen musst du Missionsziele extrahieren (Flagge, Radio, Truck). Folge den weißen Pfeilen zum aktuellen Missionsziel."
 "XL1000_NC_EXTRACTOBJECTIVE_DESC","Follow the arrow and take the flag to the enemy flag near your spawn. Hold (TAB) to see your score.","Wenn du ein Ziel eingenommen hast musst du es extrahieren. Folge den weißen Pfeilen zur Extraktionszone. Erfolgreiche Extraktionen geben dir und deinem Team Punkte. Arbeitet zusammen. [TAB] für eine Übersicht."
 "XL1000_NC_CAPTUREBATTERY_DESC","This is the Checkpoint game mode. To win you need do laps with the Battery in a vehicle. Grab a car, then follow the white arrow on your screen to pick up the Battery.","Dies ist der Checkpoint Modus. Um zu gewinnen musst du die Batterie mit einem Fahrzeug mehrere Runden herumfahren. Kaufe ein Fahrzeug und folge den weißen Pfeilen zur Batterie."
 "XL1000_NC_COMPLETELAP_DESC","Follow the white arrow on your screen to drive the battery through each of the checkpoints. Hold (TAB) to see your score.","Sobald du die Batterie hast, musst du sie durch Kontrollpunkte fahren um Runden abzuschließen. Wenn das gegnerische Team die Batterie hat, kannst du sie mit Straßensperren aufhalten. Absolvierte Runden mit der Batterie geben dir und deinem Team Punkte. Arbeitet zusammen. [TAB] für eine Übersicht."
-"XL1004_NC_NEUTRALIZECHEMICAL_DESC","Buy the 'Neutralizer' chemical and place it inside a chemical (yours or an enemies) to destroy it and earn cash (hold CTRL).",""
+"XL1004_NC_NEUTRALIZECHEMICAL_DESC","Buy the 'Neutralizer' chemical and place it inside a chemical (yours or an enemies) to destroy it and earn cash (hold CTRL).","Kaufe die"
 "XL1001_NC_OPENGUIDE_DESC","Press (F10) to finish this tutorial. This opens the How to Play Guide if you want to learn more.","Drücke (F10), um das Tutorial zu beenden. Dies öffnet die 'Wie man spielt' Hilfe, wenn du mehr wissen willst."
 "XL1001_NC_LASTMANSTANDING_DESC","Try to survive the round! This takes 3 minutes and gives +20 score.","Versuche die Runde zu überleben! Das dauert 2 Minuten und gibt +20 Punkte."
 "XL1001_NC_BUYWEAPON_BR_DESC","Stand inside a buy zone (the yellow circles), and press (B) to buy ammo.","Stell dich in eine Kaufzone (gelbe Kreise) und drücke (B), um Munition zu kaufen."
 "XL1000_NC_GETSHIFTY_DESC","Press (SHIFT) to shift. Shifts are shown below your health bar.","Drücke (SHIFT), um zu shiften. Shifts werden unter der HP angezeigt."
-"XL1001_NC_WINTHEGAME_DESC","When you get 50 points you gain extra damage. Then win one final round to win the game!","Sobald du 50 Punkte bekommst, machst du doppelten Schaden. Gewinne dann eine letzte Runde, um das Spiel zu gewinnen!"
+"XL1001_NC_WINTHEGAME_DESC","When you get 60 points you gain extra damage. Then win one final round to win the game!","Sobald du 50 Punkte bekommst, machst du doppelten Schaden. Gewinne dann eine letzte Runde, um das Spiel zu gewinnen!"
 "XL1000_NC_KNIFEKILL_DESC","Select your knife with (3) and hold the mouse to charge it. Once you turn red you can kill in a single shot.","Wähle dein Messer mit (3) aus und halte die Maustaste gedrückt, um es aufzuladen. Sobald es rot ist, kannst du jemanden mit einem Schlag töten."
-"XL1000_NC_STARTMISSION_DESC","Find a civilian with a green text bubble above him and press (E).",""
-"XL1000_NC_FINISHMISSION_DESC","Missions are shown under the minimap. Complete them to gain extra powerful buffs.",""
+"XL1000_NC_STARTMISSION_DESC","Find a civilian with a green text bubble above him and press (E).","Finde einen Zivilisten mit einer grünen Sprechblase über dem Kopf und drücke (E)."
+"XL1000_NC_FINISHMISSION_DESC","Missions are shown above the minimap. Complete them to gain powerful bonuses (shown on the right).","Missionen werden unter der Minimap angezeigt. Erfülle sie, um strake Extras zu erhalten."
 "XL1002_TUTORIALCONTROL01","Throw Grenade","Werfe Granate"
 "XL1003_TUTORIALCONTROL02","Jump","Springen"
 "XL1001_TUTORIALCONTROL03","Rearrange Skills","Skills neu anordnen"
@@ -2510,9 +2542,9 @@ Die Anzeigereichweite ist"
 "XL1000_HELP_HEALTH","Health & Mana","Lebensinfo"
 "XL1000_HELP_WEAPONS","Weapons & Ammo","Waffen & Munition"
 "XL1000_HELP_SKILLS","Active Skills","Aktive Skills"
-"XL1000_HELP_NEWBIECHECKLIST_INFO","Learn to play and earn bonus XP!","Erlerne das Spiel mit der Neulings-Checkliste. Du bekommst für jeden Auftrag extra Erfahrung."
-"XL1001_HELP_TOPBAR_INFO","The player count, timer, and your score are shown here.",""
-"XL1001_HELP_HEALTH_INFO","Your health, mana and shifts are shown down here.",""
+"XL1000_HELP_NEWBIECHECKLIST_INFO","Learn to play and earn bonus XP!","Erlerne das Spiel mit der Neulings-Checkliste. Du bekommst für jeden Auftrag extra XP!"
+"XL1001_HELP_TOPBAR_INFO","The player count, timer, and your score are shown here.","Die Spieleranzahl, der Timer, und deine Punkte werden hier angezeigt."
+"XL1001_HELP_HEALTH_INFO","Your health, mana and shifts are shown down here.","Deine HP, Mana und Shifts sind hier unten zu sehen."
 "XL1000_HELP_WEAPONS_INFO","Press 1, 2, 3 to select weapons, and middle mouse to throw grenades.","Drücke 1, 2, 3, um Waffen auszuwählen und 4 für Granaten."
 "XL1000_HELP_SKILLS_INFO","Press Right Mouse, C & F to cast skills. Hold ALT to buy skill points.","Drücke die rechte Maustaste, C & F um Skills zu nutzen. Halte ALT, um Skillpunkte zu kaufen."
 "XL1000_TUTBASICS","Game Overview","Spiel Übersicht"
@@ -2537,9 +2569,9 @@ Die Anzeigereichweite ist"
 "XL1000_TUTORIALCHEMICALS01","CHEMICALS: HOW DO THEY WORK??","CHEMIKALIEN: WIE FUNKTIONIEREN SIE??"
 "XL1000_TUTORIALCHEMICALS02","BUILDING YOUR CHEMICAL EMPIRE","ERSCHAFFE DEIN CHEMIKALIENIMPERIUM"
 "XL1000_TUTORIALSKILLS01","CREATING THE PERFECT SKILL BUILD","DER PERFEKTE FÄHIGKEITSBAUM"
-"XL1000_TUTORIALSKILLS02","USING YOUR SKILLS.. SKILLFULLY","NUTZE DEINE SKILLS…"
+"XL1000_TUTORIALSKILLS02","USING YOUR SKILLS.. SKILLFULLY","NUTZE DEINE SKILLS"
 "XL1000_TUTORIALEARNINGCASH01","MASTER THE KILL REWARD","VERSTEHE DIE BELOHNUNGEN"
-"XL1000_TUTORIALEARNINGCASH02","EARN A LITTLE EXTRA ON THE SIDE..","VERDIEN WAS NEBENBEI"
+"XL1000_TUTORIALEARNINGCASH02","EARN A LITTLE EXTRA ON THE SIDE..","VERDIENE WAS NEBENBEI.."
 "XL1001_TUTORIALGAMEMODES01","CONQUEST","EROBERUNG"
 "XL1001_TUTORIALGAMEMODES02","STEALTH & OUTBREAK","SCHLEICHEN & OUTBREAK"
 "XL1000_TUTORIALGAMEMODES03","CHECKPOINT","CHECKPOINT"
@@ -2556,9 +2588,9 @@ Die Anzeigereichweite ist"
 "XL1002_TUTORIALGAMEOVERVIEWTEXT05","How do I stop dying?","Wie schaffe ich es nicht zu sterben?"
 "XL1004_TUTORIALGAMEOVERVIEWTEXT06","Stay out of combat for a few seconds to trigger auto-heal. Use vehicles for protection while looting. Unlock healing skills with (ALT). Buy expensive weapons to deal extra damage.","Bleibe kurz aus einem Kampf weg, um dich zu heilen. Kaufe Waffen mit (B), wenn du in einem runden Checkpoint stehst. Schalte Heilungsskills mit (ALT) frei und nutze sie mit Rechtsklick, C und F."
 "XL1000_TUTORIALGAMEOVERVIEWTEXT07","How does scoring work?","Wie funktionert das mit den Punkten?"
-"XL1001_TUTORIALGAMEOVERVIEWTEXT08","You gain +1 point per kill, and +20 points if you're the last man standing. When you reach enough points you'll gain extra damage. The game will then end when you win your next round.",""
+"XL1001_TUTORIALGAMEOVERVIEWTEXT08","You gain +1 point per kill, and +20 points if you're the last man standing. When you reach enough points you'll gain extra damage. The game will then end when you win your next round.","Du erhälst +1 Punkt pro Tötung, und +20 Punkte, wenn du der letzte Überlebende bist. Falls du genug Punkte erreicht hast, erteilst du extra Schaden. Das Spiel endet, wenn du die nächste Runde gewinnst."
 "XL1000_TUTORIALGAMEOVERVIEWTEXT09","What's a good strategy?","Was ist eine gute Strategie?"
-"XL1000_TUTORIALGAMEOVERVIEWTEXT10","Avoid the circle of death and try to stay alive. Survival is key! If you become a zombie use this time to loot for cash. Or try resurrect with the Genetic Heart or by killing a survivor.","Vermeide den Circle of Death und versuche am Leben zu bleiben. Wenn du zum Zombie wirst, nutze die Zeit um Geld, Skills und Chemikalien zu sammeln. Mit Warpfeldern kannst du dich schnell zum Zentrum der Kaufzone teleportieren."
+"XL1000_TUTORIALGAMEOVERVIEWTEXT10","Avoid the circle of death and try to stay alive. Survival is key! If you become a zombie use this time to loot for cash. Or try resurrect with the Genetic Heart or by killing a survivor.","Vermeide die Todeszone und versuche am Leben zu bleiben. Überleben ist alles! Wenn du zum Zombie wirst, nutze die Zeit um Geld, Skills und Chemikalien zu sammeln. Oder du suchst das Genetische Herz bzw. tötest einen Spieler, um wiederbelebt zu werden."
 "XL1000_HELP_PERMANENTSKILLBUILD","Your Permanent Skill Build","Dein permanenter Fähigkeitsbaum"
 "XL1000_HELP_PERMANENTSKILLBUILD_INFO","When you view the skills page through the main menu you're looking at your permanent skill build. This build is only used in permanent multiplayer servers and persists between rounds. This build is not used in quickmatches or the campaign.","Wenn du die Fähigkeitsseite im Hauptmenü ansiehst, dann siehst du deinen permanenten Fähigkeitsbaum. Dieser wird nur in permanenten Spielen verwendet und bleibt zwischen den Runden erhalten. Er wird nicht im Schnellen Spiel oder der Kampagne verwendet."
 "XL1000_HELP_ADVANCEDHOSTINGOPTIONS","Hosting Multiplayer","Erweiterte Hosting-Optionen"
@@ -2588,7 +2620,7 @@ Die Anzeigereichweite ist"
 "XL1000_NEWVERSION01","NEW VERSION: Click here to download","NEUE VERSION: Klicke zum Aktualisieren"
 "XL1000_NEWVERSION02","NEW VERSION: Getting update information","NEUE VERSION: Lade Updateinformationen"
 "XL1000_NEWVERSION03","NEW VERSION REQUIRES MANUAL DOWNLOAD: Download","NEUE VERSION BENÖTIGT MANUELLE INSTALLATION: Lade jetzt"
-"XL1000_NEWVERSION04","at geneshift.net now!!","von www.geneshift.net herunter."
+"XL1000_NEWVERSION04","at geneshift.net now!!","von www.geneshift.net herunter!!"
 "XL1000_NEWVERSION05","DOWNLOADING: Downloading","DOWNLOAD: Lade"
 "XL1000_NEWVERSION06","FINISHED: Restart to complete patch","ABGESCHLOSSEN: Starte das Spiel neu um das Update abzuschließen"
 "XL1000_NEWVERSION07","NEW VERSION RELEASED: Please restart Steam to force an update.","NEW VERSION: Bitte update Gameshift über den Shop."
@@ -2746,7 +2778,7 @@ Die Anzeigereichweite ist"
 "XLCAMP_0000003786073430","Hang on a tick...","Warte kurz..."
 "XLCAMP_0000003208831455","Hang on, lemme look.","Ok, lass mich gucken."
 "XLCAMP_0000002497309140","Have you unlocked those train doors yet?","Hast du schon die Türen entsperrt?"
-"XLCAMP_0000002222312706","He needed ammo and a few health kits. Not dozens of skills!","Er brauchte Muni und ein bisschen Heilung, nicht ein Haufen Skills!"
+"XLCAMP_0000002222312706","He needed ammo and a few health kits. Not dozens of skills!","Er brauchte Munition und ein bisschen Verbandszeug. Nicht ein Haufen Skills!"
 "XLCAMP_0000000206901667","He wasn't meant to get this far! You dropped him too many supplies.","Er sollte nicht so weit kommen! Du hast ihm zu viele Mittel gegeben."
 "XLCAMP_0000003223685186","He's a super mutant. Of course he'd grow powerful.","Er ist ein Supermutant. Natürlich wurde er stark."
 "XLCAMP_0000003819131314","He's around here somewhere...","Er ist irgendwo hier..."
@@ -2782,7 +2814,7 @@ Die Anzeigereichweite ist"
 "XLCAMP_0000001936290902","How convenient...","Wie passend..."
 "XLCAMP_0000001608284869","How did YOU get here?!","Wie kommst DU hier her?!"
 "XLCAMP_0000003106384890","How do I keep forgetting that..","Wieso vergesse ich das immer..."
-"XLCAMP_0000001081350334","How'd you get back there? That's for HQ only. ","Wie bist du zurück gekommen? Das ist nur für Leute ausm Hauptquartier."
+"XLCAMP_0000001081350334","How'd you get back there? That's for HQ only. ","Wie bist du zurück gekommen? Das ist nur für Leute aus'm Hauptquartier."
 "XLCAMP_0000004121862462","How'd you get here?","Wie kommst du hier her?"
 "XLCAMP_0000001867747523","Huh, a Warp Field. That's convenient..","Uh, ein Portal. Wie passend."
 "XLCAMP_0000003092346420","Huh...","Hm..."
@@ -3090,7 +3122,7 @@ Die Anzeigereichweite ist"
 "XLCAMP_0000001535500683","We never should have drugged you fools. You've gone insane!","Wir hätten euch nicht unter Drogen setzen sollen. Ihr seid verrückt!"
 "XLCAMP_0000000049548187","We opened doors to guide you.. Gave you just enough cash to fight.","Wir haben dir Türen geöffnet... Dir genau genug Geld gegeben, um zu kämpfen."
 "XLCAMP_0000003703351059","We spashed around a bit. Pretty cool I guess, though the water smells awful","Wir haben ein bisschen rumgespielt. Ziemlich cool, aber das Wasser schmeckt scheiße"
-"XLCAMP_0000001150722217","We'd drug some Rebels. Then hire someone to save the day.","Wir setzen ein paar Rebellen unter Drogen und holen dann jemanden, der"
+"XLCAMP_0000001150722217","We'd drug some Rebels. Then hire someone to save the day.","Wir setzen ein paar Rebellen unter Drogen und holen dann jemanden, der den Tag rettet."
 "XLCAMP_0000003990463144","We'll destroy the source and save the world!","Wir werden die Quelle zerstören und die Welt retten!"
 "XLCAMP_0000000140529930","We'll kill you!","Wir werden dich killen!"
 "XLCAMP_0000001558194487","We'll load the zombies on when we're done.","Wir laden die Zombies auf, wenn wir fertig sind."
