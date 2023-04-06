@@ -3160,7 +3160,7 @@
 "XL1006_SKILL_PHASEDRIFTING_DESC_01","XL1006_SKILL_PHASEDRIFTING_DESC_01","Makes you move faster but with less control. You deal bonus weapon damage when at max speed. Cast again to toggle off.",""
 "XL1002_SKILL_XRAYVISION_DESC_01","XL1002_SKILL_XRAYVISION_DESC_01","Lets you see through walls by revealing nearby enemies, loot and crates.","Lässt dich durch Wände schauen, indem nahe Gegner und Kisten aufgedeckt werden. Zeigt außerdem Gegner, denen du Schaden zufügst."
 "XL1022_SKILL_BOUNCINGBULLETS_DESC_01","XL1022_SKILL_BOUNCINGBULLETS_DESC_01","Makes your bullets bounce off walls.",""
-"XL1002_SKILL_HYPNOTICARMY_DESC_01","XL1002_SKILL_HYPNOTICARMY_DESC_01","Hypnotizes nearby civilians and cops to follow you and shoot your enemies. Each cast restores your followers' health. Hold ({{%01%}}) and click the map to command them.",""
+"XL1002_SKILL_HYPNOTICARMY_DESC_01","XL1002_SKILL_HYPNOTICARMY_DESC_01","Hypnotizes nearby civilians and cops to follow you and shoot your enemies. Each cast restores your followers' health. Hold ({{%01%}}) and click the map to command them, or click yourself to make them follow you.",""
 "XL1004_SKILL_SPIKETRAP_DESC_01","XL1004_SKILL_SPIKETRAP_DESC_01","Throws a line of spikes onto the ground that damage enemies who walk across it.","Wirft eine Reihe Stacheln auf den Boden, die Gegnern schaden, wenn sie drüber laufen."
 "XL1003_SKILL_SHRAPNEL_DESC_01","XL1003_SKILL_SHRAPNEL_DESC_01","Grenades and other explosives deal more damage, and Molotov's burn for longer.",""
 "XL1011_SKILL_AUTOMATICARMOR_DESC_01","XL1011_SKILL_AUTOMATICARMOR_DESC_01","Protects you when you're hit by an enemy. After triggering it takes time to recharge.",""
