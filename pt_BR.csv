@@ -3194,7 +3194,7 @@
 "XL1002_SKILL_ENERGYVORTEX_DESC_01","XL1002_SKILL_ENERGYVORTEX_DESC_01","Creates a spinning vortex on the ground that slows enemies. You will steal health from each enemy caught inside it.","Cria um vórtice no chão que retarda inimigos. Você pode roubar vida de todos inimigos presos nele."
 "XL1003_SKILL_ENERGIZE_DESC_01","XL1003_SKILL_ENERGIZE_DESC_01","Increases your bullet speed and range.","Aumenta a velocidade do projétil."
 "XL1006_SKILL_PHASEDRIFTING_DESC_01","XL1006_SKILL_PHASEDRIFTING_DESC_01","Makes you move faster but with less control. You deal bonus weapon damage when at max speed. Cast again to toggle off.",""
-"XL1003_SKILL_XRAYVISION_DESC_01","XL1003_SKILL_XRAYVISION_DESC_01","Revealing nearby enemies behind walls and on the mini-map. Also shows loot and crates.",""
+"XL1004_SKILL_XRAYVISION_DESC_01","XL1004_SKILL_XRAYVISION_DESC_01","Reveals nearby enemies behind walls and in the map. Also shows loot and crates.",""
 "XL1022_SKILL_BOUNCINGBULLETS_DESC_01","XL1022_SKILL_BOUNCINGBULLETS_DESC_01","Makes your bullets bounce off walls.",""
 "XL1002_SKILL_HYPNOTICARMY_DESC_01","XL1002_SKILL_HYPNOTICARMY_DESC_01","Hypnotizes nearby civilians and cops to follow you and shoot your enemies. Each cast restores your followers' health. Hold ({{%01%}}) and click the map to command them, or click yourself to make them follow you.",""
 "XL1004_SKILL_SPIKETRAP_DESC_01","XL1004_SKILL_SPIKETRAP_DESC_01","Throws a line of spikes onto the ground that damage enemies who walk across it.",""
