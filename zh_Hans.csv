@@ -3375,7 +3375,7 @@
 "XL1001_NC_LEVELUP","XL1001_NC_LEVELUP","Earn XP & Level Up","获取经验并升级"
 "XL1000_NC_STARTMISSION","XL1000_NC_STARTMISSION","Start a Mission","开始任务"
 "XL1000_NC_FINISHMISSION","XL1000_NC_FINISHMISSION","Finish a Mission","完成任务"
-"XL1438_NC_RESURRECT1_DESC","XL1438_NC_RESURRECT1_DESC","Follow the 'Hearts' arrow to revive! Or collect 4 heart pieces.","跟随"
+"XL1438_NC_RESURRECT1_DESC","XL1438_NC_RESURRECT1_DESC","Follow the 'Hearts' arrow to revive! Or collect 4 heart pieces.","跟随'心'箭头来重生！或者收集4个心之碎片。"
 "XL1438_NC_RESURRECT2_DESC","XL1438_NC_RESURRECT2_DESC","Make sure you revive before overtime! It begins in {{%01%}}.","超时时间开始于{{%01%}}.在那之前赶快重生！"
 "XL1437_NC_RESURRECT3_DESC","XL1437_NC_RESURRECT3_DESC","If you die during overtime, you can keep looting for next round.","如果你在超时时间死去，你可以继续为了下回合收集战利品。"
 "XL1005_NC_CHATSERVER_DESC","XL1005_NC_CHATSERVER_DESC","Hold ({{%01%}}) to send a quick message, or press ({{%02%}}) to chat.","按住({{%01%}})发送快捷信息."
