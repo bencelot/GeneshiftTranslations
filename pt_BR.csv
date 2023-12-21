@@ -3644,7 +3644,7 @@
 "XL1000_NC_COMPLETELAP_DESC","XL1000_NC_COMPLETELAP_DESC","Follow the white arrow on your screen to drive the battery through each of the checkpoints. Hold (TAB) to see scores.","Siga a seta branca na sau tela pra conduzir a bateria pelos checkpoints. Se os inimigos pegarem a Bateria, pode pode tentar colocar uma barricada para impedir eles. Segure [TAB] para ver sua pontuação."
 "XL1006_NC_NEUTRALIZECHEMICAL_DESC","XL1006_NC_NEUTRALIZECHEMICAL_DESC","Stand inside an enemy chemical, hold ({{%01%}}), and select 'Neutralize Chemicals' to destroy it.","Permaneça dentro de um mat. químico inimigo, segure ({{%01%}}) e selecione"
 "XL1001_NC_OPENGUIDE_DESC","XL1001_NC_OPENGUIDE_DESC","Press (F10) to finish this tutorial. This opens the How to Play Guide if you want to learn more.","Aperte (F10) para finalizar o tutorial. Isso abre o guia de como jogar, caso queira aprender mais."
-"XL1461_NC_WINAROUND_DESC","XL1461_NC_WINAROUND_DESC","Reach the final 6 players to get bonus XP for next round!",""
+"XL1462_NC_WINAROUND_DESC","XL1462_NC_WINAROUND_DESC","Level up skills to prepare for the final showdown on round 3!",""
 "XL1461_NC_WINAROUNDTUT_DESC","XL1461_NC_WINAROUNDTUT_DESC","Be the last man standing to finish the tutorial!",""
 "XL1458_NC_WINAROUND_DESC02","XL1458_NC_WINAROUND_DESC02","Tip: Remember to level up your skills.",""
 "XL1462_NC_WINAROUND_DESC03","XL1462_NC_WINAROUND_DESC03","Tip: Stay out of combat to restore your health.",""
