@@ -3795,7 +3795,7 @@
 "XL1000_COULDNOTDETECTSTEAM","XL1000_COULDNOTDETECTSTEAM","Could not detect Steam. Please restart Steam to fix, or get support in Discord.",""
 "XL1000_LOADINGTIP_01","XL1000_LOADINGTIP_01","TIP: Want to get onto a rooftop? Stand on a car and blow it up to launch into the sky.",""
 "XL1003_LOADINGTIP_02","XL1003_LOADINGTIP_02","TIP: During Overtime heart crates no longer drop. Try to be alive when the timer hits 0:00.",""
-"XL1005_LOADINGTIP_03","XL1005_LOADINGTIP_03","TIP: If you die, your Survivor Income will pause. Collect 4 hearts to revive.",""
+"XL1006_LOADINGTIP_03","XL1006_LOADINGTIP_03","TIP: If you die, your Survivor Income is lost. Collect 4 hearts to revive.",""
 "XL1002_LOADINGTIP_04","XL1002_LOADINGTIP_04","TIP: When using a jumppad, you can cancel your motion in mid-air by shifting.",""
 "XL1001_LOADINGTIP_05","XL1001_LOADINGTIP_05","TIP: During overtime you earn bonus cash and XP per kill, and bonus XP in the final 6.",""
 "XL1000_LOADINGTIP_06","XL1000_LOADINGTIP_06","TIP: Aim to buy a tier 2 gun on round 2 and a tier 3 gun on round 3.",""
