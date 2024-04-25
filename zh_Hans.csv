@@ -2214,6 +2214,7 @@
 "XL1000_SQUADAWINSTHEGAME","XL1000_SQUADAWINSTHEGAME","Squad {{%01%}} Wins The Game","队伍 {{%01%}} 赢得了游戏"
 "XL1007_CASUALMODEDESCRIPTION","XL1007_CASUALMODEDESCRIPTION","In casual mode your leaderboard rating won't be affected. You can lose or leave the game early without penalty.","休闲模式下，你的排名不会被影响，你可以直接输掉或提前离开游戏并不会受到惩罚。"
 "XL1008_RANKEDMODEDESCRIPTION","XL1008_RANKEDMODEDESCRIPTION","In ranked, the trophies you earn count towards your rating, based on your average trophies earned per match.","在排位模式，你会基于你的最终分数获得奖杯，奖杯被用于决定你的排位名次，提前离开游戏不会获得任何奖杯并减少你的排名。"
+"XL1008_RANKEDMODEDESCRIPTION2","XL1008_RANKEDMODEDESCRIPTION2","Higher ranks give you bonus ACID and URANIUM every month! You'll also earn +{{%01%}}% end of match XP.",""
 "XL1007_RANKEDMODEISDISABLED","XL1007_RANKEDMODEISDISABLED","You can enabled ranked mode at level {{%01%}}.","你可以在等级{{%01%}}。时启用排位模式。"
 "XL1007_RANKEDMODEISDISABLEDFROMLOBBY","XL1007_RANKEDMODEISDISABLEDFROMLOBBY","You can't play ranked if you join via the server lobby.","如果你从服务器大厅中选择服务器则无法游玩排位模式。"
 "XL1006_HARDCOREMODEDESC01","XL1006_HARDCOREMODEDESC01","Damage Taken:","受到伤害："

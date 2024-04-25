@@ -2214,6 +2214,7 @@
 "XL1000_SQUADAWINSTHEGAME","XL1000_SQUADAWINSTHEGAME","Squad {{%01%}} Wins The Game","Geschwader {{%01%}} Gewinnt Das Spiel"
 "XL1007_CASUALMODEDESCRIPTION","XL1007_CASUALMODEDESCRIPTION","In casual mode your leaderboard rating won't be affected. You can lose or leave the game early without penalty.","Ein lockeres Spiel beeinfluss deine Wertung nicht. Du kannst Spiele verlieren oder verlassen, ohne bestraft zu werden."
 "XL1008_RANKEDMODEDESCRIPTION","XL1008_RANKEDMODEDESCRIPTION","In ranked, the trophies you earn count towards your rating, based on your average trophies earned per match.","In gewerteten Spielen kannst du Trophäen verdienen, die die Basis deiner Wertung bilden."
+"XL1008_RANKEDMODEDESCRIPTION2","XL1008_RANKEDMODEDESCRIPTION2","Higher ranks give you bonus ACID and URANIUM every month! You'll also earn +{{%01%}}% end of match XP.",""
 "XL1007_RANKEDMODEISDISABLED","XL1007_RANKEDMODEISDISABLED","You can enabled ranked mode at level {{%01%}}.","Gewertete Spiele kannst du ab Level {{%01%}} freischalten."
 "XL1007_RANKEDMODEISDISABLEDFROMLOBBY","XL1007_RANKEDMODEISDISABLEDFROMLOBBY","You can't play ranked if you join via the server lobby.","Gewertete Spiele sind über die Server Lobby nicht möglich."
 "XL1006_HARDCOREMODEDESC01","XL1006_HARDCOREMODEDESC01","Damage Taken:","Schaden Erlitten:"

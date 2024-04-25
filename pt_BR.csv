@@ -2214,6 +2214,7 @@
 "XL1000_SQUADAWINSTHEGAME","XL1000_SQUADAWINSTHEGAME","Squad {{%01%}} Wins The Game",""
 "XL1007_CASUALMODEDESCRIPTION","XL1007_CASUALMODEDESCRIPTION","In casual mode your leaderboard rating won't be affected. You can lose or leave the game early without penalty.",""
 "XL1008_RANKEDMODEDESCRIPTION","XL1008_RANKEDMODEDESCRIPTION","In ranked, the trophies you earn count towards your rating, based on your average trophies earned per match.",""
+"XL1008_RANKEDMODEDESCRIPTION2","XL1008_RANKEDMODEDESCRIPTION2","Higher ranks give you bonus ACID and URANIUM every month! You'll also earn +{{%01%}}% end of match XP.",""
 "XL1007_RANKEDMODEISDISABLED","XL1007_RANKEDMODEISDISABLED","You can enabled ranked mode at level {{%01%}}.",""
 "XL1007_RANKEDMODEISDISABLEDFROMLOBBY","XL1007_RANKEDMODEISDISABLEDFROMLOBBY","You can't play ranked if you join via the server lobby.",""
 "XL1006_HARDCOREMODEDESC01","XL1006_HARDCOREMODEDESC01","Damage Taken:",""
