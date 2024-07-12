@@ -2532,7 +2532,7 @@
 "XL1000_OLDVERSION","XL1000_OLDVERSION","Your version is out of date. Please restart Steam to force an update.","Tu versión está desactualizada. Por favor reinicia Steam para forzar una actualización."
 "XL1000_OLDVERSIONNOSTEAM","XL1000_OLDVERSIONNOSTEAM","Your version is out of date. Please switch to the free version on Steam to gain auto-updates! You can log in with the same account.","Tu versión está desactualizada. ¡Por favor cambia a la versión gratuita en steam para ganar actualizaciones automáticas! Puedes iniciar sesión con la misma cuenta."
 "XL1000_FAILEDTOREGISTER","XL1000_FAILEDTOREGISTER","Failed to register new username. Please try again.","Fallo al registrar nuevo nombre de usuario. Por favor intenta de nuevo."
-"XL1000_SERVERSAREDOWN","XL1000_SERVERSAREDOWN","Gene Shift Auto's servers are down for emergency maintenance. Please try again in a few minutes!","Los servidores de Gene Shift Auto están deshabilitados debido a mantenimiento de emergencia. ¡Por favor intenta de nuevo en unos minutos!"
+"XL1001_SERVERSAREDOWN","XL1001_SERVERSAREDOWN","The servers are down for temporary maintenance. Please try again in a few minutes!",""
 "XL1000_USERNAMENOTFOUND","XL1000_USERNAMENOTFOUND","The username you entered could not be found.","El nombre de usuario que ingresaste no pudo ser encontrado."
 "XL1000_MUSTBEAFRIENDONSTEAM","XL1000_MUSTBEAFRIENDONSTEAM","You must be friends with this person on Steam to add them as a recruit.","Para limitar el abuso, primero debes ser amigo de esta persona en Steam."
 "XL1000_INCORRECTPASSWORD1","XL1000_INCORRECTPASSWORD1","The password you entered is incorrect.","La contraseña que ingresaste es incorrecta."
