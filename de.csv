@@ -2488,6 +2488,7 @@
 "XL1002_DLC_2X_LEGEFLASKS","XL1002_DLC_2X_LEGEFLASKS","+{{%01%}} Lege Flasks",""
 "XL1003_BOOSTERPACK","XL1003_BOOSTERPACK","BOOSTER PACK",""
 "XL1004_STARTERPACK_DESSC","XL1004_STARTERPACK_DESSC","Permanently gain +{{%01%}}% XP after every match, and get these rewards worth {{%02%}} uranium!",""
+"XL1004_URANIUMPACKS_DESC","XL1004_URANIUMPACKS_DESC","Limited to once per week you can buy Uranium at {{%01%}}X value. Thanks for supporting Gene Shift Auto!",""
 "XL1003_TUTORIALBONUSOFFER","XL1003_TUTORIALBONUSOFFER","Tutorial Bonus Offer!",""
 "XL1002_TUTORIALOFFER_DESC","XL1002_TUTORIALOFFER_DESC","This tutorial offer is all upside! Spend {{%01%}} uranium to get {{%02%}} uranium and a bonus XP Flask!",""
 "XL1002_WEEKLYDEAL","XL1002_WEEKLYDEAL","WEEKLY DEAL",""
