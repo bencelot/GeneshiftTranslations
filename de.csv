@@ -3717,7 +3717,7 @@
 "XL1000_SKILL_MEDICALSUPPLIES_DESC_01","XL1000_SKILL_MEDICALSUPPLIES_DESC_01","All loot restores your health. Also, shooting crates causes their loot to fly towards you.","Wenn du Beute sammelst, stellst du Gesundheit wieder her. Wenn du auf eine Kiste schießt, ziehst du die Beute an."
 "XL1002_SKILL_RAMBULANCE_DESC_01","XL1002_SKILL_RAMBULANCE_DESC_01","Your vehicles drive faster, heal you, and deal extra collision damage. The heal briefly continues after you exit the vehicle.","Deine Fahrzeuge sind schneller, heilen dich, und verursachen mehr Schaden beim Rammen. Auch nach dem Aussteigen wirst du weiterhin kurz geheilt."
 "XL1001_SKILL_ARMEDROBBERY_DESC_01","XL1001_SKILL_ARMEDROBBERY_DESC_01","Killing vendors sometimes drops rare loot.","Wenn du Händler tötest, lassen diese manchmal Beute fallen."
-"XL1000_SKILL_FLYINGDAGGER_DESC_01","XL1000_SKILL_FLYINGDAGGER_DESC_01","You can throw your knife with extra damage and range.","Du kannst dein Messer werfen. Es verursacht mehr Schaden."
+"XL1002_SKILL_FLYINGDAGGER_DESC_01","XL1002_SKILL_FLYINGDAGGER_DESC_01","You can throw your knife at long range.",""
 "XL1000_SKILL_POISONTRAIL_DESC_01","XL1000_SKILL_POISONTRAIL_DESC_01","You leave a trail of poison wherever you walk, damaging enemies who step in it.","Du hinterlässt eine giftige Spur, welche deinen Gegnern Schaden verursacht."
 "XL1000_SKILL_REVENGEROCKET_DESC_01","XL1000_SKILL_REVENGEROCKET_DESC_01","Bazookas spin around you and automatically fire back at enemies when they shoot you.","Bazookas umkreisen dich. Sie feuern automatisch auf Gegner, welche dich angreifen."
 "XL1004_SKILL_TOXICBLOOD_DESC_SHORT","XL1004_SKILL_TOXICBLOOD_DESC_SHORT","Kills create toxic puddles.","Tötungen erschaffen giftige Pfützen."
