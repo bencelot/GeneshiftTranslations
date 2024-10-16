@@ -3757,7 +3757,7 @@
 "XL1008_SKILL_ILLICITINCOME_DESC_01","XL1008_SKILL_ILLICITINCOME_DESC_01","Gives more cash and xp from killing players and cops. Especially at high wanted levels.","通过击杀玩家和警察获得更多现金和xp。尤其是在通缉级别较高的情况下。"
 "XL1009_SKILL_MANICMECHANIC_DESC_01","XL1009_SKILL_MANICMECHANIC_DESC_01","Deal extra damage vs vehicles, and gain bonus cash and XP for destroying them.","对载具造成额外伤害，并且摧毁他们获得额外经验和现金。"
 "XL1001_SKILL_VAMPIRISM_DESC_01","XL1001_SKILL_VAMPIRISM_DESC_01","Restores health by a percentage of the damage you deal to enemies.","根据你造成伤害的百分比恢复生命值。"
-"XL1007_SKILL_REGENERATION_DESC_01","XL1007_SKILL_REGENERATION_DESC_01","Restores your health when you're not firing your gun.","当你不射击时被动恢复生命值。"
+"XL1008_SKILL_REGENERATION_DESC_01","XL1008_SKILL_REGENERATION_DESC_01","Restores your health when not shooting.",""
 "XL1005_SKILL_SELFREPAIR_DESC_01","XL1005_SKILL_SELFREPAIR_DESC_01","Heals yourself and nearby allies.","治疗你自己和周围友军。"
 "XL1006_SKILL_FORCEFIELDS_DESC_01","XL1006_SKILL_FORCEFIELDS_DESC_01","Creates a shield that blocks enemy bullets and bounces them back at enemies.","创建一个护盾并且阻拦并反弹子弹回敌人。"
 "XL1009_SKILL_INVISIBILITY_DESC_01","XL1009_SKILL_INVISIBILITY_DESC_01","Makes you invisible. You'll be revealed if you stand near an enemy, and you'll briefly deal less damage when Invis ends.","使你无法被看见，你将会在靠近敌人过近时被显示并在破隐时造成更少伤害。"

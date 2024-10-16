@@ -3757,7 +3757,7 @@
 "XL1008_SKILL_ILLICITINCOME_DESC_01","XL1008_SKILL_ILLICITINCOME_DESC_01","Gives more cash and xp from killing players and cops. Especially at high wanted levels.","Gives more cash and xp from killing players and cops. Especially at high wanted levels."
 "XL1009_SKILL_MANICMECHANIC_DESC_01","XL1009_SKILL_MANICMECHANIC_DESC_01","Deal extra damage vs vehicles, and gain bonus cash and XP for destroying them.","Deal extra damage vs vehicles, and gain bonus cash and XP for destroying them."
 "XL1001_SKILL_VAMPIRISM_DESC_01","XL1001_SKILL_VAMPIRISM_DESC_01","Restores health by a percentage of the damage you deal to enemies.","Restores health by a percentage of the damage you deal to enemies."
-"XL1007_SKILL_REGENERATION_DESC_01","XL1007_SKILL_REGENERATION_DESC_01","Restores your health when you're not firing your gun.","Restores your health when you're not firing your gun."
+"XL1008_SKILL_REGENERATION_DESC_01","XL1008_SKILL_REGENERATION_DESC_01","Restores your health when not shooting.","Restores your health when not shooting."
 "XL1005_SKILL_SELFREPAIR_DESC_01","XL1005_SKILL_SELFREPAIR_DESC_01","Heals yourself and nearby allies.","Heals yourself and nearby allies."
 "XL1006_SKILL_FORCEFIELDS_DESC_01","XL1006_SKILL_FORCEFIELDS_DESC_01","Creates a shield that blocks enemy bullets and bounces them back at enemies.","Creates a shield that blocks enemy bullets and bounces them back at enemies."
 "XL1009_SKILL_INVISIBILITY_DESC_01","XL1009_SKILL_INVISIBILITY_DESC_01","Makes you invisible. You'll be revealed if you stand near an enemy, and you'll briefly deal less damage when Invis ends.","Makes you invisible. You'll be revealed if you stand near an enemy, and you'll briefly deal less damage when Invis ends."
