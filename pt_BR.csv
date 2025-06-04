@@ -321,6 +321,8 @@
 "XL1000_COOPSURVIVALRUNSLOCKED","Co-op Survival Runs (DLC Only)","Sobrevivência Cooperativa (requer DLC)","XL1000_COOPSURVIVALRUNSLOCKED"
 "XL1001_ALLBRMODES","All BR Modes: +{{%01%}}% XP","Todos os modos de BR: +{{%01%}}% de EXP","XL1001_ALLBRMODES"
 "XL1001_ALLMODES_HOVER","Prioritizes ping & fuller servers","Priorizar ping e servidores cheios","XL1001_ALLMODES_HOVER"
+"XL1001_NEWBIE_BR","Newbie Battle Royale (Solos)","","XL1001_NEWBIE_BR"
+"XL1001_NEWBIE_BR_SUBTEXT","Fight newbies with simpler mechanics","","XL1001_NEWBIE_BR_SUBTEXT"
 "XL1000_BRCOOPSQUADS","Squads","Equipes Co-op","XL1000_BRCOOPSQUADS"
 "XL1000_SQUAD","Squad","Equipe","XL1000_SQUAD"
 "XL1000_BRTEAMS","Teams","Equipes","XL1000_BRTEAMS"
