@@ -2793,7 +2793,7 @@
 "XL1002_ACID_PASS_ACID_DAILY","+{{%01%}} Daily x {{%02%}} Days","+{{%01%}}每日x{{%02%}}天","XL1002_ACID_PASS_ACID_DAILY"
 "XL1002_ACID_PASS_X_TOTAL_ACID","{{%01%}} Total ACID!","{{%01%}}总酸液!","XL1002_ACID_PASS_X_TOTAL_ACID"
 "XL1002_XDAYSLEFT","{{%01%}} DAYS LEFT","还剩{{%01%}}天","XL1002_XDAYSLEFT"
-"XL1010_BASICACCOUNTDESC00","Instantly get 30 levels, 3x faster ACID, and exclusive rewards. Unlock powerful abilities and perfect your build!","","XL1010_BASICACCOUNTDESC00"
+"XL1011_BASICACCOUNTDESC00","Instantly get {{%01%}} levels, {{%02%}}x faster ACID, and exclusive rewards. Unlock powerful abilities and perfect your build!","","XL1011_BASICACCOUNTDESC00"
 "XL1001_SPECIALPROMOTION","Get the DLC Free!","免费获取DLC！！","XL1001_SPECIALPROMOTION"
 "XL1001_SPECIALPROMOTION_DESC","This month, if you tell {{%01%}} friends about Gene Shift Auto you'll get the DLC for FREE!","这个月，如果你告诉了{{%01%}}朋友来玩GeneShiftAuto，你会免费获取这款游戏！","XL1001_SPECIALPROMOTION_DESC"
 "XL1002_TELLFRIENDSANDGETREWARDS","Tell Friends and Get Rewards!","告诉朋友并获取奖励！","XL1002_TELLFRIENDSANDGETREWARDS"

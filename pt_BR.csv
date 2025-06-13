@@ -2793,7 +2793,7 @@
 "XL1002_ACID_PASS_ACID_DAILY","+{{%01%}} Daily x {{%02%}} Days","","XL1002_ACID_PASS_ACID_DAILY"
 "XL1002_ACID_PASS_X_TOTAL_ACID","{{%01%}} Total ACID!","","XL1002_ACID_PASS_X_TOTAL_ACID"
 "XL1002_XDAYSLEFT","{{%01%}} DAYS LEFT","","XL1002_XDAYSLEFT"
-"XL1010_BASICACCOUNTDESC00","Instantly get 30 levels, 3x faster ACID, and exclusive rewards. Unlock powerful abilities and perfect your build!","","XL1010_BASICACCOUNTDESC00"
+"XL1011_BASICACCOUNTDESC00","Instantly get {{%01%}} levels, {{%02%}}x faster ACID, and exclusive rewards. Unlock powerful abilities and perfect your build!","","XL1011_BASICACCOUNTDESC00"
 "XL1001_SPECIALPROMOTION","Get the DLC Free!","Pegue o DLC de graça!","XL1001_SPECIALPROMOTION"
 "XL1001_SPECIALPROMOTION_DESC","This month, if you tell {{%01%}} friends about Gene Shift Auto you'll get the DLC for FREE!","Neste mês, se você chamar {{%01%}} amigo(s) para o Gene Shift Auto, você ganhará a DLC de graça!","XL1001_SPECIALPROMOTION_DESC"
 "XL1002_TELLFRIENDSANDGETREWARDS","Tell Friends and Get Rewards!","Chame os amigos e receba recompensas!","XL1002_TELLFRIENDSANDGETREWARDS"
